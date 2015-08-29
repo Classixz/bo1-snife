@@ -7,9 +7,12 @@ init()
 	
 	level.DevMode = true; //Cheats
 	
+	level thread maps\mp\snife\_precache::precacheWeapons();
+	
 	level thread onPlayerConnect();
 	level thread randomNextGame();
 	level thread doDvars();
+	level thread maps\mp\snife\_vips::PlayerList();
 }
 
 doDvars()
@@ -48,6 +51,7 @@ onPlayerSpawned()
 		self clearPerks();
 		self maps\mp\gametypes\_class::setKillstreaks( "none", "none", "none" );
 		self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
+		self thread maps\mp\snife\_vips::LoadOuts();
 
 		cur_gm = GetDvar("g_gametype");
 
