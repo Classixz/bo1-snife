@@ -1,0 +1,1863 @@
+Build 7.0.189 CL(1022875) CODPCAB-V64 CEG Wed Nov 02 18:02:23 2011
+logfile opened on Sat Aug 29 09:57:13 2015
+
+Can play online (controller: 0): true
+    false - Live_UserIsGuest( controller: 0 )
+    true - Live_IsUserSignedInToLive( controller: 0 )
+    true - Live_IsUserSignedInToDemonware( controller: 0 )
+    true - LiveStorage_DoWeHavePlaylists()
+    true - LiveStorage_DoWeHaveAllStats( controller: 0 )
+    true - LiveStorage_IsTimeSynced()
+    true - LiveStorage_DoWeHaveContracts()
+Timestamp: SV_SpawnServer UTC GMT 1440860233
+Received NULL inputBuffer in MatchRecord_InitMatchData setting static buffer to 0
+      dvar set ui_mapname mp_nuked
+      dvar set popup_open 1
+setFocus: could not find widget named 'popup_hide'
+      dvar set ui_bg_image 
+      dvar set didyouknow @MPTIP_MOTION_SENSOR_TIP
+      dvar set nextmap 
+      dvar set uiViewer_loaded 0
+------ Server Initialization ------
+Server: mp_nuked
+      dvar set sv_running 1
+WARNING: Skip DLC5 SP only iw_36.iwd in \main.
+WARNING: Skip DLC5 SP only iw_37.iwd in \main.
+WARNING: Skip DLC5 SP only iw_38.iwd in \main.
+WARNING: Skip DLC5 SP only iw_39.iwd in \main.
+WARNING: Skip DLC5 SP only iw_40.iwd in \main.
+WARNING: Skip DLC5 SP only iw_41.iwd in \main.
+Current language: english
+Current search path:
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops/mods/mp_UU_snife
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops/usermaps
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_35.iwd (170 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_34.iwd (511 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_33.iwd (1056 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_32.iwd (223 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_31.iwd (86 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_30.iwd (1100 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_29.iwd (903 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_28.iwd (99 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_27.iwd (137 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_26.iwd (1223 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_25.iwd (164 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_24.iwd (303 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_23.iwd (2431 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_22.iwd (52 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_21.iwd (49 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_20.iwd (60 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_19.iwd (74 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_18.iwd (50 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_17.iwd (175 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_16.iwd (347 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_15.iwd (486 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_14.iwd (297 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_13.iwd (669 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_12.iwd (735 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_11.iwd (1020 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_10.iwd (1572 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_09.iwd (1434 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_08.iwd (1390 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_07.iwd (533 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_06.iwd (880 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_05.iwd (1848 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_04.iwd (2222 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_03.iwd (600 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_02.iwd (517 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_01.iwd (988 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\iw_00.iwd (1221 files)
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops/main
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops/main_shared
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops/players
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw14.iwd (437 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw13.iwd (2439 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw12.iwd (19 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw11.iwd (456 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw10.iwd (2168 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw09.iwd (1876 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw08.iwd (1841 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw07.iwd (1815 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw06.iwd (1366 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw05.iwd (1386 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw04.iwd (2511 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw03.iwd (2700 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw02.iwd (2111 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw01.iwd (3348 files)
+    localized assets iwd file for english
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\main\localized_English_iw00.iwd (162 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: console_mp.log
+----------------------
+201040 files in iwd files
+----- R_Init -----
+Video memory for device: 965 MB.
+Rounded video memory size: 512 MB.
+DirectX reports 512 MB of video memory and 3956 MB of available texture memory.
+Using video memory size to cap used texture memory at 496 MB.
+Picmip is set manually.
+Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+Error: Could not load image "$g16r16".
+Error: Could not load image "$r5g6b5".
+Error: Could not load image "$blacktransparent".
+Error: Could not load material "$floatz_donotremove".
+Error: Could not load material "$processed_floatz_donotremove".
+Error: Could not load material "$ps3_aadownsample_donotremove".
+Error: Could not load material "particle_blend_donotremove".
+Error: Could not load material "particle_zdownsample_donotremove".
+Error: Could not load material "redact1".
+Error: Could not load material "redact2".
+Error: Could not load material "redact3".
+Error: Could not load material "bloom_mip3_blur".
+Error: Could not load material "$ps3_reload_zcull_donotremove".
+Cmd_AddCommand: setClanName already defined
+Cmd_AddCommand: checkClanName already defined
+Cmd_AddCommand: loadMaps already defined
+Cmd_AddCommand: refresh_filter already defined
+FS_GetModList: failed to open common_zombie/description.txt
+FS_GetModList: failed to open mp_FroZenSniperMod/description.txt
+FS_GetModList: failed to open mp_HnS/description.txt
+FS_GetModList: failed to open mp_imagetest/description.txt
+FS_GetModList: failed to open mp_Juggernaut/description.txt
+FS_GetModList: failed to open mp_mlg_mod/description.txt
+FS_GetModList: failed to open mp_primex_from_rollon/description.txt
+FS_GetModList: failed to open mp_rollonsguns/description.txt
+FS_GetModList: failed to open mp_rollon_afterlife/description.txt
+FS_GetModList: failed to open mp_rollon_awp/description.txt
+FS_GetModList: failed to open mp_rollon_b23r/description.txt
+FS_GetModList: failed to open mp_rollon_blunderbuss/description.txt
+FS_GetModList: failed to open mp_rollon_bounce/description.txt
+FS_GetModList: failed to open mp_rollon_camo_tests/description.txt
+FS_GetModList: failed to open mp_rollon_csgo/description.txt
+FS_GetModList: failed to open mp_rollon_evopro/description.txt
+FS_GetModList: failed to open mp_rollon_five_seven_tactical/description.txt
+FS_GetModList: failed to open mp_rollon_honeybadger/description.txt
+FS_GetModList: failed to open mp_rollon_kf5/description.txt
+FS_GetModList: failed to open mp_rollon_m40_tence/description.txt
+FS_GetModList: failed to open mp_rollon_msbs/description.txt
+FS_GetModList: failed to open mp_rollon_mw2/description.txt
+FS_GetModList: failed to open mp_rollon_origins/description.txt
+FS_GetModList: failed to open mp_rollon_r5/description.txt
+FS_GetModList: failed to open mp_rollon_soundTut/description.txt
+FS_GetModList: failed to open mp_rollon_spas_mod/description.txt
+FS_GetModList: failed to open mp_rollon_staff/description.txt
+FS_GetModList: failed to open mp_rollon_storm/description.txt
+FS_GetModList: failed to open mp_rollon_swat556/description.txt
+FS_GetModList: failed to open mp_rollon_titus/description.txt
+FS_GetModList: failed to open mp_rollon_vex/description.txt
+FS_GetModList: failed to open mp_rollon_zoms/description.txt
+FS_GetModList: failed to open mp_SniperMod/description.txt
+FS_GetModList: failed to open mp_tencetest/description.txt
+FS_GetModList: failed to open mp_tence_psg_uk/description.txt
+FS_GetModList: failed to open mp_UU_snife/description.txt
+FS_GetModList: failed to open mp_xkmlive11/description.txt
+FS_GetModList: failed to open mp_ZAM7_FINAL/description.txt
+FS_GetModList: failed to open mp_ZAMv7_PLS_WORK_2/description.txt
+FS_GetModList: failed to open mp_ZEMv4/description.txt
+FS_GetModList: failed to open mp_ZEMv4_1/description.txt
+FS_GetModList: failed to open mp_ZM/description.txt
+FS_GetModList: failed to open mp_ZombieAnnihilationV7/description.txt
+FS_GetModList: failed to open mp_ZombieAnnihilation_1_6/description.txt
+FS_GetModList: failed to open mp_ZombieSenseMod/description.txt
+FS_GetModList: failed to open mp_^5FroZen_Sniper_Mod/description.txt
+FS_GetModList: failed to open nacht_mod/description.txt
+FS_GetModList: failed to open peter_grave_confirmed/description.txt
+FS_GetModList: failed to open shangrila_ee_unlock/description.txt
+FS_GetModList: failed to open tesla_on_spawn/description.txt
+FS_GetModList: failed to open trigger_testing/description.txt
+FS_GetModList: failed to open updated_pap/description.txt
+FS_GetModList: failed to open zm_hbra3/description.txt
+FS_GetModList: failed to open zm_ice_camo/description.txt
+FS_GetModList: failed to open zm_ice_camo_mk2/description.txt
+FS_GetModList: failed to open zm_relaxing_dual_wield/description.txt
+FS_GetModList: failed to open zm_relaxing_light_blunder/description.txt
+FS_GetModList: failed to open zm_relaxing_msbsms/description.txt
+FS_GetModList: failed to open zm_relaxing_wind_mk2_mg_blu/description.txt
+FS_GetModList: failed to open zm_relaxing_wind_rgm2/description.txt
+FS_GetModList: failed to open zm_rollongunmod/description.txt
+FS_GetModList: failed to open zm_rollon_asc_ee/description.txt
+FS_GetModList: failed to open zm_rollon_dr_ee/description.txt
+FS_GetModList: failed to open zm_rollon_vex/description.txt
+FS_GetModList: failed to open zm_soe_jingles/description.txt
+FS_GetModList: failed to open zm_soe_jingles_2/description.txt
+FS_GetModList: failed to open zm_storm_and_titus/description.txt
+FS_GetModList: failed to open zm_titanfall/description.txt
+FS_GetModList: failed to open zombie_coast_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_asylum_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_factory_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_prototype_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_sumpf_patch/description.txt
+FS_GetModList: failed to open zombie_cosmodrome_patch/description.txt
+FS_GetModList: failed to open zombie_moon_patch/description.txt
+FS_GetModList: failed to open zombie_pentagon_patch/description.txt
+FS_GetModList: failed to open zombie_temple_patch/description.txt
+FS_GetModList: failed to open zombie_theater_patch/description.txt
+Customized arena file not found: mod.arena
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_status 
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+Unloading assets from fastfile 'ui_mp' and creating default assets stubs
+Unloading assets from fastfile 'en_ui_mp' and creating default assets stubs
+Unloading assets from fastfile 'patch_ui_mp' and creating default assets stubs
+Unloading assets from fastfile 'ui_viewer_mp' and creating default assets stubs
+Unloaded fastfile 'ui_mp'
+PMem_Free( ui_mp, Low )
+PMem_Free( ui_mp, High )
+Unloaded fastfile 'en_ui_mp'
+PMem_Free( en_ui_mp, Low )
+PMem_Free( en_ui_mp, High )
+Unloaded fastfile 'patch_ui_mp'
+PMem_Free( patch_ui_mp, Low )
+PMem_Free( patch_ui_mp, High )
+Unloaded fastfile 'ui_viewer_mp'
+PMem_Free( ui_viewer_mp, Low )
+PMem_Free( ui_viewer_mp, High )
+Adding fastfile 'en_mp_nuked' to queue
+Adding fastfile 'mp_nuked' to queue
+      dvar set nextmap map_restart
+Loading fastfile 'en_mp_nuked'
+used 0.20 MB memory in DB alloc
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+Loading fastfile 'mp_nuked'
+used 70.04 MB memory in DB alloc
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+Waited 2701 msec for asset 'maps/mp/mp_nuked.d3dbsp' of type 'col_map_mp'.
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_status Awaiting challenge...2
+Redundant asset: 'techset','mc_tools'
+Error: Waited 1343 msec for missing asset "mp/configstrings/configstrings_pc_mp_nuked_dm_knife.csv".
+Error: Could not load stringtable "mp/configstrings/configstrings_pc_mp_nuked_dm_knife.csv".
+Calling dwCreateSession (gameSession [00000000]) with controller 0 as the host (flags are 9), 32 public and 0 private slots
+      dvar set sv_ranked -1
+'-1' is not a valid value for dvar 'sv_ranked'
+  Domain is any integer from 0 to 5
+------- Game Initialization -------
+gamename: Call of Duty®
+gamedate: Nov  2 2011
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+Error: Could not load weapon "python_speed_snub_mp".
+Error: Could not load weapon "python_acog_snub_mp".
+Error: Could not load weapon "python_acog_speed_mp".
+Error: Could not load weapon "python_acog_speed_snub_mp".
+Dog_CreateAnims
+codescripts/delete
+codescripts/struct
+maps/mp/_destructible
++maps/mp/_utility
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+++common_scripts/utility
+++maps/mp/gametypes/_hud_util
+++maps/mp/_createfx
++++maps/mp/_createfxmenu
++++maps/mp/_fx
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++maps/mp/gametypes/_spawnlogic
+++++maps/mp/gametypes/_callbacksetup
++++++maps/mp/_audio
++++++maps/mp/gametypes/_globallogic
+++++++maps/mp/_burnplayer
++++++++maps/mp/gametypes/_globallogic_player
+++++++++maps/mp/gametypes/_hardpoints
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++maps/mp/_airsupport
+++++++++++maps/mp/gametypes/_weapons
++++++++++++maps/mp/_flashgrenades
+++++++++++++maps/mp/gametypes/_globallogic_score
++++++++++++++maps/mp/gametypes/_globallogic_utils
+++++++++++++++maps/mp/gametypes/_hud_message
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++++++++maps/mp/_laststand
+++++++++++++++++maps/mp/gametypes/_gameobjects
++++++++++++++++++maps/mp/gametypes/_objpoints
++++++++++++++++++maps/mp/gametypes/_hostmigration
+++++++++++++++++++maps/mp/gametypes/_hud
++++++++++++++++++maps/mp/_radar
+++++++++++++++++++maps/mp/gametypes/_tweakables
+++++++++++++++++++maps/mp/_killstreakrules
++++++++++++++++++++maps/mp/_popups
+++++++++++++++++++++maps/mp/gametypes/_persistence
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++++++++++++++maps/mp/gametypes/_class
+++++++++++++++++++++++maps/mp/gametypes/_customclasses
+++++++++++++++++++++++maps/mp/gametypes/_copycat
++++++++++++++++++++++++maps/mp/gametypes/_armor
+++++++++++++++++++++++maps/mp/gametypes/_bot
++++++++++++++++++++++++maps/mp/gametypes/_globallogic_ui
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+++++++++++++++++++++++++maps/mp/gametypes/_teams
++++++++++++++++++++++++++maps/mp/gametypes/_teamset_junglemarines
+++++++++++++++++++++++++++mpbody/ordnance_disposal_mp
+++++++++++++++++++++++++++mpbody/camo_mp
+++++++++++++++++++++++++++mpbody/hardened_mp
+++++++++++++++++++++++++++mpbody/standard_mp
+++++++++++++++++++++++++++mpbody/utility_mp
+++++++++++++++++++++++++++mphead/head_armor_mp
+++++++++++++++++++++++++++mphead/head_flak_mp
+++++++++++++++++++++++++++mphead/head_camo_mp
+++++++++++++++++++++++++++mphead/head_standard_mp
+++++++++++++++++++++++++++mphead/head_utility_mp
++++++++++++++++++++++++++maps/mp/gametypes/_teamset_urbanspecops
++++++++++++++++++++++++++maps/mp/gametypes/_teamset_winterspecops
++++++++++++++++++++++++++maps/mp/gametypes/_teamset_cubans
+++++++++++++++++++++++++maps/mp/gametypes/_spectating
+++++++++++++++++++++++++maps/mp/gametypes/_gametype_variants
++++++++++++++++++++++++++maps/mp/gametypes/_gv_actions
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+++++++++++++++++++++++++++maps/mp/gametypes/_wager
++++++++++++++++++++++++++++maps/mp/gametypes/_rank
++++++++++++++++++++++++++++maps/mp/gametypes/_globallogic_audio
+++++++++++++++++++++++++++++maps/mp/_music
+++++++++++++++++++++++++maps/mp/gametypes/_pregame
++++++++++++++++++++++++++maps/mp/gametypes/_spawning
+++++++++++++++++++++++++++maps/mp/_tacticalinsertion
++++++      dvar set ls_gametype 
++      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++++++++++++++maps/mp/_properks
++++++++++++++++++++++++++++maps/mp/gametypes/_weaponobjects
+++++++++++++++++++++++++++++maps/mp/_satchel_charge
+++++++++++++++++++++++++++++maps/mp/_decoy
++++++++++++++++++++++++++++++maps/mp/_entityheadicons
++++++++++++++++++++++++++++++maps/mp/gametypes/_missions
+++++++++++++++++++++++++++++++maps/mp/_medals
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++++++++++++++++++++++++maps/mp/_challenges
+++++++++++++++++++++++++++++++maps/mp/_vehicles
+++++++++++++++++++++++++++++maps/mp/_scrambler
++++++++++++++++++++++++++++++maps/mp/gametypes/_damagefeedback
+++++++++++++++++++++++++++++maps/mp/_acousticsensor
+++++++++++++++++++++++++++++maps/mp/_cameraspike
+++++++++++++++++++++++++++++maps/mp/_ballistic_knife
+++++++++++++++++++++++++++++maps/mp/_rcbomb
++++++++++++++++++++++++++++++maps/mp/_treadfx
++++++++++++++++++++++++++++++maps/mp/gametypes/_shellshock
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+++++++++++++++++++maps/mp/_spyplane
++++++++++++maps/mp/_tabun
+++++++++++++maps/mp/_dogs
++++++++++++++maps/mp/gametypes/_battlechatter_mp
++++++++++++maps/mp/_smokegrenade
++++++++++++maps/mp/_heatseekingmissile
++++++++++++maps/mp/_explosive_bolt
++++++++++++maps/mp/_sticky_grenade
++++++++++++maps/mp/_flamethrower_plight
++++++++++++maps/mp/_tvguidedmissile
++++++++++++maps/mp/_flare
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++maps/mp/_helicopter
++++++++++maps/mp/_airstrike
++++++++++maps/mp/_napalm
++++++++++maps/mp/_artillery
++++++++++maps/mp/_mortar
++++++++++maps/mp/_helicopter_player
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
++++++++++maps/mp/gametypes/_supplydrop
++++++++++maps/mp/_turret_killstreak
+++++++++++maps/mp/_mgturret
++++++++++maps/mp/gametypes/_killstreak_weapons
+++++++++maps/mp/_gamerep
+++++++++maps/mp/gametypes/_globallogic_spawn
++++++++++maps/mp/gametypes/_globallogic_defaults
+++++++++maps/mp/gametypes/_globallogic_vehicle
+++++++++maps/mp/_demo
+++++++++maps/mp/gametypes/_killcam
+++++++++maps/mp/_tutorial
+++++++++maps/mp/gametypes/_deathicons
+++++++maps/mp/_busing
+++++++maps/mp/_gameadvertisement
+++++++maps/mp/_pc
+      dvar set ls_gametype 
+      dvar set ls_mapname 
+      dvar set ls_gametype dm_knife
+      dvar set ls_mapname NUKETOWN
+++++++maps/mp/_clientflags
+++++++maps/mp/gametypes/_menus
+++++++maps/mp/gametypes/_serversettings
+++++++maps/mp/gametypes/_clientids
+++++++maps/mp/gametypes/_scoreboard
+++++++maps/mp/gametypes/_healthoverlay
+++++++maps/mp/_serverfaceanim_mp
+++++++maps/mp/gametypes/_friendicons
++++++maps/mp/gametypes/_globallogic_actor
+maps/mp/animscripts/dog_combat
++maps/mp/animscripts/shared
+++maps/mp/animscripts/utility
++maps/mp/animscripts/dog_stop
+maps/mp/animscripts/dog_death
+maps/mp/animscripts/dog_init
++maps/mp/animscripts/dog_move
+maps/mp/animscripts/dog_pain
+maps/mp/animscripts/dog_flashed
+maps/mp/animscripts/dog_jump
+maps/mp/animscripts/dog_turn
+maps/mp/gametypes/dm_knife
+Error: 
+******* Server script compile error *******
+Error: bad syntax: (file 'maps/mp/gametypes/_rollon_snife.gsc', line 95)
+  map[0] = "mp_mountain";
+     *
+
+====================================================
+Com_ERROR:  Server script compile error
+bad syntax
+maps/mp/gametypes/_rollon_snife.gsc(94):
+   map[0] = "mp_mountain";
+(see console for details)
+
+====================================================
+
+      dvar set com_errorMessage  Server script compile error
+bad syntax
+maps/mp/gametypes/_rollon_snife.gsc(94):
+   map[0] = "mp_mountain";
+(see console for details)
+
+********************
+ERROR:  Server script compile error
+bad syntax
+maps/mp/gametypes/_rollon_snife.gsc(94):
+   map[0] = "mp_mountain";
+(see console for details)
+
+********************
+Updating dvars from profile 0.
+
+Warning: Invalid category ID found, returning first category.
+--------------
+GamerProfile_UpdateDvarsFromProfile(0):
+ "mis_01" = "0".
+ "mis_difficulty" = "0000000000000000000000000".
+ "takeCoverWarnings" = "9".
+ "r_gamma" = "0.9".
+ "snd_menu_voice" = "1".
+ "snd_menu_music" = "1".
+ "snd_menu_sfx" = "1".
+ "snd_menu_master" = "0.290654".
+ "snd_menu_cinematic" = "1".
+--------------
+GamerProfile_UpdateProfileFromDvars(0):
+ "mis_01" = "0".
+ "mis_difficulty" = "0000000000000000000000000".
+ "takeCoverWarnings" = "9".
+ "r_gamma" = "0.9".
+ "snd_menu_voice" = "1".
+ "snd_menu_music" = "1".
+ "snd_menu_sfx" = "1".
+ "snd_menu_master" = "0.290654".
+ "snd_menu_cinematic" = "1".
+Updating profile 0 from dvars.
+
+execing buttons_default.cfg from fastfile
+execing otherkeysdefaults.cfg from fastfile
+execing thumbstick_default.cfg from fastfile
+Unknown command "updatevehiclebindings"
+----- Server Shutdown -----
+==== ShutdownGame (1) ====
+Generating COD7 match data.
+Error: DDL: 'dm_knife' too long. Can be up to 6 chars but was 9 chars. Truncating.
+      dvar set sv_running 0
+PMem_Free( PerLocalClient, Low )
+PMem_Free( PerLocalClient, High )
+SESSION CREATE ERROR 0
+---------------------------
+----- R_Init -----
+Video memory for device: 965 MB.
+Rounded video memory size: 512 MB.
+DirectX reports 512 MB of video memory and 3951 MB of available texture memory.
+Using video memory size to cap used texture memory at 496 MB.
+Picmip is set manually.
+Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+Error: Could not load image "$g16r16".
+Error: Could not load image "$r5g6b5".
+Error: Could not load image "$blacktransparent".
+Error: Could not load material "$floatz_donotremove".
+Error: Could not load material "$processed_floatz_donotremove".
+Error: Could not load material "$ps3_aadownsample_donotremove".
+Error: Could not load material "particle_blend_donotremove".
+Error: Could not load material "particle_zdownsample_donotremove".
+Error: Could not load material "redact1".
+Error: Could not load material "redact2".
+Error: Could not load material "redact3".
+Error: Could not load material "bloom_mip3_blur".
+Error: Could not load material "$ps3_reload_zcull_donotremove".
+Unloading assets from fastfile 'mp_nuked' and creating default assets stubs
+Unloading assets from fastfile 'en_mp_nuked' and creating default assets stubs
+Unloaded fastfile 'mp_nuked'
+PMem_Free( mp_nuked, Low )
+PMem_Free( mp_nuked, High )
+Unloaded fastfile 'en_mp_nuked'
+PMem_Free( en_mp_nuked, Low )
+PMem_Free( en_mp_nuked, High )
+Adding fastfile 'patch_ui_mp' to queue
+Adding fastfile 'en_ui_mp' to queue
+Adding fastfile 'ui_mp' to queue
+Loading fastfile 'patch_ui_mp'
+used 7.77 MB memory in DB alloc
+Loading fastfile 'en_ui_mp'
+used 0.00 MB memory in DB alloc
+Loading fastfile 'ui_mp'
+used 13.25 MB memory in DB alloc
+Redundant asset: 'image','menu_mp_lobby_scrollbar_main'
+Redundant asset: 'material','menu_mp_lobby_scrollbar_main'
+Redundant asset: 'image','menu_mp_lobby_scrollbar_block'
+Redundant asset: 'material','menu_mp_lobby_scrollbar_block'
+Redundant asset: 'techset','ui_viewer'
+Redundant asset: 'material','menu_mp_background_main2'
+Redundant asset: 'image','menu_mp_background_glow'
+Redundant asset: 'material','menu_mp_background_glow'
+Redundant asset: 'material','animbg_fogscrollthin'
+Redundant asset: 'material','menu_mp_background_logo'
+Redundant asset: 'material','ui_viewer'
+Redundant asset: 'material','viewer_grid'
+Redundant asset: 'image','black_line'
+Redundant asset: 'material','menu_black_line'
+Redundant asset: 'image','white_line_faded'
+Redundant asset: 'material','menu_white_line_faded'
+Redundant asset: 'image','menu_button_backing'
+Redundant asset: 'material','menu_button_backing'
+Redundant asset: 'image','menu_button_backing_highlight'
+Redundant asset: 'material','menu_button_backing_highlight'
+Redundant asset: 'image','menu_mp_popup_window_small'
+Redundant asset: 'material','menu_mp_popup_window_small'
+Redundant asset: 'image','white_line_faded_big'
+Redundant asset: 'material','menu_white_line_faded_big'
+Redundant asset: 'menu','popup_respawn_settings'
+Redundant asset: 'menu','popup_lives_and_health_settings'
+Redundant asset: 'menu','popup_team_settings'
+Redundant asset: 'menu','popup_ffa_spectate_settings'
+Redundant asset: 'material','ui_arrow_up'
+Redundant asset: 'material','ui_arrow_down'
+Redundant asset: 'image','menu_mp_lobby_classified'
+Redundant asset: 'material','menu_mp_lobby_classified'
+Redundant asset: 'menu','menu_playercard_challenges'
+Redundant asset: 'menu','menu_playercard_challenges_primaryweapon'
+Redundant asset: 'menu','menu_playercard_challenges_secondaryweapon'
+Redundant asset: 'menu','menu_stats_milestones_weapons'
+Redundant asset: 'menu','menu_playercard_challenges_sort'
+Redundant asset: 'menu','menu_playercard_challenges_attachments'
+Redundant asset: 'menu','menu_playercard_challenges_grenades'
+Redundant asset: 'menu','menu_challenges_perks_type'
+Redundant asset: 'menu','menu_perks_challenges_list'
+Redundant asset: 'menu','menu_global_challenges_list'
+Redundant asset: 'menu','menu_challenges_gamemode_type'
+Redundant asset: 'menu','menu_xboxlive_killstreaks_type'
+Redundant asset: 'menu','menu_killstreak_challenges_list'
+Redundant asset: 'menu','vid_restart_popmenu'
+Redundant asset: 'menu','vid_restart_popmenu_listen'
+Redundant asset: 'menu','vid_restart_popmenu_dead'
+Redundant asset: 'menu','snd_restart_popmenu'
+Redundant asset: 'menu','options_new_pc'
+Redundant asset: 'menu','options_controls_new_pc'
+Redundant asset: 'menu','options_voice'
+Redundant asset: 'menu','controls_multi'
+Redundant asset: 'menu','options_look'
+Redundant asset: 'menu','options_move'
+Redundant asset: 'menu','options_shoot'
+Redundant asset: 'menu','options_misc'
+Redundant asset: 'image','xenon_controller_top'
+Redundant asset: 'material','xenon_controller_top'
+Redundant asset: 'image','xenon_stick_move'
+Redundant asset: 'material','xenon_stick_move'
+Redundant asset: 'image','xenon_stick_turn'
+Redundant asset: 'material','xenon_stick_turn'
+Redundant asset: 'image','xenon_stick_move_turn'
+Redundant asset: 'material','xenon_stick_move_turn'
+Redundant asset: 'image','xenon_stick_move_look'
+Redundant asset: 'material','xenon_stick_move_look'
+Redundant asset: 'menu','options_gamepad'
+Redundant asset: 'menu','options_game'
+Redundant asset: 'menu','mature_content_pc_disable_warning'
+Redundant asset: 'menu','options_sound'
+Redundant asset: 'menu','options_coop'
+Redundant asset: 'menu','options_control_defaults'
+Redundant asset: 'menu','reset_controls_popmenu'
+Redundant asset: 'menu','options_graphics_defaults'
+Redundant asset: 'menu','reset_graphics_popmenu'
+Redundant asset: 'material','menu_mp_background_main'
+Redundant asset: 'material','ors'
+Redundant asset: 'material','vac'
+Redundant asset: 'material','lock'
+Redundant asset: 'material','sb_globe'
+Redundant asset: 'menu','createfavorite_popmenu'
+Redundant asset: 'menu','fav_message_popmenu'
+Redundant asset: 'menu','del_fav_popmenu'
+Redundant asset: 'image','gradient_center'
+Redundant asset: 'material','gradient_center'
+Redundant asset: 'image','line_vertical'
+Redundant asset: 'material','line_vertical'
+Redundant asset: 'image','gradient_fadein'
+Redundant asset: 'material','gradient_fadein'
+Redundant asset: 'image','white_line'
+Redundant asset: 'material','menu_white_line'
+Redundant asset: 'image','menu_mp_lobby_frame_tab'
+Redundant asset: 'material','menu_mp_lobby_frame_tab'
+Redundant asset: 'image','menu_mp_lobby_aar_award_best'
+Redundant asset: 'material','menu_mp_lobby_aar_award_best'
+Redundant asset: 'image','menu_mp_lobby_aar_wager1'
+Redundant asset: 'material','menu_mp_lobby_aar_wager01'
+Redundant asset: 'image','menu_mp_lobby_aar_wager2'
+Redundant asset: 'material','menu_mp_lobby_aar_wager02'
+Redundant asset: 'image','menu_mp_lobby_aar_wager3'
+Redundant asset: 'material','menu_mp_lobby_aar_wager03'
+Redundant asset: 'image','menu_mp_lobby_ks_brun'
+Redundant asset: 'material','killstreak_airstrike_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_sentry'
+Redundant asset: 'material','killstreak_auto_turret_drop_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_counteru2'
+Redundant asset: 'material','killstreak_counteruav_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_attdog'
+Redundant asset: 'material','killstreak_dogs_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_atthel'
+Redundant asset: 'material','killstreak_helicopter_comlink_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_chopg'
+Redundant asset: 'material','killstreak_helicopter_gunner_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_hind'
+Redundant asset: 'material','killstreak_helicopter_player_firstperson_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_tv'
+Redundant asset: 'material','killstreak_m220_tow_drop_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_mortar'
+Redundant asset: 'material','killstreak_mortar_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_napalm'
+Redundant asset: 'material','killstreak_napalm_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_rcbomb'
+Redundant asset: 'material','killstreak_rcbomb_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_sr71'
+Redundant asset: 'material','killstreak_spyplane_direction_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_u2'
+Redundant asset: 'material','killstreak_spyplane_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_care'
+Redundant asset: 'material','killstreak_supply_drop_lobby'
+Redundant asset: 'image','menu_mp_lobby_ks_sam'
+Redundant asset: 'material','killstreak_tow_turret_drop_lobby'
+Redundant asset: 'image','perk_lightweight_256'
+Redundant asset: 'material','perk_lightweight_256'
+Redundant asset: 'image','perk_lightweight_256_pro'
+Redundant asset: 'material','perk_lightweight_pro_256'
+Redundant asset: 'image','perk_scavenger_256'
+Redundant asset: 'material','perk_scavenger_256'
+Redundant asset: 'image','perk_scavenger_256_pro'
+Redundant asset: 'material','perk_scavenger_pro_256'
+Redundant asset: 'image','perk_ghost_256'
+Redundant asset: 'material','perk_ghost_256'
+Redundant asset: 'image','perk_ghost_256_pro'
+Redundant asset: 'material','perk_ghost_pro_256'
+Redundant asset: 'image','perk_flak_jacket_256'
+Redundant asset: 'material','perk_flak_jacket_256'
+Redundant asset: 'image','perk_flak_jacket_256_pro'
+Redundant asset: 'material','perk_flak_jacket_pro_256'
+Redundant asset: 'image','perk_hardline_256'
+Redundant asset: 'material','perk_hardline_256'
+Redundant asset: 'image','perk_hardline_256_pro'
+Redundant asset: 'material','perk_hardline_pro_256'
+Redundant asset: 'image','perk_steady_aim_256'
+Redundant asset: 'material','perk_steady_aim_256'
+Redundant asset: 'image','perk_steady_aim_256_pro'
+Redundant asset: 'material','perk_steady_aim_pro_256'
+Redundant asset: 'image','perk_scout_256'
+Redundant asset: 'material','perk_scout_256'
+Redundant asset: 'image','perk_scout_256_pro'
+Redundant asset: 'material','perk_scout_pro_256'
+Redundant asset: 'image','perk_deep_impact_256'
+Redundant asset: 'material','perk_deep_impact_256'
+Redundant asset: 'image','perk_deep_impact_256_pro'
+Redundant asset: 'material','perk_deep_impact_pro_256'
+Redundant asset: 'image','perk_sleight_of_hand_256'
+Redundant asset: 'material','perk_sleight_of_hand_256'
+Redundant asset: 'image','perk_sleight_of_hand_256_pro'
+Redundant asset: 'material','perk_sleight_of_hand_pro_256'
+Redundant asset: 'image','perk_professional_256'
+Redundant asset: 'material','perk_professional_256'
+Redundant asset: 'image','perk_professional_256_pro'
+Redundant asset: 'material','perk_professional_pro_256'
+Redundant asset: 'image','perk_marathon_256'
+Redundant asset: 'material','perk_marathon_256'
+Redundant asset: 'image','perk_marathon_256_pro'
+Redundant asset: 'material','perk_marathon_pro_256'
+Redundant asset: 'image','perk_ninja_256'
+Redundant asset: 'material','perk_ninja_256'
+Redundant asset: 'image','perk_ninja_256_pro'
+Redundant asset: 'material','perk_ninja_pro_256'
+Redundant asset: 'image','perk_second_chance_256'
+Redundant asset: 'material','perk_second_chance_256'
+Redundant asset: 'image','perk_second_chance_256_pro'
+Redundant asset: 'material','perk_second_chance_pro_256'
+Redundant asset: 'image','perk_hacker_256'
+Redundant asset: 'material','perk_hacker_256'
+Redundant asset: 'image','perk_hacker_256_pro'
+Redundant asset: 'material','perk_hacker_pro_256'
+Redundant asset: 'image','perk_tactical_mask_256'
+Redundant asset: 'material','perk_tactical_mask_256'
+Redundant asset: 'image','perk_tactical_mask_256_pro'
+Redundant asset: 'material','perk_tactical_mask_pro_256'
+Redundant asset: 'image','menu_mp_weapons_minigun'
+Redundant asset: 'material','menu_mp_weapons_minigun'
+Redundant asset: 'image','menu_mp_weapons_grim_reaper'
+Redundant asset: 'material','menu_mp_weapons_grim_reaper'
+Redundant asset: 'image','menu_mp_weapons_attach_mk_hirez'
+Redundant asset: 'material','menu_mp_weapons_attach_mk_hirez'
+Redundant asset: 'image','menu_mp_weapons_attach_gl_hirez'
+Redundant asset: 'material','menu_mp_weapons_attach_gl_hirez'
+Redundant asset: 'image','menu_mp_weapons_attach_ft_hirez'
+Redundant asset: 'material','menu_mp_weapons_attach_ft_hirez'
+Redundant asset: 'image','rank_pvt1_128'
+Redundant asset: 'material','rank_prvt_128'
+Redundant asset: 'image','rank_pfc1_128'
+Redundant asset: 'material','rank_pfc_128'
+Redundant asset: 'image','rank_spc1_128'
+Redundant asset: 'material','rank_spc_128'
+Redundant asset: 'image','rank_cpl1_128'
+Redundant asset: 'material','rank_cpl_128'
+Redundant asset: 'image','rank_sgt1_128'
+Redundant asset: 'material','rank_sgt_128'
+Redundant asset: 'image','rank_ssgt1_128'
+Redundant asset: 'material','rank_ssgt_128'
+Redundant asset: 'image','rank_sgtfc1_128'
+Redundant asset: 'material','rank_sfc_128'
+Redundant asset: 'image','rank_sgtm1_128'
+Redundant asset: 'material','rank_sgtm_128'
+Redundant asset: 'image','rank_2ndlt1_128'
+Redundant asset: 'material','rank_lt_128'
+Redundant asset: 'image','rank_capt1_128'
+Redundant asset: 'material','rank_cpt_128'
+Redundant asset: 'image','rank_maj1_128'
+Redundant asset: 'material','rank_maj_128'
+Redundant asset: 'image','rank_ltcol1_128'
+Redundant asset: 'material','rank_ltcol_128'
+Redundant asset: 'image','rank_col1_128'
+Redundant asset: 'material','rank_col_128'
+Redundant asset: 'image','rank_bgen1_128'
+Redundant asset: 'material','rank_briggen_128'
+Redundant asset: 'image','rank_majgen1_128'
+Redundant asset: 'material','rank_majgen_128'
+Redundant asset: 'image','rank_ltgen1_128'
+Redundant asset: 'material','rank_ltgen_128'
+Redundant asset: 'image','rank_gen1_128'
+Redundant asset: 'material','rank_gen_128'
+Redundant asset: 'image','rank_comm_128'
+Redundant asset: 'material','rank_com_128'
+Redundant asset: 'image','rank_prestige_1_128'
+Redundant asset: 'material','rank_prestige01_128'
+Redundant asset: 'image','rank_prestige_3_128'
+Redundant asset: 'material','rank_prestige02_128'
+Redundant asset: 'image','rank_prestige_6_128'
+Redundant asset: 'material','rank_prestige03_128'
+Redundant asset: 'image','rank_prestige_7_128'
+Redundant asset: 'material','rank_prestige04_128'
+Redundant asset: 'image','rank_prestige_2_128'
+Redundant asset: 'material','rank_prestige05_128'
+Redundant asset: 'image','rank_prestige_14_128'
+Redundant asset: 'material','rank_prestige06_128'
+Redundant asset: 'image','rank_prestige_5_128'
+Redundant asset: 'material','rank_prestige07_128'
+Redundant asset: 'image','rank_prestige_12_128'
+Redundant asset: 'material','rank_prestige08_128'
+Redundant asset: 'image','rank_prestige_9_128'
+Redundant asset: 'material','rank_prestige09_128'
+Redundant asset: 'image','rank_prestige_11_128'
+Redundant asset: 'material','rank_prestige10_128'
+Redundant asset: 'image','rank_prestige_4_128'
+Redundant asset: 'material','rank_prestige11_128'
+Redundant asset: 'image','rank_prestige_10_128'
+Redundant asset: 'material','rank_prestige12_128'
+Redundant asset: 'image','rank_prestige_13_128'
+Redundant asset: 'material','rank_prestige13_128'
+Redundant asset: 'image','rank_prestige_15_128'
+Redundant asset: 'material','rank_prestige14_128'
+Redundant asset: 'image','rank_prestige_8_128'
+Redundant asset: 'material','rank_prestige15_128'
+Redundant asset: 'image','menu_mp_weapons_attach_lens'
+Redundant asset: 'material','menu_mp_weapons_attach_lens'
+Redundant asset: 'image','menu_mp_weapons_color_lens'
+Redundant asset: 'material','menu_mp_weapons_color_lens'
+Redundant asset: 'image','menu_mp_weapons_lens_hilight'
+Redundant asset: 'material','menu_mp_weapons_lens_hilight'
+Redundant asset: 'image','menu_mp_reticle_red_dot_main'
+Redundant asset: 'material','menu_mp_reticle_red_dot_main'
+Redundant asset: 'image','menu_mp_reticle_circle_split01'
+Redundant asset: 'material','menu_mp_reticle_circle_split01'
+Redundant asset: 'image','menu_mp_reticle_lines_dots01'
+Redundant asset: 'material','menu_mp_reticle_lines_dots01'
+Redundant asset: 'image','menu_mp_reticle_circle05'
+Redundant asset: 'material','menu_mp_reticle_circles05'
+Redundant asset: 'image','menu_mp_reticle_happyface01'
+Redundant asset: 'material','menu_mp_reticle_happyface01'
+Redundant asset: 'image','menu_mp_reticle_arrows01'
+Redundant asset: 'material','menu_mp_reticle_arrows01'
+Redundant asset: 'image','menu_mp_reticle_arrows02'
+Redundant asset: 'material','menu_mp_reticle_arrows02'
+Redundant asset: 'image','menu_mp_reticle_arrows03'
+Redundant asset: 'material','menu_mp_reticle_arrows03'
+Redundant asset: 'image','menu_mp_reticle_bones'
+Redundant asset: 'material','menu_mp_reticle_bones'
+Redundant asset: 'image','menu_mp_reticle_burst01'
+Redundant asset: 'material','menu_mp_reticle_burst01'
+Redundant asset: 'image','menu_mp_reticle_circle01'
+Redundant asset: 'material','menu_mp_reticle_circles01'
+Redundant asset: 'image','menu_mp_reticle_circle02'
+Redundant asset: 'material','menu_mp_reticle_circles02'
+Redundant asset: 'image','menu_mp_reticle_circle03'
+Redundant asset: 'material','menu_mp_reticle_circles03'
+Redundant asset: 'image','menu_mp_reticle_circle04'
+Redundant asset: 'material','menu_mp_reticle_circles04'
+Redundant asset: 'image','menu_mp_reticle_circle_lines01'
+Redundant asset: 'material','menu_mp_reticle_circles_lines01'
+Redundant asset: 'image','menu_mp_reticle_circle_lines02'
+Redundant asset: 'material','menu_mp_reticle_circles_lines02'
+Redundant asset: 'image','menu_mp_reticle_circle_lines03'
+Redundant asset: 'material','menu_mp_reticle_circles_lines03'
+Redundant asset: 'image','menu_mp_reticle_circles_triangles01'
+Redundant asset: 'material','menu_mp_reticle_circles_triangles01'
+Redundant asset: 'image','menu_mp_reticle_circles_triangles02'
+Redundant asset: 'material','menu_mp_reticle_circles_triangles02'
+Redundant asset: 'image','menu_mp_reticle_cross01'
+Redundant asset: 'material','menu_mp_reticle_cross01'
+Redundant asset: 'image','menu_mp_reticle_cross02'
+Redundant asset: 'material','menu_mp_reticle_cross02'
+Redundant asset: 'image','menu_mp_reticle_cross03'
+Redundant asset: 'material','menu_mp_reticle_cross03'
+Redundant asset: 'image','menu_mp_reticle_cross04'
+Redundant asset: 'material','menu_mp_reticle_cross04'
+Redundant asset: 'image','menu_mp_reticle_cross05'
+Redundant asset: 'material','menu_mp_reticle_cross05'
+Redundant asset: 'image','menu_mp_reticle_diamond01'
+Redundant asset: 'material','menu_mp_reticle_diamond01'
+Redundant asset: 'image','menu_mp_reticle_diamond02'
+Redundant asset: 'material','menu_mp_reticle_diamond02'
+Redundant asset: 'image','menu_mp_reticle_heart'
+Redundant asset: 'material','menu_mp_reticle_heart'
+Redundant asset: 'image','menu_mp_reticle_radiation'
+Redundant asset: 'material','menu_mp_reticle_radiation'
+Redundant asset: 'image','menu_mp_reticle_skull01'
+Redundant asset: 'material','menu_mp_reticle_skull01'
+Redundant asset: 'image','menu_mp_reticle_square01'
+Redundant asset: 'material','menu_mp_reticle_square01'
+Redundant asset: 'image','menu_mp_reticle_square02'
+Redundant asset: 'material','menu_mp_reticle_square02'
+Redundant asset: 'image','menu_mp_reticle_squares_cross01'
+Redundant asset: 'material','menu_mp_reticle_squares_cross01'
+Redundant asset: 'image','menu_mp_reticle_star01'
+Redundant asset: 'material','menu_mp_reticle_star01'
+Redundant asset: 'image','menu_mp_reticle_three_dots'
+Redundant asset: 'material','menu_mp_reticle_three_dots'
+Redundant asset: 'image','menu_mp_reticle_treyarch'
+Redundant asset: 'material','menu_mp_reticle_treyarch'
+Redundant asset: 'image','menu_mp_reticle_triangle01'
+Redundant asset: 'material','menu_mp_reticle_triangle01'
+Redundant asset: 'image','menu_mp_reticle_triangle02'
+Redundant asset: 'material','menu_mp_reticle_triangle02'
+Redundant asset: 'image','menu_mp_reticle_x01'
+Redundant asset: 'material','menu_mp_reticle_x01'
+Redundant asset: 'image','menu_mp_reticle_x02'
+Redundant asset: 'material','menu_mp_reticle_x02'
+Redundant asset: 'image','menu_mp_reticle_yinyang'
+Redundant asset: 'material','menu_mp_reticle_yinyang'
+Redundant asset: 'image','menu_mp_map_select_array_final'
+Redundant asset: 'material','menu_mp_array_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_havana_final'
+Redundant asset: 'material','menu_mp_cairo_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_cosmo_final'
+Redundant asset: 'material','menu_mp_cosmodrome_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_cracked_final'
+Redundant asset: 'material','menu_mp_cracked_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_crisis_final'
+Redundant asset: 'material','menu_mp_crisis_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_duga_final'
+Redundant asset: 'material','menu_mp_duga_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_firing_range_final'
+Redundant asset: 'material','menu_mp_firingrange_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_hanoi_final'
+Redundant asset: 'material','menu_mp_hanoi_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_havoc_final'
+Redundant asset: 'material','menu_mp_havoc_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_mount_final'
+Redundant asset: 'material','menu_mp_mountain_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_nuked_final'
+Redundant asset: 'material','menu_mp_nuked_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_radiation_final'
+Redundant asset: 'material','menu_mp_radiation_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_russian_base_final'
+Redundant asset: 'material','menu_mp_russianbase_map_select_final'
+Redundant asset: 'image','menu_mp_map_select_villa_final'
+Redundant asset: 'material','menu_mp_villa_map_select_final'
+Redundant asset: 'image','playlist_ctf'
+Redundant asset: 'material','playlist_ctf'
+Redundant asset: 'image','playlist_demolition'
+Redundant asset: 'material','playlist_demolition'
+Redundant asset: 'image','playlist_domination'
+Redundant asset: 'material','playlist_domination'
+Redundant asset: 'image','playlist_ffa'
+Redundant asset: 'material','playlist_ffa'
+Redundant asset: 'image','playlist_headquarters'
+Redundant asset: 'material','playlist_headquarters'
+Redundant asset: 'image','playlist_infantry'
+Redundant asset: 'material','playlist_infantry'
+Redundant asset: 'image','playlist_sabotage'
+Redundant asset: 'material','playlist_sabotage'
+Redundant asset: 'image','playlist_search_destroy'
+Redundant asset: 'material','playlist_search_destroy'
+Redundant asset: 'image','playlist_tdm'
+Redundant asset: 'material','playlist_tdm'
+Redundant asset: 'image','playlist_custom'
+Redundant asset: 'material','playlist_custom'
+Redundant asset: 'image','menu_mp_weapons_knife'
+Redundant asset: 'material','combat_tab_knife'
+Adding fastfile 'en_ui_viewer_mp' to queue
+Adding fastfile 'ui_viewer_mp' to queue
+WARNING: Could not find zone 'C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\zone\english\en_ui_viewer_mp.ff'
+Cmd_AddCommand: setClanName already defined
+Cmd_AddCommand: checkClanName already defined
+Cmd_AddCommand: loadMaps already defined
+Cmd_AddCommand: refresh_filter already defined
+FS_GetModList: failed to open common_zombie/description.txt
+FS_GetModList: failed to open mp_FroZenSniperMod/description.txt
+FS_GetModList: failed to open mp_HnS/description.txt
+FS_GetModList: failed to open mp_imagetest/description.txt
+FS_GetModList: failed to open mp_Juggernaut/description.txt
+FS_GetModList: failed to open mp_mlg_mod/description.txt
+FS_GetModList: failed to open mp_primex_from_rollon/description.txt
+FS_GetModList: failed to open mp_rollonsguns/description.txt
+FS_GetModList: failed to open mp_rollon_afterlife/description.txt
+FS_GetModList: failed to open mp_rollon_awp/description.txt
+FS_GetModList: failed to open mp_rollon_b23r/description.txt
+FS_GetModList: failed to open mp_rollon_blunderbuss/description.txt
+FS_GetModList: failed to open mp_rollon_bounce/description.txt
+FS_GetModList: failed to open mp_rollon_camo_tests/description.txt
+FS_GetModList: failed to open mp_rollon_csgo/description.txt
+FS_GetModList: failed to open mp_rollon_evopro/description.txt
+FS_GetModList: failed to open mp_rollon_five_seven_tactical/description.txt
+FS_GetModList: failed to open mp_rollon_honeybadger/description.txt
+FS_GetModList: failed to open mp_rollon_kf5/description.txt
+FS_GetModList: failed to open mp_rollon_m40_tence/description.txt
+FS_GetModList: failed to open mp_rollon_msbs/description.txt
+FS_GetModList: failed to open mp_rollon_mw2/description.txt
+FS_GetModList: failed to open mp_rollon_origins/description.txt
+FS_GetModList: failed to open mp_rollon_r5/description.txt
+FS_GetModList: failed to open mp_rollon_soundTut/description.txt
+FS_GetModList: failed to open mp_rollon_spas_mod/description.txt
+FS_GetModList: failed to open mp_rollon_staff/description.txt
+FS_GetModList: failed to open mp_rollon_storm/description.txt
+FS_GetModList: failed to open mp_rollon_swat556/description.txt
+FS_GetModList: failed to open mp_rollon_titus/description.txt
+FS_GetModList: failed to open mp_rollon_vex/description.txt
+FS_GetModList: failed to open mp_rollon_zoms/description.txt
+FS_GetModList: failed to open mp_SniperMod/description.txt
+FS_GetModList: failed to open mp_tencetest/description.txt
+FS_GetModList: failed to open mp_tence_psg_uk/description.txt
+FS_GetModList: failed to open mp_UU_snife/description.txt
+FS_GetModList: failed to open mp_xkmlive11/description.txt
+FS_GetModList: failed to open mp_ZAM7_FINAL/description.txt
+FS_GetModList: failed to open mp_ZAMv7_PLS_WORK_2/description.txt
+FS_GetModList: failed to open mp_ZEMv4/description.txt
+FS_GetModList: failed to open mp_ZEMv4_1/description.txt
+FS_GetModList: failed to open mp_ZM/description.txt
+FS_GetModList: failed to open mp_ZombieAnnihilationV7/description.txt
+FS_GetModList: failed to open mp_ZombieAnnihilation_1_6/description.txt
+FS_GetModList: failed to open mp_ZombieSenseMod/description.txt
+FS_GetModList: failed to open mp_^5FroZen_Sniper_Mod/description.txt
+FS_GetModList: failed to open nacht_mod/description.txt
+FS_GetModList: failed to open peter_grave_confirmed/description.txt
+FS_GetModList: failed to open shangrila_ee_unlock/description.txt
+FS_GetModList: failed to open tesla_on_spawn/description.txt
+FS_GetModList: failed to open trigger_testing/description.txt
+FS_GetModList: failed to open updated_pap/description.txt
+FS_GetModList: failed to open zm_hbra3/description.txt
+FS_GetModList: failed to open zm_ice_camo/description.txt
+FS_GetModList: failed to open zm_ice_camo_mk2/description.txt
+FS_GetModList: failed to open zm_relaxing_dual_wield/description.txt
+FS_GetModList: failed to open zm_relaxing_light_blunder/description.txt
+FS_GetModList: failed to open zm_relaxing_msbsms/description.txt
+FS_GetModList: failed to open zm_relaxing_wind_mk2_mg_blu/description.txt
+FS_GetModList: failed to open zm_relaxing_wind_rgm2/description.txt
+FS_GetModList: failed to open zm_rollongunmod/description.txt
+FS_GetModList: failed to open zm_rollon_asc_ee/description.txt
+FS_GetModList: failed to open zm_rollon_dr_ee/description.txt
+FS_GetModList: failed to open zm_rollon_vex/description.txt
+FS_GetModList: failed to open zm_soe_jingles/description.txt
+FS_GetModList: failed to open zm_soe_jingles_2/description.txt
+FS_GetModList: failed to open zm_storm_and_titus/description.txt
+FS_GetModList: failed to open zm_titanfall/description.txt
+FS_GetModList: failed to open zombie_coast_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_asylum_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_factory_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_prototype_patch/description.txt
+FS_GetModList: failed to open zombie_cod5_sumpf_patch/description.txt
+FS_GetModList: failed to open zombie_cosmodrome_patch/description.txt
+FS_GetModList: failed to open zombie_moon_patch/description.txt
+FS_GetModList: failed to open zombie_pentagon_patch/description.txt
+FS_GetModList: failed to open zombie_temple_patch/description.txt
+FS_GetModList: failed to open zombie_theater_patch/description.txt
+Customized arena file not found: mod.arena
+Loading fastfile 'ui_viewer_mp'
+used 47.53 MB memory in DB alloc
+      dvar set xblive_basictraining 0
+      dvar set com_errorMessage 
+Cmd_AddCommand: uiViewer_SetCameraPosition already defined
+Cmd_AddCommand: uiViewer_ResetCamera already defined
+Cmd_AddCommand: uiViewer_SetControllerIndex already defined
+Cmd_AddCommand: viewerRotateLeftRepeatEnabled already defined
+Cmd_AddCommand: viewerRotateRightRepeatEnabled already defined
+Com_TouchMemory: 0 msec. Using sum: 0
+      dvar set tickerHeaderWidth 17
+Error: Could not load image "gold".
+Error: Could not load xmodel "armor_null".
+Error: Could not load xmodel "standard_mp".
+Error: Could not load xmodel "utility_mp".
+Error: Could not load xmodel "hardened_mp".
+Error: Could not load xmodel "camo_mp".
+Error: Could not load xmodel "ordnance_disposal_mp".
+Error: Could not load xmodel "body_default_mp".
+
+Foliage: --------------------------
+Foliage: smodelCount = 0
+Foliage: dyn smodel count = 0 (max=2048)
+Foliage: sizeof(g_activeModelsHash) = 1152, sizeof(g_fullySquashedModelBits) = 256
+Foliage: --------------------------
+
+Error: Could not load xmodel "skybox_mp_hotel".
+vertex stream 2: --------------------------
+vertex stream 2: needs 0 bytes
+vertex stream 2: already allocated 0 bytes
+vertex stream 2: --------------------------
+Error: Could not load rawfile "exposure/mp_ui_viewer.d3dbsp.xpo".
+Error: couldn't open 'exposure/mp_ui_viewer.d3dbsp.xpo'.
+Error: Could not load rawfile "exposure/default.xpo".
+Error: couldn't open 'exposure/default.xpo'. This is a default file that you should have.
+      dvar set uiViewer_loaded 1
+Com_TouchMemory: 0 msec. Using sum: 0
+      dvar set tickerHeaderWidth 43
+Com_TouchMemory: 0 msec. Using sum: 0
+Can play online (controller: 0): true
+    false - Live_UserIsGuest( controller: 0 )
+    true - Live_IsUserSignedInToLive( controller: 0 )
+    true - Live_IsUserSignedInToDemonware( controller: 0 )
+    true - LiveStorage_DoWeHavePlaylists()
+    true - LiveStorage_DoWeHaveAllStats( controller: 0 )
+    true - LiveStorage_IsTimeSynced()
+    true - LiveStorage_DoWeHaveContracts()
+      dvar set ui_flyoutHasFocus 1
+Successfully read file share. (88ms)
+0 file ratings retrieved successfully.
+0 file ratings retrieved successfully.
+      dvar set ui_flownOut 1
+      dvar set ui_lobby_desc Join a Ranked Match.
+      dvar set ui_lobby_desc Gamble your COD Points () against other players in special game modes.
+      dvar set ui_lobby_desc Play versus the Practice Dummies either with or without your friends. It's good practice for playing competitively.
+      dvar set xblive_basictraining 1
+execing default_xboxlive.cfg from fastfile
+execing default_mp_gametypes.cfg from fastfile
+execing dvar_defaults.cfg from fastfile
+execing reset_bindings.cfg from fastfile
+      dvar set ui_mapname mp_mountain
+      dvar set ui_flownOut 0
+      dvar set ui_flyoutHasFocus 0
+      dvar set ui_hint_text @MPUI_START_MATCH_DESC
+      dvar set ui_show_arrow 1
+      dvar set popup_open 0
+      dvar set ui_hint_text @NULL_EMPTY
+      dvar set ui_show_arrow 0
+--------------
+GamerProfile_UpdateProfileFromDvars(0):
+ "mis_01" = "0".
+ "mis_difficulty" = "0000000000000000000000000".
+ "takeCoverWarnings" = "9".
+ "r_gamma" = "0.9".
+ "snd_menu_voice" = "1".
+ "snd_menu_music" = "1".
+ "snd_menu_sfx" = "1".
+ "snd_menu_master" = "0.290654".
+ "snd_menu_cinematic" = "1".
+Updating profile 0 from dvars.
+
+execing buttons_default.cfg from fastfile
+execing otherkeysdefaults.cfg from fastfile
+execing thumbstick_default.cfg from fastfile
+Unknown command "updatevehiclebindings"
+--------------
+GamerProfile_UpdateProfileFromDvars(0):
+ "mis_01" = "0".
+ "mis_difficulty" = "0000000000000000000000000".
+ "takeCoverWarnings" = "9".
+ "r_gamma" = "0.9".
+ "snd_menu_voice" = "1".
+ "snd_menu_music" = "1".
+ "snd_menu_sfx" = "1".
+ "snd_menu_master" = "0.290654".
+ "snd_menu_cinematic" = "1".
+Updating profile 0 from dvars.
+
+execing buttons_default.cfg from fastfile
+execing otherkeysdefaults.cfg from fastfile
+execing thumbstick_default.cfg from fastfile
+Unknown command "updatevehiclebindings"
+      dvar set ui_bg_image menu_mp_mountain_map_select_big
+execing dvar_defaults.cfg from fastfile
+execing reset_bindings.cfg from fastfile
+]logfile 0;g_gametype dm_knife;devmap mp_nuked
+      dvar set logfile 0
