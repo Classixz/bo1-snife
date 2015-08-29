@@ -4,15 +4,28 @@
 
 init()
 {
+	
+	level.DevMode = true; //Cheats
+	
 	level thread onPlayerConnect();
 	level thread randomNextGame();
+	level thread doDvars();
+}
 
+doDvars()
+{
+	
 	setDvar("g_allowvote", 0); 
 	setDvar("scr_disable_cac", 1);
 	//setDvar("scr_disable_weapondrop", 1);
 	setDvar("scr_showperksonspawn", 0);
 	setDvar("g_allow_teamchange", 0);
-
+	
+	if(level.DevMode) {
+		setDvar("sv_cheats", 1);
+		setdvar("sv_vac", 0); 
+		setDvar( "g_password", "fuckaina" ); 
+	} else setDvar("sv_cheats", 0);	setdvar("sv_vac", 1);
 }
 
 onPlayerConnect()
