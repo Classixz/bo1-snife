@@ -47,6 +47,7 @@ weapon,mp/m40a3_mp
 //menufile,ui_mp/scriptmenus/dukip_gm_selection2.menu
 
 //Menus
+menufile,ui_mp/main.menu
 menufile,ui/options_graphics_pc.menu
 menufile,ui/options_game_pc.menu
 //Sounds

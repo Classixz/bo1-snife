@@ -484,8 +484,8 @@ menuDef
 				setDvar onlinegame "1";				\
 				setDvar xblive_privatematch "1";	\
 				SETUP_ACTION_LOBBY					\
-				setDvar ui_mapname "mp_mountain";	\
-				setDvar ui_gametype "tdm";			\
+				setDvar ui_mapname "mp_nuked";	\
+				setDvar ui_gametype "dm_snife";			\
 				close self;							\
 				open menu_xboxlive_privatelobby;	
 
