@@ -144,7 +144,7 @@ randomNextGame()
 		iPrintLnBold("Selecting next game mode...");
 		wait 3;
 		gm = [];
-		gm[0] = "dm_snife";
+		gm[0] = "dem_snife";
 		gm[1] = "ctf_snife";
 		gm[2] = "koth_snife";
 

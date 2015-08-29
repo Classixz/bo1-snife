@@ -15608,3 +15608,1819 @@
   8:59 K;0;0;axis;Rollon;0;5;axis;[3arc]xSanchez78;knife_mp;139;MOD_MELEE;head
   9:02 ShutdownGame:
   9:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]javilabra2
+  0:03 J;0;2;[3arc]+ EterNal + Dark
+  0:03 J;0;3;[3arc]Cornrow Wallace
+  0:03 J;0;4;[3arc]iNnFeR
+  0:04 J;0;5;[3arc]Wijaxu
+  0:04 J;0;6;[3arc]I Sweatband in C
+  0:11 say;0;0;Rollon;give awp_mp
+  0:14 Weapon;0;0;Rollon;awp_mp
+  0:15 say;0;0;Rollon;give ammo
+  0:21 D;0;2;allies;[3arc]EterNal + Dark;0;6;allies;[3arc]I Sweatband in C;commando_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+  0:21 D;0;2;allies;[3arc]EterNal + Dark;0;6;allies;[3arc]I Sweatband in C;commando_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:21 K;0;2;allies;[3arc]EterNal + Dark;0;6;allies;[3arc]I Sweatband in C;commando_dualclip_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:23 D;0;5;axis;[3arc]Wijaxu;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:23 D;0;5;axis;[3arc]Wijaxu;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;right_leg_lower
+  0:24 K;0;5;axis;[3arc]Wijaxu;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  0:24 Weapon;0;0;Rollon;intervention_3k_zam
+  0:27 D;0;6;allies;[3arc]I Sweatband in C;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;26;MOD_RIFLE_BULLET;neck
+  0:29 D;0;6;allies;[3arc]I Sweatband in C;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;left_arm_upper
+  0:29 D;0;6;allies;[3arc]I Sweatband in C;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:29 K;0;6;allies;[3arc]I Sweatband in C;0;1;axis;[3arc]javilabra2;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:33 D;0;1;axis;[3arc]javilabra2;0;3;axis;[3arc]Cornrow Wallace;m16_silencer_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:33 D;0;1;axis;[3arc]javilabra2;0;3;axis;[3arc]Cornrow Wallace;m16_silencer_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+  0:33 K;0;1;axis;[3arc]javilabra2;0;3;axis;[3arc]Cornrow Wallace;m16_silencer_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:35 D;0;0;allies;Rollon;;-1;world;;none;28;MOD_FALLING;none
+  0:38 D;0;5;axis;[3arc]Wijaxu;0;3;axis;[3arc]Cornrow Wallace;m16_silencer_mp;40;MOD_RIFLE_BULLET;left_arm_upper
+  0:39 K;0;5;axis;[3arc]Wijaxu;0;3;axis;[3arc]Cornrow Wallace;knife_mp;139;MOD_MELEE;right_hand
+  0:40 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:48 K;0;6;allies;[3arc]I Sweatband in C;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:49 K;0;2;allies;[3arc]EterNal + Dark;0;0;allies;Rollon;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:52 D;0;5;axis;[3arc]Wijaxu;0;4;allies;[3arc]iNnFeR;skorpion_extclip_mp;42;MOD_PISTOL_BULLET;left_leg_upper
+  0:54 D;0;5;axis;[3arc]Wijaxu;0;4;allies;[3arc]iNnFeR;skorpion_extclip_mp;50;MOD_PISTOL_BULLET;left_hand
+  0:54 K;0;5;axis;[3arc]Wijaxu;0;4;allies;[3arc]iNnFeR;knife_mp;139;MOD_MELEE;left_arm_upper
+  0:56 K;0;1;axis;[3arc]javilabra2;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:59 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:00 D;0;0;allies;Rollon;0;4;allies;[3arc]iNnFeR;skorpion_extclip_mp;20;MOD_PISTOL_BULLET;torso_upper
+  1:01 D;0;0;allies;Rollon;0;4;allies;[3arc]iNnFeR;skorpion_extclip_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+  1:01 K;0;0;allies;Rollon;0;4;allies;[3arc]iNnFeR;skorpion_extclip_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+  1:04 Weapon;0;0;Rollon;intervention_3k_zam
+  1:08 K;0;5;axis;[3arc]Wijaxu;0;0;allies;Rollon;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_lower
+  1:14 K;0;4;allies;[3arc]iNnFeR;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:15 K;0;6;allies;[3arc]I Sweatband in C;0;1;axis;[3arc]javilabra2;knife_mp;137;MOD_MELEE;torso_upper
+  1:20 K;0;1;axis;[3arc]javilabra2;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:20 K;0;2;allies;[3arc]EterNal + Dark;0;0;allies;Rollon;destructible_car_mp;205;MOD_EXPLOSIVE;none
+  1:24 Weapon;0;0;Rollon;intervention_3k_zam
+  1:26 K;0;5;axis;[3arc]Wijaxu;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:34 K;0;6;allies;[3arc]I Sweatband in C;0;4;allies;[3arc]iNnFeR;knife_mp;139;MOD_MELEE;torso_upper
+  1:37 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  1:42 K;0;4;allies;[3arc]iNnFeR;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:51 K;0;2;allies;[3arc]EterNal + Dark;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:53 K;0;0;allies;Rollon;0;6;allies;[3arc]I Sweatband in C;knife_mp;135;MOD_MELEE;torso_lower
+  1:57 Weapon;0;0;Rollon;intervention_3k_zam
+  2:01 K;0;1;axis;[3arc]javilabra2;0;5;axis;[3arc]Wijaxu;knife_mp;138;MOD_MELEE;right_hand
+  2:01 K;0;6;allies;[3arc]I Sweatband in C;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:05 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:08 K;0;4;allies;[3arc]iNnFeR;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:15 K;0;5;axis;[3arc]Wijaxu;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:17 K;0;1;axis;[3arc]javilabra2;0;6;allies;[3arc]I Sweatband in C;knife_mp;135;MOD_MELEE;torso_upper
+  2:21 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:21 K;0;2;allies;[3arc]EterNal + Dark;0;0;allies;Rollon;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  2:26 K;0;6;allies;[3arc]I Sweatband in C;0;4;allies;[3arc]iNnFeR;knife_mp;135;MOD_MELEE;head
+  2:30 K;0;4;allies;[3arc]iNnFeR;0;1;axis;[3arc]javilabra2;knife_mp;135;MOD_MELEE;torso_lower
+  2:32 K;0;3;axis;[3arc]Cornrow Wallace;0;0;allies;Rollon;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:16 ExitLevel: executed
+  3:16 ShutdownGame:
+  3:16 ------------------------------------------------------------
+  3:16 ------------------------------------------------------------
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:18 J;0;0;Rollon
+  3:18 J;0;1;[3arc]MistahTeeLexify
+  3:18 J;0;2;[3arc]Cornrow Wallace
+  3:19 J;0;3;[3arc]Lv` Erneld
+  3:19 J;0;4;[3arc]cruxsicles
+  3:19 J;0;5;[3arc]Utamia
+  3:19 J;0;6;[3arc]gtlad
+  3:20 J;0;7;[3arc][ZM]holty007
+  3:20 J;0;8;[3arc]Spacely
+  3:20 J;0;9;[3arc]lilrifa
+  3:20 J;0;10;[3arc]420BLAZeit quiks
+  3:21 J;0;11;[3arc]TheSinEater
+  3:44 D;0;7;axis;[3arc][ZM]holty007;0;3;allies;[3arc]Lv` Erneld;famas_ir_mp;48;MOD_HEAD_SHOT;head
+  3:44 D;0;7;axis;[3arc][ZM]holty007;0;3;allies;[3arc]Lv` Erneld;famas_ir_mp;35;MOD_RIFLE_BULLET;neck
+  3:44 K;0;7;axis;[3arc][ZM]holty007;0;3;allies;[3arc]Lv` Erneld;famas_ir_mp;35;MOD_RIFLE_BULLET;torso_upper
+  3:46 D;0;3;allies;[3arc]Lv` Erneld;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;torso_lower
+  3:47 D;0;3;allies;[3arc]Lv` Erneld;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;torso_upper
+  3:48 K;0;3;allies;[3arc]Lv` Erneld;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;torso_upper
+  3:48 Weapon;0;4;cruxsicles;scavenger_item_mp
+  3:49 D;0;4;allies;[3arc]cruxsicles;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;left_leg_lower
+  3:50 D;0;4;allies;[3arc]cruxsicles;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;left_leg_upper
+  3:50 D;0;10;axis;[3arc]420BLAZeit quiks;0;4;allies;[3arc]cruxsicles;m1911_silencer_mp;40;MOD_PISTOL_BULLET;left_leg_lower
+  3:51 K;0;4;allies;[3arc]cruxsicles;0;8;axis;[3arc]Spacely;fnfal_mk_mp;50;MOD_RIFLE_BULLET;left_leg_upper
+  3:52 D;0;6;allies;[3arc]gtlad;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  3:52 D;0;6;allies;[3arc]gtlad;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+  3:52 D;0;6;allies;[3arc]gtlad;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  3:53 K;0;6;allies;[3arc]gtlad;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  3:58 D;0;8;axis;[3arc]Spacely;0;2;allies;[3arc]Cornrow Wallace;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+  3:58 D;0;8;axis;[3arc]Spacely;0;2;allies;[3arc]Cornrow Wallace;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+  3:58 D;0;8;axis;[3arc]Spacely;0;2;allies;[3arc]Cornrow Wallace;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+  3:58 K;0;8;axis;[3arc]Spacely;0;2;allies;[3arc]Cornrow Wallace;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+  4:07 D;0;0;axis;Rollon;0;5;allies;[3arc]Utamia;mac11_extclip_mp;28;MOD_PISTOL_BULLET;right_leg_upper
+  4:07 D;0;0;axis;Rollon;0;5;allies;[3arc]Utamia;mac11_extclip_mp;27;MOD_PISTOL_BULLET;left_leg_upper
+  4:08 D;0;0;axis;Rollon;0;5;allies;[3arc]Utamia;mac11_extclip_mp;27;MOD_PISTOL_BULLET;left_leg_upper
+  4:08 K;0;0;axis;Rollon;0;5;allies;[3arc]Utamia;mac11_extclip_mp;27;MOD_PISTOL_BULLET;left_leg_upper
+  4:09 D;0;1;allies;[3arc]MistahTeeLexify;0;11;axis;[3arc]TheSinEater;hk21_elbit_mp;40;MOD_RIFLE_BULLET;torso_upper
+  4:09 D;0;1;allies;[3arc]MistahTeeLexify;0;11;axis;[3arc]TheSinEater;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  4:09 K;0;1;allies;[3arc]MistahTeeLexify;0;11;axis;[3arc]TheSinEater;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  4:11 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;mac11_extclip_mp;20;MOD_PISTOL_BULLET;right_leg_lower
+  4:11 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;mac11_extclip_mp;20;MOD_PISTOL_BULLET;right_leg_upper
+  4:12 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;mac11_extclip_mp;20;MOD_PISTOL_BULLET;right_leg_upper
+  4:12 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;mac11_extclip_mp;20;MOD_PISTOL_BULLET;right_leg_upper
+  4:12 K;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;mac11_extclip_mp;20;MOD_PISTOL_BULLET;torso_lower
+  4:12 D;0;5;allies;[3arc]Utamia;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  4:12 D;0;5;allies;[3arc]Utamia;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:13 D;0;5;allies;[3arc]Utamia;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:13 K;0;5;allies;[3arc]Utamia;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:20 Weapon;0;2;Cornrow Wallace;asp_mp
+  4:33 K;0;9;axis;[3arc]lilrifa;0;2;allies;[3arc]Cornrow Wallace;knife_mp;137;MOD_MELEE;head
+  4:38 D;0;2;allies;[3arc]Cornrow Wallace;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:38 D;0;2;allies;[3arc]Cornrow Wallace;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:38 K;0;2;allies;[3arc]Cornrow Wallace;0;10;axis;[3arc]420BLAZeit quiks;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:51 ShutdownGame:
+  4:51 ------------------------------------------------------------
+  4:51 ------------------------------------------------------------
+  4:51 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:51 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:51 J;0;11;[3arc]TheSinEater
+  4:51 J;0;10;[3arc]420BLAZeit quiks
+  4:51 J;0;9;[3arc]lilrifa
+  4:51 J;0;8;[3arc]Spacely
+  4:51 J;0;7;[3arc]ZM]holty007
+  4:51 J;0;6;[3arc]gtlad
+  4:51 J;0;5;[3arc]Utamia
+  4:51 J;0;4;[3arc]cruxsicles
+  4:51 J;0;3;[3arc]Lv` Erneld
+  4:51 J;0;2;[3arc]Cornrow Wallace
+  4:51 J;0;1;[3arc]MistahTeeLexify
+  4:51 J;0;0;Rollon
+  5:01 K;0;4;allies;[3arc]cruxsicles;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:09 K;0;3;allies;[3arc]Lv` Erneld;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:13 K;0;2;allies;[3arc]Cornrow Wallace;0;7;axis;[3arc]ZM]holty007;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:14 Weapon;0;7;ZM]holty007;psg1_mp
+  5:19 D;0;7;axis;[3arc]ZM]holty007;0;6;allies;[3arc]gtlad;psg1_mp;76;MOD_RIFLE_BULLET;torso_lower
+  5:20 K;0;7;axis;[3arc]ZM]holty007;0;6;allies;[3arc]gtlad;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:21 D;0;1;allies;[3arc]MistahTeeLexify;0;0;axis;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+  5:21 K;0;1;allies;[3arc]MistahTeeLexify;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  5:22 Weapon;0;5;Utamia;psg1_mp
+  5:23 K;0;5;allies;[3arc]Utamia;0;0;axis;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+  5:23 Weapon;0;0;Rollon;psg1_mp
+  5:37 K;0;6;allies;[3arc]gtlad;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+  5:37 Weapon;0;10;420BLAZeit quiks;psg1_mp
+  5:50 ShutdownGame:
+  5:50 ------------------------------------------------------------
+  5:50 ------------------------------------------------------------
+  5:50 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:50 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:51 J;0;11;[3arc]TheSinEater
+  5:51 J;0;10;[3arc]420BLAZeit quiks
+  5:51 J;0;9;[3arc]lilrifa
+  5:51 J;0;8;[3arc]Spacely
+  5:51 J;0;7;[3arc]ZM]holty007
+  5:51 J;0;6;[3arc]gtlad
+  5:51 J;0;5;[3arc]Utamia
+  5:51 J;0;4;[3arc]cruxsicles
+  5:51 J;0;3;[3arc]Lv` Erneld
+  5:51 J;0;2;[3arc]Cornrow Wallace
+  5:51 J;0;1;[3arc]MistahTeeLexify
+  5:51 J;0;0;Rollon
+  5:58 K;0;1;allies;[3arc]MistahTeeLexify;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+  6:00 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;psg1_mp;39;MOD_RIFLE_BULLET;right_leg_upper
+  6:00 K;0;5;allies;[3arc]Utamia;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:01 K;0;2;allies;[3arc]Cornrow Wallace;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:02 K;0;4;allies;[3arc]cruxsicles;0;0;axis;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+  6:02 D;0;3;allies;[3arc]Lv` Erneld;0;0;axis;Rollon;psg1_mp;97;MOD_RIFLE_BULLET;torso_upper
+  6:04 K;0;0;axis;Rollon;0;3;allies;[3arc]Lv` Erneld;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  6:07 K;0;9;axis;[3arc]lilrifa;0;3;allies;[3arc]Lv` Erneld;psg1_mp;140;MOD_HEAD_SHOT;head
+  6:18 K;0;6;allies;[3arc]gtlad;0;10;axis;[3arc]420BLAZeit quiks;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+  6:27 K;0;7;axis;[3arc]ZM]holty007;0;3;allies;[3arc]Lv` Erneld;psg1_mp;140;MOD_RIFLE_BULLET;neck
+  7:23 K;0;3;allies;[3arc]Lv` Erneld;0;10;axis;[3arc]420BLAZeit quiks;psg1_mp;140;MOD_HEAD_SHOT;head
+  7:40 ShutdownGame:
+  7:40 ------------------------------------------------------------
+  7:40 ------------------------------------------------------------
+  7:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  7:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_duga\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  7:40 J;0;11;[3arc]TheSinEater
+  7:40 J;0;10;[3arc]420BLAZeit quiks
+  7:40 J;0;9;[3arc]lilrifa
+  7:40 J;0;8;[3arc]Spacely
+  7:40 J;0;7;[3arc]ZM]holty007
+  7:40 J;0;6;[3arc]gtlad
+  7:40 J;0;5;[3arc]Utamia
+  7:40 J;0;4;[3arc]cruxsicles
+  7:40 J;0;3;[3arc]Lv` Erneld
+  7:40 J;0;2;[3arc]Cornrow Wallace
+  7:40 J;0;1;[3arc]MistahTeeLexify
+  7:40 J;0;0;Rollon
+  7:52 K;0;3;allies;[3arc]Lv` Erneld;0;0;axis;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+  8:01 D;0;6;allies;[3arc]gtlad;0;8;axis;[3arc]Spacely;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  8:02 K;0;8;axis;[3arc]Spacely;0;6;allies;[3arc]gtlad;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+  8:06 K;0;6;allies;[3arc]gtlad;0;0;axis;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+  8:16 K;0;1;allies;[3arc]MistahTeeLexify;0;11;axis;[3arc]TheSinEater;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:17 D;0;11;axis;[3arc]TheSinEater;0;5;allies;[3arc]Utamia;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+  8:23 K;0;5;allies;[3arc]Utamia;0;0;axis;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+  8:27 D;0;10;axis;[3arc]420BLAZeit quiks;0;4;allies;[3arc]cruxsicles;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+  8:30 K;0;10;axis;[3arc]420BLAZeit quiks;0;4;allies;[3arc]cruxsicles;knife_mp;135;MOD_MELEE;left_arm_upper
+  8:30 Weapon;0;4;cruxsicles;psg1_mp
+  8:32 K;0;4;allies;[3arc]cruxsicles;0;0;axis;Rollon;knife_mp;138;MOD_MELEE;torso_upper
+  8:32 Weapon;0;11;TheSinEater;psg1_mp
+  8:32 Weapon;0;0;Rollon;psg1_mp
+  8:49 D;0;2;allies;[3arc]Cornrow Wallace;0;9;axis;[3arc]lilrifa;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+  8:50 K;0;2;allies;[3arc]Cornrow Wallace;0;9;axis;[3arc]lilrifa;psg1_mp;140;MOD_HEAD_SHOT;head
+  9:40 ExitLevel: executed
+  9:40 ShutdownGame:
+  9:40 ------------------------------------------------------------
+  9:40 ------------------------------------------------------------
+  9:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  9:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  9:40 J;0;0;Rollon
+  9:40 J;0;1;[3arc][Fake]Derp.jpeg
+  9:41 J;0;2;[3arc]xSanchez78
+  9:41 J;0;3;[3arc]TheApadayo
+  9:41 J;0;4;[3arc]Mansen
+  9:41 J;0;5;[3arc][ZM]holty007
+  9:42 J;0;6;[3arc]FiveSevenHD
+  9:59 D;0;5;axis;[3arc]ZM]holty007;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:00 D;0;0;allies;Rollon;;-1;world;;none;28;MOD_FALLING;none
+ 10:00 D;0;5;axis;[3arc]ZM]holty007;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:01 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;knife_mp;137;MOD_MELEE;torso_upper
+ 10:01 K;0;5;axis;[3arc]ZM]holty007;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:08 D;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;uzi_silencer_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+ 10:08 D;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;uzi_silencer_mp;20;MOD_PISTOL_BULLET;left_leg_upper
+ 10:08 D;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;uzi_silencer_mp;20;MOD_PISTOL_BULLET;left_leg_upper
+ 10:08 D;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;uzi_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 10:08 K;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;uzi_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 10:09 K;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;hatchet_mp;340;MOD_IMPACT;torso_lower
+ 10:09 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;right_leg_upper
+ 10:10 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:10 Weapon;0;0;Rollon;uzi_silencer_mp
+ 10:15 D;0;5;axis;[3arc]ZM]holty007;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:16 K;0;5;axis;[3arc]ZM]holty007;0;2;allies;[3arc]xSanchez78;fnfal_extclip_mp;69;MOD_HEAD_SHOT;head
+ 10:19 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;24;MOD_PISTOL_BULLET;left_leg_upper
+ 10:19 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;25;MOD_PISTOL_BULLET;right_leg_upper
+ 10:19 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;right_arm_upper
+ 10:19 K;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_foot
+ 10:22 Weapon;0;0;Rollon;fnfal_extclip_mp
+ 10:28 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:28 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:29 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;right_leg_upper
+ 10:29 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:29 K;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;neck
+ 10:29 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 10:33 K;0;3;allies;[3arc]TheApadayo;0;5;axis;[3arc]ZM]holty007;knife_mp;137;MOD_MELEE;head
+ 10:35 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:35 K;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:45 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:45 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:46 K;0;2;allies;[3arc]xSanchez78;0;6;allies;[3arc]FiveSevenHD;knife_mp;135;MOD_MELEE;head
+ 10:47 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:47 K;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:49 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 10:49 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;right_arm_lower
+ 10:53 K;0;4;allies;[3arc]Mansen;0;5;axis;[3arc]ZM]holty007;knife_mp;136;MOD_MELEE;torso_upper
+ 10:54 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 10:54 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 10:54 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+ 10:54 K;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_hand
+ 11:04 K;0;2;allies;[3arc]xSanchez78;0;6;allies;[3arc]FiveSevenHD;knife_mp;137;MOD_MELEE;head
+ 11:07 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 11:07 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 11:07 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 11:07 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 11:13 K;0;4;allies;[3arc]Mansen;0;3;allies;[3arc]TheApadayo;knife_mp;139;MOD_MELEE;head
+ 11:14 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_arm_lower
+ 11:14 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:14 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:14 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:15 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:15 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:15 K;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 11:19 K;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 11:19 K;0;6;allies;[3arc]FiveSevenHD;0;2;allies;[3arc]xSanchez78;knife_mp;136;MOD_MELEE;head
+ 11:27 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:27 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 11:27 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 11:27 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+ 11:31 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 11:31 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 11:31 D;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 11:31 K;0;3;allies;[3arc]TheApadayo;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 11:41 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+ 11:41 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+ 11:41 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;neck
+ 11:41 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+ 11:49 K;0;5;axis;[3arc]ZM]holty007;0;3;allies;[3arc]TheApadayo;knife_mp;139;MOD_MELEE;left_hand
+ 11:49 K;0;3;allies;[3arc]TheApadayo;0;6;allies;[3arc]FiveSevenHD;knife_mp;138;MOD_MELEE;head
+ 11:56 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 11:57 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:00 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 12:00 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:02 K;0;5;axis;[3arc]ZM]holty007;0;3;allies;[3arc]TheApadayo;knife_mp;135;MOD_MELEE;neck
+ 12:02 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:03 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;45;MOD_RIFLE_BULLET;torso_upper
+ 12:03 K;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;44;MOD_RIFLE_BULLET;torso_lower
+ 12:07 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;left_leg_lower
+ 12:08 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 12:09 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:10 K;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 12:14 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:15 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;fnfal_extclip_mp;69;MOD_HEAD_SHOT;head
+ 12:21 K;0;3;allies;[3arc]TheApadayo;0;5;axis;[3arc]ZM]holty007;knife_mp;138;MOD_MELEE;head
+ 12:24 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;left_leg_upper
+ 12:25 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 12:25 K;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+ 12:25 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;45;MOD_RIFLE_BULLET;torso_lower
+ 12:26 K;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:27 D;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_upper
+ 12:27 K;0;5;axis;[3arc]ZM]holty007;0;0;allies;Rollon;knife_mp;138;MOD_MELEE;left_arm_upper
+ 12:32 say;0;0;Rollon;god
+ 12:38 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 12:38 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 12:38 D;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;right_leg_lower
+ 12:38 K;0;6;allies;[3arc]FiveSevenHD;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 12:40 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;41;MOD_HEAD_SHOT;head
+ 12:40 D;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;41;MOD_HEAD_SHOT;head
+ 12:40 K;0;1;axis;[3arc]Fake]Derp.jpeg;0;0;allies;Rollon;uzi_silencer_mp;41;MOD_HEAD_SHOT;head
+ 12:42 K;0;5;axis;[3arc]ZM]holty007;0;3;allies;[3arc]TheApadayo;knife_mp;138;MOD_MELEE;left_arm_lower
+ 12:44 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;uzi_silencer_mp;25;MOD_PISTOL_BULLET;right_arm_lower
+ 12:45 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;uzi_silencer_mp;25;MOD_PISTOL_BULLET;torso_lower
+ 12:45 D;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;uzi_silencer_mp;26;MOD_PISTOL_BULLET;torso_lower
+ 12:45 K;0;4;allies;[3arc]Mansen;0;0;allies;Rollon;uzi_silencer_mp;37;MOD_HEAD_SHOT;head
+ 12:47 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 12:47 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;left_hand
+ 12:47 D;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 12:47 K;0;2;allies;[3arc]xSanchez78;0;0;allies;Rollon;uzi_silencer_mp;41;MOD_HEAD_SHOT;head
+ 13:31 ExitLevel: executed
+ 13:31 ShutdownGame:
+ 13:31 ------------------------------------------------------------
+ 13:31 ------------------------------------------------------------
+ 13:31 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 13:31 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 13:33 J;0;0;Rollon
+ 13:33 J;0;1;[3arc]Dust
+ 13:33 J;0;2;[3arc]Jgen
+ 13:34 J;0;3;[3arc]wzlr.ma
+ 13:34 J;0;4;[3arc]Weabaholic
+ 13:34 J;0;5;[3arc]Big poker
+ 13:34 J;0;6;[3arc]Treyarch
+ 13:35 J;0;7;[3arc]Resortified
+ 13:35 J;0;8;[3arc]ZMBS DON GOONY
+ 13:35 J;0;9;[3arc]#AlphaWolf14
+ 13:35 J;0;10;[3arc]CAMPERASS
+ 13:36 J;0;11;[3arc]n0thing sexies
+ 13:53 D;0;0;allies;Rollon;0;5;axis;[3arc]Big poker;pm63dw_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+ 13:53 D;0;0;allies;Rollon;0;5;axis;[3arc]Big poker;pm63dw_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+ 13:53 K;0;0;allies;Rollon;0;5;axis;[3arc]Big poker;pm63dw_mp;41;MOD_HEAD_SHOT;head
+ 13:54 D;0;6;axis;[3arc]Treyarch;0;9;allies;[3arc]AlphaWolf14;mp5k_elbit_mp;23;MOD_PISTOL_BULLET;torso_lower
+ 13:55 D;0;6;axis;[3arc]Treyarch;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 13:55 D;0;6;axis;[3arc]Treyarch;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 13:55 K;0;6;axis;[3arc]Treyarch;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 13:57 D;0;5;axis;[3arc]Big poker;0;8;allies;[3arc]ZMBS DON GOONY;pm63_mp;29;MOD_PISTOL_BULLET;left_hand
+ 13:58 D;0;5;axis;[3arc]Big poker;0;7;allies;[3arc]Resortified;uzi_rf_mp;41;MOD_HEAD_SHOT;head
+ 13:58 K;0;5;axis;[3arc]Big poker;0;7;allies;[3arc]Resortified;uzi_rf_mp;41;MOD_HEAD_SHOT;head
+ 13:59 D;0;10;allies;[3arc]CAMPERASS;0;2;axis;[3arc]Jgen;galil_silencer_mp;34;MOD_RIFLE_BULLET;right_leg_upper
+ 13:59 D;0;10;allies;[3arc]CAMPERASS;0;2;axis;[3arc]Jgen;galil_silencer_mp;34;MOD_RIFLE_BULLET;torso_lower
+ 13:59 K;0;10;allies;[3arc]CAMPERASS;0;2;axis;[3arc]Jgen;galil_silencer_mp;34;MOD_RIFLE_BULLET;torso_lower
+ 14:02 K;0;9;allies;[3arc]AlphaWolf14;;-1;world;;none;3000;MOD_FALLING;none
+ 14:04 D;0;8;allies;[3arc]ZMBS DON GOONY;0;3;axis;[3arc]wzlr.ma;m14_ir_mp;75;MOD_RIFLE_BULLET;neck
+ 14:05 D;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;pm63_mp;30;MOD_PISTOL_BULLET;left_hand
+ 14:05 D;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;pm63_mp;30;MOD_PISTOL_BULLET;left_hand
+ 14:05 D;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;pm63_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 14:05 K;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;pm63_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 14:06 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:07 Weapon;0;8;ZMBS DON GOONY;pm63dw_mp
+ 14:09 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+ 14:10 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:11 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:12 D;0;1;axis;[3arc]Dust;0;7;allies;[3arc]Resortified;uzi_rf_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 14:12 D;0;1;axis;[3arc]Dust;0;7;allies;[3arc]Resortified;uzi_rf_mp;30;MOD_PISTOL_BULLET;torso_upper
+ 14:12 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 14:18 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 14:20 Weapon;0;10;CAMPERASS;m1911_mp
+ 14:20 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;knife_mp;139;MOD_MELEE;left_arm_upper
+ 14:20 Weapon;0;0;Rollon;psg1_mp
+ 14:22 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;knife_mp;136;MOD_MELEE;right_arm_upper
+ 14:22 Weapon;0;0;Rollon;psg1_mp
+ 14:28 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 14:39 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 14:39 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;134;MOD_HEAD_SHOT;head
+ 14:43 K;0;1;axis;[3arc]Dust;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:44 K;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:45 D;0;11;allies;[3arc]n0thing sexies;0;5;axis;[3arc]Big poker;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 14:46 D;0;5;axis;[3arc]Big poker;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;41;MOD_HEAD_SHOT;head
+ 14:48 K;0;7;allies;[3arc]Resortified;;-1;world;;none;3000;MOD_FALLING;none
+ 14:49 D;0;5;axis;[3arc]Big poker;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+ 14:49 K;0;5;axis;[3arc]Big poker;0;11;allies;[3arc]n0thing sexies;mac11_grip_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+ 14:50 K;0;8;allies;[3arc]ZMBS DON GOONY;;-1;world;;none;3000;MOD_FALLING;none
+ 14:55 Weapon;0;2;Jgen;psg1_mp
+ 14:57 K;0;3;axis;[3arc]wzlr.ma;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 14:59 Weapon;0;7;Resortified;psg1_mp
+ 15:00 K;0;4;axis;[3arc]Weabaholic;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:04 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 15:06 K;0;7;allies;[3arc]Resortified;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:06 K;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 15:07 K;0;6;axis;[3arc]Treyarch;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:08 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 15:11 Weapon;0;2;Jgen;psg1_mp
+ 15:13 K;0;10;allies;[3arc]CAMPERASS;;-1;world;;none;3000;MOD_FALLING;none
+ 15:15 K;0;9;allies;[3arc]AlphaWolf14;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:21 K;0;4;axis;[3arc]Weabaholic;;-1;world;;none;3000;MOD_FALLING;none
+ 15:22 Weapon;0;5;Big poker;psg1_mp
+ 15:22 Weapon;0;2;Jgen;psg1_mp
+ 15:22 Weapon;0;2;Jgen;psg1_mp
+ 15:22 Weapon;0;2;Jgen;psg1_mp
+ 15:22 Weapon;0;2;Jgen;psg1_mp
+ 15:23 Weapon;0;2;Jgen;psg1_mp
+ 15:23 Weapon;0;2;Jgen;psg1_mp
+ 15:24 Weapon;0;2;Jgen;psg1_mp
+ 15:24 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:28 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 15:30 Weapon;0;7;Resortified;psg1_mp
+ 15:31 K;0;11;allies;[3arc]n0thing sexies;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 15:35 K;0;8;allies;[3arc]ZMBS DON GOONY;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 15:35 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:36 Weapon;0;7;Resortified;psg1_mp
+ 15:37 D;0;5;axis;[3arc]Big poker;0;10;allies;[3arc]CAMPERASS;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 15:38 D;0;0;allies;Rollon;;-1;world;;none;17;MOD_FALLING;none
+ 15:38 K;0;5;axis;[3arc]Big poker;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:39 Weapon;0;4;Weabaholic;psg1_mp
+ 15:39 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 15:42 Weapon;0;0;Rollon;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:47 Weapon;0;7;Resortified;psg1_mp
+ 15:49 D;0;2;axis;[3arc]Jgen;0;7;allies;[3arc]Resortified;psg1_mp;96;MOD_RIFLE_BULLET;torso_lower
+ 15:50 D;0;7;allies;[3arc]Resortified;0;2;axis;[3arc]Jgen;psg1_mp;61;MOD_RIFLE_BULLET;right_arm_lower
+ 15:51 K;0;2;axis;[3arc]Jgen;0;7;allies;[3arc]Resortified;psg1_mp;61;MOD_RIFLE_BULLET;right_leg_upper
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:55 Weapon;0;7;Resortified;psg1_mp
+ 15:56 K;0;7;allies;[3arc]Resortified;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:00 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:07 Weapon;0;3;wzlr.ma;psg1_mp
+ 16:15 K;0;6;axis;[3arc]Treyarch;;-1;world;;none;3000;MOD_FALLING;none
+ 16:16 D;0;4;axis;[3arc]Weabaholic;0;10;allies;[3arc]CAMPERASS;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 16:17 K;0;4;axis;[3arc]Weabaholic;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:23 K;0;5;axis;[3arc]Big poker;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:29 D;0;0;allies;Rollon;;-1;world;;none;24;MOD_FALLING;none
+ 16:29 Weapon;0;0;Rollon;psg1_mp
+ 16:29 K;0;1;axis;[3arc]Dust;;-1;world;;none;3000;MOD_FALLING;none
+ 16:29 Weapon;0;2;Jgen;psg1_mp
+ 16:30 D;0;10;allies;[3arc]CAMPERASS;0;4;axis;[3arc]Weabaholic;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 16:31 K;0;11;allies;[3arc]n0thing sexies;;-1;world;;none;3000;MOD_FALLING;none
+ 16:32 K;0;10;allies;[3arc]CAMPERASS;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 16:32 Weapon;0;4;Weabaholic;psg1_mp
+ 16:34 Weapon;0;6;Treyarch;psg1_mp
+ 16:40 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:43 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 16:46 K;0;5;axis;[3arc]Big poker;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:51 Weapon;0;10;CAMPERASS;psg1_mp
+ 16:54 K;0;3;axis;[3arc]wzlr.ma;0;11;allies;[3arc]n0thing sexies;psg1_mp;140;MOD_HEAD_SHOT;head
+ 16:54 K;0;7;allies;[3arc]Resortified;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:54 Weapon;0;9;AlphaWolf14;psg1_mp
+ 16:55 Weapon;0;0;Rollon;psg1_mp
+ 16:55 K;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:57 D;0;0;allies;Rollon;0;4;axis;[3arc]Weabaholic;psg1_mp;70;MOD_RIFLE_BULLET;left_hand
+ 16:58 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 16:58 K;0;0;allies;Rollon;0;2;axis;[3arc]Jgen;psg1_mp;102;MOD_RIFLE_BULLET;torso_lower
+ 17:00 K;0;11;allies;[3arc]n0thing sexies;;-1;world;;none;3000;MOD_FALLING;none
+ 17:01 Weapon;0;2;Jgen;psg1_mp
+ 17:08 K;0;8;allies;[3arc]ZMBS DON GOONY;;-1;world;;none;3000;MOD_FALLING;none
+ 17:09 K;0;7;allies;[3arc]Resortified;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:09 D;0;0;allies;Rollon;;-1;world;;none;4;MOD_FALLING;none
+ 17:12 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:13 Weapon;0;0;Rollon;psg1_mp
+ 17:14 Weapon;0;1;Dust;psg1_mp
+ 17:18 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 17:19 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 17:20 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:22 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:23 Weapon;0;11;n0thing sexies;psg1_mp
+ 17:24 K;0;4;axis;[3arc]Weabaholic;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 17:27 Weapon;0;0;Rollon;psg1_mp
+ 17:28 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 17:29 Weapon;0;10;CAMPERASS;psg1_mp
+ 17:30 Weapon;0;7;Resortified;psg1_mp
+ 17:30 Weapon;0;0;Rollon;psg1_mp
+ 17:30 Weapon;0;0;Rollon;psg1_mp
+ 17:34 K;0;7;allies;[3arc]Resortified;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:35 K;0;10;allies;[3arc]CAMPERASS;0;4;axis;[3arc]Weabaholic;psg1_mp;140;MOD_HEAD_SHOT;head
+ 17:37 K;0;2;axis;[3arc]Jgen;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:37 D;0;9;allies;[3arc]AlphaWolf14;0;1;axis;[3arc]Dust;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 17:37 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:38 K;0;9;allies;[3arc]AlphaWolf14;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 17:41 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 17:43 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;knife_mp;135;MOD_MELEE;head
+ 17:43 Weapon;0;0;Rollon;psg1_mp
+ 17:43 Weapon;0;0;Rollon;psg1_mp
+ 17:43 Weapon;0;0;Rollon;psg1_mp
+ 17:43 Weapon;0;0;Rollon;psg1_mp
+ 17:43 Weapon;0;0;Rollon;psg1_mp
+ 17:43 Weapon;0;11;n0thing sexies;psg1_mp
+ 17:44 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;knife_mp;135;MOD_MELEE;torso_lower
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:44 Weapon;0;0;Rollon;psg1_mp
+ 17:47 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;knife_mp;136;MOD_MELEE;torso_lower
+ 17:47 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:48 Weapon;0;0;Rollon;psg1_mp
+ 17:51 Weapon;0;6;Treyarch;psg1_mp
+ 17:52 Weapon;0;6;Treyarch;psg1_mp
+ 17:57 D;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+ 17:57 K;0;7;allies;[3arc]Resortified;0;4;axis;[3arc]Weabaholic;psg1_mp;140;MOD_HEAD_SHOT;head
+ 18:00 K;0;10;allies;[3arc]CAMPERASS;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:03 D;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;91;MOD_RIFLE_BULLET;torso_lower
+ 18:04 K;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;91;MOD_RIFLE_BULLET;torso_lower
+ 18:05 K;0;9;allies;[3arc]AlphaWolf14;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:09 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:09 Weapon;0;4;Weabaholic;psg1_mp
+ 18:13 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:17 Weapon;0;0;Rollon;psg1_mp
+ 18:18 Weapon;0;0;Rollon;psg1_mp
+ 18:18 Weapon;0;1;Dust;psg1_mp
+ 18:19 D;0;10;allies;[3arc]CAMPERASS;0;2;axis;[3arc]Jgen;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 18:19 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 18:19 K;0;1;axis;[3arc]Dust;0;10;allies;[3arc]CAMPERASS;psg1_mp;140;MOD_HEAD_SHOT;head
+ 18:19 Weapon;0;7;Resortified;psg1_mp
+ 18:20 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:24 Weapon;0;7;Resortified;psg1_mp
+ 18:26 K;0;11;allies;[3arc]n0thing sexies;0;4;axis;[3arc]Weabaholic;psg1_mp;103;MOD_RIFLE_BULLET;torso_upper
+ 18:26 Weapon;0;9;AlphaWolf14;psg1_mp
+ 18:29 Weapon;0;5;Big poker;psg1_mp
+ 18:30 K;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:31 Weapon;0;10;CAMPERASS;psg1_mp
+ 18:32 K;0;6;axis;[3arc]Treyarch;0;9;allies;[3arc]AlphaWolf14;psg1_mp;140;MOD_HEAD_SHOT;head
+ 18:37 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 18:42 Weapon;0;3;wzlr.ma;psg1_mp
+ 18:43 Weapon;0;4;Weabaholic;psg1_mp
+ 18:47 K;0;0;allies;Rollon;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 18:48 K;0;10;allies;[3arc]CAMPERASS;0;3;axis;[3arc]wzlr.ma;psg1_mp;140;MOD_HEAD_SHOT;head
+ 18:50 K;0;7;allies;[3arc]Resortified;0;4;axis;[3arc]Weabaholic;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 18:51 K;0;6;axis;[3arc]Treyarch;0;8;allies;[3arc]ZMBS DON GOONY;knife_mp;136;MOD_MELEE;torso_upper
+ 18:51 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 18:56 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:00 K;0;9;allies;[3arc]AlphaWolf14;;-1;world;;none;3000;MOD_FALLING;none
+ 19:01 D;0;2;axis;[3arc]Jgen;0;10;allies;[3arc]CAMPERASS;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+ 19:02 K;0;2;axis;[3arc]Jgen;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 19:07 K;0;0;allies;Rollon;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 19:08 Weapon;0;11;n0thing sexies;psg1_mp
+ 19:10 K;0;4;axis;[3arc]Weabaholic;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:12 D;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;68;MOD_RIFLE_BULLET;right_leg_upper
+ 19:13 Weapon;0;6;Treyarch;psg1_mp
+ 19:13 K;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;136;MOD_HEAD_SHOT;head
+ 19:15 K;0;5;axis;[3arc]Big poker;0;11;allies;[3arc]n0thing sexies;psg1_mp;102;MOD_RIFLE_BULLET;torso_lower
+ 19:15 Weapon;0;6;Treyarch;psg1_mp
+ 19:18 Weapon;0;1;Dust;psg1_mp
+ 19:20 D;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 19:21 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:21 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+ 19:21 K;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 19:24 K;0;7;allies;[3arc]Resortified;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 19:25 K;0;4;axis;[3arc]Weabaholic;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 19:26 K;0;1;axis;[3arc]Dust;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:32 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 19:32 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:35 Weapon;0;0;Rollon;psg1_mp
+ 19:36 D;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 19:37 K;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 19:37 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:40 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 19:40 K;0;7;allies;[3arc]Resortified;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 19:41 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 19:41 Weapon;0;1;Dust;psg1_mp
+ 19:42 K;0;1;axis;[3arc]Dust;0;11;allies;[3arc]n0thing sexies;psg1_mp;70;MOD_RIFLE_BULLET;left_arm_upper
+ 19:45 K;0;6;axis;[3arc]Treyarch;0;11;allies;[3arc]n0thing sexies;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 19:47 Weapon;0;0;Rollon;psg1_mp
+ 19:51 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:53 K;0;8;allies;[3arc]ZMBS DON GOONY;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:53 Weapon;0;10;CAMPERASS;psg1_mp
+ 19:57 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 19:58 Weapon;0;0;Rollon;psg1_mp
+ 20:04 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:07 Weapon;0;4;Weabaholic;psg1_mp
+ 20:08 D;0;4;axis;[3arc]Weabaholic;0;9;allies;[3arc]AlphaWolf14;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 20:09 K;0;4;axis;[3arc]Weabaholic;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:12 Weapon;0;11;n0thing sexies;psg1_mp
+ 20:18 K;0;10;allies;[3arc]CAMPERASS;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:19 D;0;0;allies;Rollon;;-1;world;;none;61;MOD_FALLING;none
+ 20:19 K;0;5;axis;[3arc]Big poker;0;7;allies;[3arc]Resortified;psg1_mp;140;MOD_HEAD_SHOT;head
+ 20:23 D;0;2;axis;[3arc]Jgen;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+ 20:24 K;0;7;allies;[3arc]Resortified;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:25 Weapon;0;2;Jgen;psg1_mp
+ 20:26 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 20:28 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 20:28 Weapon;0;1;Dust;psg1_mp
+ 20:30 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 20:35 Weapon;0;4;Weabaholic;psg1_mp
+ 20:37 K;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:38 Weapon;0;4;Weabaholic;psg1_mp
+ 20:39 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 20:40 Weapon;0;4;Weabaholic;psg1_mp
+ 20:40 Weapon;0;4;Weabaholic;psg1_mp
+ 20:40 Weapon;0;4;Weabaholic;psg1_mp
+ 20:40 Weapon;0;4;Weabaholic;psg1_mp
+ 20:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 20:44 Weapon;0;4;Weabaholic;psg1_mp
+ 20:44 Weapon;0;4;Weabaholic;psg1_mp
+ 20:44 Weapon;0;4;Weabaholic;psg1_mp
+ 20:45 K;0;11;allies;[3arc]n0thing sexies;0;1;axis;[3arc]Dust;psg1_mp;140;MOD_HEAD_SHOT;head
+ 20:45 Weapon;0;4;Weabaholic;psg1_mp
+ 20:45 Weapon;0;4;Weabaholic;psg1_mp
+ 20:45 D;0;2;axis;[3arc]Jgen;0;9;allies;[3arc]AlphaWolf14;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+ 20:45 Weapon;0;4;Weabaholic;psg1_mp
+ 20:45 Weapon;0;4;Weabaholic;psg1_mp
+ 20:45 Weapon;0;4;Weabaholic;psg1_mp
+ 20:46 Weapon;0;0;Rollon;psg1_mp
+ 20:46 Weapon;0;4;Weabaholic;psg1_mp
+ 20:46 Weapon;0;4;Weabaholic;psg1_mp
+ 20:46 Weapon;0;4;Weabaholic;psg1_mp
+ 20:46 Weapon;0;4;Weabaholic;psg1_mp
+ 20:47 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:47 K;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:48 Weapon;0;0;Rollon;psg1_mp
+ 20:49 Weapon;0;0;Rollon;psg1_mp
+ 20:50 K;0;10;allies;[3arc]CAMPERASS;;-1;world;;none;3000;MOD_FALLING;none
+ 20:52 Weapon;0;3;wzlr.ma;psg1_mp
+ 20:53 Weapon;0;7;Resortified;psg1_mp
+ 20:57 K;0;3;axis;[3arc]wzlr.ma;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 20:57 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:02 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:03 Weapon;0;7;Resortified;psg1_mp
+ 21:06 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:09 K;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:09 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:13 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 K;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 Weapon;0;0;Rollon;psg1_mp
+ 21:14 K;0;7;allies;[3arc]Resortified;0;3;axis;[3arc]wzlr.ma;psg1_mp;140;MOD_HEAD_SHOT;head
+ 21:18 Weapon;0;3;wzlr.ma;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:19 Weapon;0;0;Rollon;psg1_mp
+ 21:20 Weapon;0;2;Jgen;psg1_mp
+ 21:23 Weapon;0;1;Dust;psg1_mp
+ 21:23 Weapon;0;1;Dust;psg1_mp
+ 21:23 Weapon;0;1;Dust;psg1_mp
+ 21:23 Weapon;0;1;Dust;psg1_mp
+ 21:23 Weapon;0;1;Dust;psg1_mp
+ 21:24 Weapon;0;1;Dust;psg1_mp
+ 21:24 Weapon;0;1;Dust;psg1_mp
+ 21:24 Weapon;0;1;Dust;psg1_mp
+ 21:24 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:25 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 21:25 Weapon;0;0;Rollon;psg1_mp
+ 21:25 Weapon;0;0;Rollon;psg1_mp
+ 21:26 Weapon;0;0;Rollon;psg1_mp
+ 21:26 Weapon;0;0;Rollon;psg1_mp
+ 21:26 Weapon;0;0;Rollon;psg1_mp
+ 21:26 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:27 Weapon;0;0;Rollon;psg1_mp
+ 21:31 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 21:42 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 K;0;1;axis;[3arc]Dust;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 K;0;9;allies;[3arc]AlphaWolf14;;-1;world;;none;3000;MOD_FALLING;none
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:44 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:45 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:45 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:45 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:45 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:45 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:47 K;0;8;allies;[3arc]ZMBS DON GOONY;;-1;world;;none;3000;MOD_FALLING;none
+ 21:47 D;0;6;axis;[3arc]Treyarch;0;10;allies;[3arc]CAMPERASS;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 21:48 K;0;6;axis;[3arc]Treyarch;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 21:52 K;0;4;axis;[3arc]Weabaholic;0;11;allies;[3arc]n0thing sexies;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:52 Weapon;0;10;CAMPERASS;psg1_mp
+ 21:53 D;0;0;allies;Rollon;;-1;world;;none;32;MOD_FALLING;none
+ 21:53 Weapon;0;3;wzlr.ma;psg1_mp
+ 21:55 Weapon;0;9;AlphaWolf14;psg1_mp
+ 21:56 Weapon;0;7;Resortified;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:00 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:01 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:01 Weapon;0;3;wzlr.ma;psg1_mp
+ 22:05 D;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 22:07 K;0;8;allies;[3arc]ZMBS DON GOONY;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:09 K;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:10 D;0;0;allies;Rollon;;-1;world;;none;4;MOD_FALLING;none
+ 22:13 K;0;9;allies;[3arc]AlphaWolf14;;-1;world;;none;3000;MOD_FALLING;none
+ 22:15 K;0;7;allies;[3arc]Resortified;;-1;world;;none;3000;MOD_FALLING;none
+ 22:15 D;0;0;allies;Rollon;;-1;world;;none;4;MOD_FALLING;none
+ 22:19 K;0;5;axis;[3arc]Big poker;0;11;allies;[3arc]n0thing sexies;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:20 K;0;10;allies;[3arc]CAMPERASS;;-1;world;;none;3000;MOD_FALLING;none
+ 22:21 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;knife_mp;137;MOD_MELEE;torso_upper
+ 22:21 Weapon;0;0;Rollon;psg1_mp
+ 22:25 Weapon;0;11;n0thing sexies;psg1_mp
+ 22:26 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 22:26 K;0;3;axis;[3arc]wzlr.ma;0;9;allies;[3arc]AlphaWolf14;psg1_mp;140;MOD_HEAD_SHOT;head
+ 22:27 K;0;0;allies;Rollon;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:30 Weapon;0;9;AlphaWolf14;psg1_mp
+ 22:32 Weapon;0;1;Dust;psg1_mp
+ 22:36 D;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 22:36 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:37 K;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 22:37 K;0;8;allies;[3arc]ZMBS DON GOONY;0;4;axis;[3arc]Weabaholic;psg1_mp;102;MOD_RIFLE_BULLET;torso_lower
+ 22:37 Weapon;0;10;CAMPERASS;psg1_mp
+ 22:43 K;0;6;axis;[3arc]Treyarch;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:44 D;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 22:45 K;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:48 K;0;11;allies;[3arc]n0thing sexies;0;5;axis;[3arc]Big poker;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 22:49 Weapon;0;7;Resortified;psg1_mp
+ 22:49 K;0;2;axis;[3arc]Jgen;0;10;allies;[3arc]CAMPERASS;psg1_mp;140;MOD_HEAD_SHOT;head
+ 22:55 Weapon;0;5;Big poker;psg1_mp
+ 22:55 Weapon;0;10;CAMPERASS;psg1_mp
+ 22:56 K;0;7;allies;[3arc]Resortified;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 22:57 K;0;1;axis;[3arc]Dust;;-1;world;;none;3000;MOD_FALLING;none
+ 22:57 Weapon;0;9;AlphaWolf14;psg1_mp
+ 22:59 K;0;8;allies;[3arc]ZMBS DON GOONY;;-1;world;;none;3000;MOD_FALLING;none
+ 23:00 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:02 K;0;3;axis;[3arc]wzlr.ma;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:06 Weapon;0;10;CAMPERASS;psg1_mp
+ 23:08 K;0;10;allies;[3arc]CAMPERASS;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 23:10 K;0;4;axis;[3arc]Weabaholic;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:10 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:11 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:12 Weapon;0;9;AlphaWolf14;psg1_mp
+ 23:13 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:21 K;0;5;axis;[3arc]Big poker;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:21 Weapon;0;7;Resortified;psg1_mp
+ 23:22 Weapon;0;7;Resortified;psg1_mp
+ 23:22 Weapon;0;7;Resortified;psg1_mp
+ 23:22 Weapon;0;11;n0thing sexies;psg1_mp
+ 23:22 Weapon;0;7;Resortified;psg1_mp
+ 23:22 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:23 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 K;0;11;allies;[3arc]n0thing sexies;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 K;0;3;axis;[3arc]wzlr.ma;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:24 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 D;0;6;axis;[3arc]Treyarch;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:25 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 Weapon;0;7;Resortified;psg1_mp
+ 23:26 K;0;7;allies;[3arc]Resortified;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:30 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:36 Weapon;0;5;Big poker;psg1_mp
+ 23:43 Weapon;0;2;Jgen;psg1_mp
+ 23:48 K;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 23:49 K;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:04 Weapon;0;1;Dust;psg1_mp
+ 24:09 Weapon;0;11;n0thing sexies;psg1_mp
+ 24:11 D;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+ 24:11 K;0;3;axis;[3arc]wzlr.ma;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:12 D;0;1;axis;[3arc]Dust;0;9;allies;[3arc]AlphaWolf14;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 24:12 K;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:12 Weapon;0;1;Dust;psg1_mp
+ 24:12 Weapon;0;1;Dust;psg1_mp
+ 24:12 Weapon;0;1;Dust;psg1_mp
+ 24:12 Weapon;0;1;Dust;psg1_mp
+ 24:12 Weapon;0;1;Dust;psg1_mp
+ 24:12 D;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;99;MOD_RIFLE_BULLET;torso_upper
+ 24:13 K;0;1;axis;[3arc]Dust;0;9;allies;[3arc]AlphaWolf14;psg1_mp;140;MOD_HEAD_SHOT;head
+ 24:13 K;0;5;axis;[3arc]Big poker;0;10;allies;[3arc]CAMPERASS;knife_mp;136;MOD_MELEE;right_hand
+ 24:13 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:15 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:16 Weapon;0;9;AlphaWolf14;psg1_mp
+ 24:17 Weapon;0;0;Rollon;psg1_mp
+ 24:18 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:19 Weapon;0;0;Rollon;psg1_mp
+ 24:21 D;0;0;allies;Rollon;;-1;world;;none;25;MOD_FALLING;none
+ 24:21 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:33 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:33 Weapon;0;0;Rollon;psg1_mp
+ 24:35 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:41 Weapon;0;10;CAMPERASS;psg1_mp
+ 24:44 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 24:44 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 24:45 D;0;3;axis;[3arc]wzlr.ma;0;10;allies;[3arc]CAMPERASS;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 24:45 Weapon;0;0;Rollon;psg1_mp
+ 24:46 D;0;10;allies;[3arc]CAMPERASS;0;3;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 24:48 K;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 24:48 K;0;10;allies;[3arc]CAMPERASS;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 24:48 D;0;11;allies;[3arc]n0thing sexies;0;3;axis;[3arc]wzlr.ma;psg1_mp;99;MOD_RIFLE_BULLET;torso_lower
+ 24:48 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:49 K;0;11;allies;[3arc]n0thing sexies;0;3;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:51 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:52 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:52 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:52 Weapon;0;3;wzlr.ma;psg1_mp
+ 24:54 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;91;MOD_RIFLE_BULLET;torso_lower
+ 24:56 D;0;0;allies;Rollon;0;3;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 24:56 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;knife_mp;139;MOD_MELEE;left_arm_upper
+ 24:56 Weapon;0;0;Rollon;psg1_mp
+ 25:07 D;0;7;allies;[3arc]Resortified;0;4;axis;[3arc]Weabaholic;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 25:07 D;0;9;allies;[3arc]AlphaWolf14;0;4;axis;[3arc]Weabaholic;psg1_mp;66;MOD_RIFLE_BULLET;left_leg_upper
+ 25:08 D;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;47;MOD_RIFLE_BULLET;left_foot
+ 25:09 K;0;4;axis;[3arc]Weabaholic;0;7;allies;[3arc]Resortified;psg1_mp;78;MOD_RIFLE_BULLET;torso_lower
+ 25:10 K;0;0;allies;Rollon;0;3;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 25:12 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;mortar_mp;396;MOD_PROJECTILE_SPLASH;none
+ 25:14 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;mortar_mp;79;MOD_PROJECTILE_SPLASH;none
+ 25:14 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;mortar_mp;73;MOD_PROJECTILE_SPLASH;none
+ 25:16 D;0;2;axis;[3arc]Jgen;0;11;allies;[3arc]n0thing sexies;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 25:17 K;0;2;axis;[3arc]Jgen;0;11;allies;[3arc]n0thing sexies;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 25:18 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:18 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:18 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:19 D;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:19 D;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:25 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 25:26 Weapon;0;4;Weabaholic;psg1_mp
+ 25:28 D;0;0;allies;Rollon;0;5;axis;[3arc]Big poker;psg1_mp;65;MOD_RIFLE_BULLET;left_leg_lower
+ 25:29 D;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:30 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:30 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 25:30 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:30 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:30 Weapon;0;0;Rollon;psg1_mp
+ 25:37 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:38 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:38 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:38 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:38 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:38 Weapon;0;8;ZMBS DON GOONY;psg1_mp
+ 25:40 K;0;11;allies;[3arc]n0thing sexies;0;3;axis;[3arc]wzlr.ma;psg1_mp;140;MOD_HEAD_SHOT;head
+ 25:40 K;0;2;axis;[3arc]Jgen;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:41 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 25:42 K;0;8;allies;[3arc]ZMBS DON GOONY;0;1;axis;[3arc]Dust;psg1_mp;140;MOD_HEAD_SHOT;head
+ 25:46 K;0;9;allies;[3arc]AlphaWolf14;0;1;axis;[3arc]Dust;psg1_mp;140;MOD_HEAD_SHOT;head
+ 25:47 Weapon;0;7;Resortified;psg1_mp
+ 25:47 Weapon;0;7;Resortified;psg1_mp
+ 25:49 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:49 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:49 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:49 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:50 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:50 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:50 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_lower
+ 25:50 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_lower
+ 25:50 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_lower
+ 25:50 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 25:50 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:50 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:50 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 25:50 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 25:53 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:53 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:53 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:53 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:53 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:54 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_upper
+ 25:54 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 25:54 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;neck
+ 25:54 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_upper
+ 25:54 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_upper
+ 25:56 D;0;2;axis;[3arc]Jgen;0;11;allies;[3arc]n0thing sexies;psg1_mp;22;MOD_RIFLE_BULLET;left_leg_upper
+ 25:57 K;0;2;axis;[3arc]Jgen;0;11;allies;[3arc]n0thing sexies;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 25:58 D;0;10;allies;[3arc]CAMPERASS;0;1;axis;[3arc]Dust;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 25:58 D;0;0;allies;Rollon;;-1;world;;none;28;MOD_FALLING;none
+ 25:58 D;0;1;axis;[3arc]Dust;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 25:59 K;0;1;axis;[3arc]Dust;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 26:00 Weapon;0;0;Rollon;psg1_mp
+ 26:01 Weapon;0;0;Rollon;psg1_mp
+ 26:01 Weapon;0;0;Rollon;psg1_mp
+ 26:01 Weapon;0;0;Rollon;psg1_mp
+ 26:01 Weapon;0;0;Rollon;psg1_mp
+ 26:02 Weapon;0;0;Rollon;psg1_mp
+ 26:02 Weapon;0;0;Rollon;psg1_mp
+ 26:05 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:05 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;1;MOD_PISTOL_BULLET;right_foot
+ 26:09 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_lower
+ 26:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:10 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:10 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:11 Weapon;0;4;Weabaholic;psg1_mp
+ 26:12 K;0;5;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:13 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:16 Weapon;0;0;Rollon;psg1_mp
+ 26:20 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 26:24 Weapon;0;6;Treyarch;psg1_mp
+ 26:25 K;0;5;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+ 26:25 K;0;6;axis;[3arc]Treyarch;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 26:28 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 26:28 Weapon;0;7;Resortified;psg1_mp
+ 26:29 Weapon;0;0;Rollon;psg1_mp
+ 26:31 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 26:33 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 26:40 D;0;2;axis;[3arc]Jgen;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 26:41 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:41 Weapon;0;0;Rollon;psg1_mp
+ 26:42 Weapon;0;0;Rollon;psg1_mp
+ 26:42 Weapon;0;0;Rollon;psg1_mp
+ 26:46 Weapon;0;0;Rollon;psg1_mp
+ 26:46 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;mortar_mp;110;MOD_PROJECTILE_SPLASH;none
+ 26:48 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;mortar_mp;193;MOD_PROJECTILE_SPLASH;none
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 26:49 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;mortar_mp;480;MOD_PROJECTILE_SPLASH;none
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_foot
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_foot
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 26:49 D;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 26:49 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_upper
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_lower
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 26:57 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 26:57 K;0;2;axis;[3arc]Jgen;0;7;allies;[3arc]Resortified;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 26:57 Weapon;0;0;Rollon;psg1_mp
+ 26:57 Weapon;0;0;Rollon;psg1_mp
+ 26:57 Weapon;0;0;Rollon;psg1_mp
+ 26:58 Weapon;0;0;Rollon;psg1_mp
+ 26:58 Weapon;0;0;Rollon;psg1_mp
+ 26:59 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_lower
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:01 D;0;11;allies;[3arc]n0thing sexies;0;1;axis;[3arc]Dust;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:01 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:02 K;0;11;allies;[3arc]n0thing sexies;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:02 Weapon;0;6;Treyarch;psg1_mp
+ 27:04 Weapon;0;9;AlphaWolf14;psg1_mp
+ 27:04 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_upper
+ 27:07 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_lower
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 27:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 27:08 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 27:10 K;0;9;allies;[3arc]AlphaWolf14;0;2;axis;[3arc]Jgen;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_upper
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 27:14 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:14 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_foot
+ 27:17 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:20 K;0;7;allies;[3arc]Resortified;0;4;axis;[3arc]Weabaholic;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 27:22 K;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 27:23 D;0;0;allies;Rollon;;-1;world;;none;26;MOD_FALLING;none
+ 27:25 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 27:26 Weapon;0;1;Dust;psg1_mp
+ 27:26 D;0;1;axis;[3arc]Dust;0;9;allies;[3arc]AlphaWolf14;psg1_mp;9;MOD_RIFLE_BULLET;torso_lower
+ 27:27 K;0;1;axis;[3arc]Dust;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_foot
+ 27:29 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 27:29 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_foot
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:30 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:32 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:36 Weapon;0;10;CAMPERASS;psg1_mp
+ 27:39 D;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:39 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:40 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:40 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:40 Weapon;0;11;n0thing sexies;psg1_mp
+ 27:40 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 27:43 Weapon;0;3;wzlr.ma;psg1_mp
+ 27:44 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 27:44 K;0;8;allies;[3arc]ZMBS DON GOONY;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:49 Weapon;0;2;Jgen;psg1_mp
+ 27:51 D;0;9;allies;[3arc]AlphaWolf14;0;3;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_lower
+ 27:52 K;0;9;allies;[3arc]AlphaWolf14;0;3;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 27:55 K;0;10;allies;[3arc]CAMPERASS;0;2;axis;[3arc]Jgen;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:55 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:56 Weapon;0;0;Rollon;psg1_mp
+ 27:56 Weapon;0;0;Rollon;psg1_mp
+ 27:56 Weapon;0;0;Rollon;psg1_mp
+ 27:57 Weapon;0;0;Rollon;psg1_mp
+ 27:58 K;0;11;allies;[3arc]n0thing sexies;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 27:59 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 27:59 K;0;6;axis;[3arc]Treyarch;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 28:07 Weapon;0;0;Rollon;psg1_mp
+ 28:07 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:08 Weapon;0;0;Rollon;psg1_mp
+ 28:12 K;0;3;axis;[3arc]wzlr.ma;0;7;allies;[3arc]Resortified;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 28:12 K;0;0;allies;Rollon;0;1;axis;[3arc]Dust;psg1_mp;140;MOD_HEAD_SHOT;head
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_arm_upper
+ 28:13 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 28:13 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+ 28:13 K;0;5;axis;[3arc]Big poker;0;0;allies;Rollon;mortar_mp;217;MOD_PROJECTILE_SPLASH;none
+ 28:13 K;0;1;axis;[3arc]Dust;0;0;allies;Rollon;mortar_mp;109;MOD_PROJECTILE_SPLASH;none
+ 28:14 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;mortar_mp;47;MOD_PROJECTILE_SPLASH;none
+ 28:17 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:17 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:17 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:17 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:17 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:17 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:23 Weapon;0;5;Big poker;psg1_mp
+ 28:24 D;0;0;allies;Rollon;;-1;world;;none;14;MOD_FALLING;none
+ 28:30 K;0;0;allies;Rollon;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 D;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:34 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:37 K;0;8;allies;[3arc]ZMBS DON GOONY;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 28:38 Weapon;0;2;Jgen;psg1_mp
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:38 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:42 K;0;7;allies;[3arc]Resortified;0;1;axis;[3arc]Dust;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 28:44 K;0;5;axis;[3arc]Big poker;0;10;allies;[3arc]CAMPERASS;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 28:45 Weapon;0;1;Dust;psg1_mp
+ 28:46 D;0;0;allies;Rollon;;-1;world;;none;24;MOD_FALLING;none
+ 28:47 D;0;3;axis;[3arc]wzlr.ma;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 28:47 D;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;90;MOD_RIFLE_BULLET;torso_lower
+ 28:48 K;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;42;MOD_RIFLE_BULLET;left_leg_upper
+ 28:54 Weapon;0;11;n0thing sexies;psg1_mp
+ 28:58 Weapon;0;7;Resortified;psg1_mp
+ 29:00 K;0;1;axis;[3arc]Dust;;-1;world;;none;3000;MOD_FALLING;none
+ 29:00 K;0;8;allies;[3arc]ZMBS DON GOONY;0;4;axis;[3arc]Weabaholic;psg1_mp;140;MOD_HEAD_SHOT;head
+ 29:00 K;0;10;allies;[3arc]CAMPERASS;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 29:03 Weapon;0;7;Resortified;psg1_mp
+ 29:03 K;0;7;allies;[3arc]Resortified;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 29:04 K;0;4;axis;[3arc]Weabaholic;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 29:05 D;0;5;axis;[3arc]Big poker;0;9;allies;[3arc]AlphaWolf14;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+ 29:06 K;0;5;axis;[3arc]Big poker;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 29:08 D;0;3;axis;[3arc]wzlr.ma;0;11;allies;[3arc]n0thing sexies;psg1_mp;70;MOD_RIFLE_BULLET;left_foot
+ 29:08 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;8;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;8;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;6;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;8;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;8;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;8;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;9;MOD_PISTOL_BULLET;torso_lower
+ 29:09 D;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;9;MOD_PISTOL_BULLET;right_leg_upper
+ 29:09 K;0;6;axis;[3arc]Treyarch;0;0;allies;Rollon;cobra_20mm_comlink_mp;9;MOD_PISTOL_BULLET;torso_lower
+ 29:09 K;0;3;axis;[3arc]wzlr.ma;0;11;allies;[3arc]n0thing sexies;psg1_mp;140;MOD_HEAD_SHOT;head
+ 29:24 K;0;11;allies;[3arc]n0thing sexies;0;6;axis;[3arc]Treyarch;knife_mp;138;MOD_MELEE;right_arm_lower
+ 29:24 Weapon;0;6;Treyarch;psg1_mp
+ 29:25 D;0;6;axis;[3arc]Treyarch;0;8;allies;[3arc]ZMBS DON GOONY;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 29:29 D;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 29:30 Weapon;0;6;Treyarch;psg1_mp
+ 29:30 Weapon;0;6;Treyarch;psg1_mp
+ 29:30 Weapon;0;6;Treyarch;psg1_mp
+ 29:30 Weapon;0;6;Treyarch;psg1_mp
+ 29:30 K;0;3;axis;[3arc]wzlr.ma;0;9;allies;[3arc]AlphaWolf14;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 29:30 K;0;2;axis;[3arc]Jgen;0;0;allies;Rollon;knife_mp;136;MOD_MELEE;left_arm_upper
+ 29:30 Weapon;0;0;Rollon;psg1_mp
+ 29:36 K;0;10;allies;[3arc]CAMPERASS;0;6;axis;[3arc]Treyarch;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 29:36 K;0;9;allies;[3arc]AlphaWolf14;0;6;axis;[3arc]Treyarch;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 29:39 Weapon;0;6;Treyarch;psg1_mp
+ 30:20 ExitLevel: executed
+ 30:20 ShutdownGame:
+ 30:20 ------------------------------------------------------------
+ 30:20 ------------------------------------------------------------
+ 30:20 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 30:20 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 30:22 J;0;0;Rollon
+ 30:22 J;0;1;[3arc]iKill
+ 30:22 J;0;2;[3arc]CitizenKan
+ 30:23 J;0;3;[3arc]Spacecraftz
+ 30:23 J;0;4;[3arc]★MeReTriX★
+ 30:23 J;0;5;[3arc]wzlr.ma
+ 30:23 J;0;6;[3arc][ZM] Matt Damon
+ 30:24 J;0;7;[3arc]MistahTeeLexify
+ 30:24 J;0;8;[3arc]Syks
+ 30:24 J;0;9;[3arc]Xmonkey154X
+ 30:24 J;0;10;[3arc]EKV
+ 30:25 J;0;11;[3arc]RappiidZz
+ 30:42 K;0;4;axis;[3arc]★MeReTriX★;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 30:42 D;0;3;axis;[3arc]Spacecraftz;0;0;allies;Rollon;psg1_mp;96;MOD_RIFLE_BULLET;torso_lower
+ 30:42 D;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;psg1_mp;87;MOD_RIFLE_BULLET;torso_lower
+ 30:43 K;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 30:43 K;0;0;allies;Rollon;0;3;axis;[3arc]Spacecraftz;wa2000_vzoom_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 30:44 D;0;5;axis;[3arc]wzlr.ma;0;11;allies;[3arc]RappiidZz;m14_ir_mp;50;MOD_RIFLE_BULLET;left_leg_lower
+ 30:47 D;0;11;allies;[3arc]RappiidZz;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_HEAD_SHOT;head
+ 30:47 D;0;11;allies;[3arc]RappiidZz;0;1;axis;[3arc]iKill;spas_silencer_mp;21;MOD_PISTOL_BULLET;left_hand
+ 30:47 D;0;11;allies;[3arc]RappiidZz;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 30:47 K;0;11;allies;[3arc]RappiidZz;0;1;axis;[3arc]iKill;spas_silencer_mp;26;MOD_PISTOL_BULLET;left_hand
+ 30:48 D;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_PISTOL_BULLET;neck
+ 30:48 D;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 30:49 K;0;10;allies;[3arc]EKV;0;6;axis;[3arc][ZM] Matt Damon;knife_mp;135;MOD_MELEE;neck
+ 30:50 D;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+ 30:51 K;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;spas_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 30:52 K;0;1;axis;[3arc]iKill;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 30:56 K;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 31:07 K;0;9;allies;[3arc]Xmonkey154X;0;5;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:08 K;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 31:19 D;0;1;axis;[3arc]iKill;0;8;allies;[3arc]Syks;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 31:19 D;0;1;axis;[3arc]iKill;0;8;allies;[3arc]Syks;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 31:19 K;0;1;axis;[3arc]iKill;0;8;allies;[3arc]Syks;rottweil72_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+ 31:19 D;0;3;axis;[3arc]Spacecraftz;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;94;MOD_RIFLE_BULLET;torso_lower
+ 31:19 D;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:19 D;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:19 D;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:19 D;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:20 D;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+ 31:20 K;0;8;allies;[3arc]Syks;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+ 31:21 K;0;4;axis;[3arc]★MeReTriX★;0;11;allies;[3arc]RappiidZz;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 31:21 D;0;0;allies;Rollon;;-1;world;;none;38;MOD_FALLING;none
+ 31:22 K;0;3;axis;[3arc]Spacecraftz;0;10;allies;[3arc]EKV;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:27 K;0;2;axis;[3arc]CitizenKan;0;10;allies;[3arc]EKV;psg1_mp;138;MOD_HEAD_SHOT;head
+ 31:31 D;0;10;allies;[3arc]EKV;0;6;axis;[3arc][ZM] Matt Damon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:32 K;0;10;allies;[3arc]EKV;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:40 K;0;5;axis;[3arc]wzlr.ma;0;11;allies;[3arc]RappiidZz;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:44 K;0;3;axis;[3arc]Spacecraftz;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:44 D;0;6;axis;[3arc][ZM] Matt Damon;0;0;allies;Rollon;psg1_mp;96;MOD_RIFLE_BULLET;torso_lower
+ 31:46 K;0;4;axis;[3arc]★MeReTriX★;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:46 K;0;6;axis;[3arc][ZM] Matt Damon;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 31:50 Weapon;0;0;Rollon;skorpion_silencer_mp
+ 31:50 K;0;10;allies;[3arc]EKV;0;2;axis;[3arc]CitizenKan;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:51 Weapon;0;0;Rollon;psg1_mp
+ 31:53 Weapon;0;9;Xmonkey154X;psg1_mp
+ 31:55 D;0;8;allies;[3arc]Syks;0;3;axis;[3arc]Spacecraftz;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 31:56 K;0;8;allies;[3arc]Syks;0;3;axis;[3arc]Spacecraftz;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 31:58 D;0;0;allies;Rollon;0;4;axis;[3arc]★MeReTriX★;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 31:59 K;0;6;axis;[3arc][ZM] Matt Damon;0;11;allies;[3arc]RappiidZz;psg1_mp;140;MOD_HEAD_SHOT;head
+ 31:59 D;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:59 D;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:59 D;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:59 D;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 31:59 K;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 32:01 Weapon;0;0;Rollon;psg1_mp
+ 32:01 D;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 32:01 D;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;left_arm_upper
+ 32:02 D;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;left_arm_upper
+ 32:02 D;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;right_arm_lower
+ 32:02 K;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;skorpion_silencer_mp;20;MOD_PISTOL_BULLET;torso_upper
+ 32:03 D;0;3;axis;[3arc]Spacecraftz;0;9;allies;[3arc]Xmonkey154X;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 32:03 D;0;7;allies;[3arc]MistahTeeLexify;0;4;axis;[3arc]★MeReTriX★;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 32:04 K;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:04 D;0;1;axis;[3arc]iKill;0;11;allies;[3arc]RappiidZz;psg1_mp;94;MOD_RIFLE_BULLET;torso_lower
+ 32:05 K;0;3;axis;[3arc]Spacecraftz;0;9;allies;[3arc]Xmonkey154X;psg1_mp;70;MOD_RIFLE_BULLET;right_leg_upper
+ 32:06 K;0;1;axis;[3arc]iKill;0;11;allies;[3arc]RappiidZz;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:06 Weapon;0;0;Rollon;psg1_mp
+ 32:07 K;0;0;allies;Rollon;0;4;axis;[3arc]★MeReTriX★;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:11 Weapon;0;2;CitizenKan;psg1_mp
+ 32:13 D;0;11;allies;[3arc]RappiidZz;0;4;axis;[3arc]★MeReTriX★;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_lower
+ 32:14 K;0;2;axis;[3arc]CitizenKan;0;11;allies;[3arc]RappiidZz;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 32:14 Weapon;0;4;MeReTriX;psg1_mp
+ 32:14 Weapon;0;6;[ZM] Matt Damon;psg1_mp
+ 32:15 K;0;11;allies;[3arc]RappiidZz;0;4;axis;[3arc]★MeReTriX★;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 32:16 K;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 32:17 K;0;1;axis;[3arc]iKill;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:17 Weapon;0;4;MeReTriX;psg1_mp
+ 32:17 Weapon;0;4;MeReTriX;psg1_mp
+ 32:29 ShutdownGame:
+ 32:29 ------------------------------------------------------------
+ 32:29 ------------------------------------------------------------
+ 32:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 32:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_cairo\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 32:30 J;0;11;[3arc]RappiidZz
+ 32:30 J;0;10;[3arc]Unknown Soldier 10
+ 32:30 J;0;9;[3arc]Xmonkey154X
+ 32:30 J;0;8;[3arc]Syks
+ 32:30 J;0;7;[3arc]MistahTeeLexify
+ 32:30 J;0;6;[3arc]ZM] Matt Damon
+ 32:30 J;0;5;[3arc]wzlr.ma
+ 32:30 J;0;4;[3arc]MeReTriX★
+ 32:30 J;0;3;[3arc]Spacecraftz
+ 32:30 J;0;2;[3arc]CitizenKan
+ 32:30 J;0;1;[3arc]iKill
+ 32:30 J;0;0;Rollon
+ 32:44 K;0;5;axis;[3arc]wzlr.ma;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 32:48 K;0;8;allies;[3arc]Syks;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:48 D;0;4;axis;[3arc]MeReTriX★;0;9;allies;[3arc]Xmonkey154X;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 32:51 K;0;9;allies;[3arc]Xmonkey154X;0;4;axis;[3arc]MeReTriX★;psg1_mp;103;MOD_RIFLE_BULLET;torso_lower
+ 32:54 Weapon;0;2;CitizenKan;psg1_mp
+ 32:55 K;0;4;axis;[3arc]MeReTriX★;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 32:56 K;0;3;axis;[3arc]Spacecraftz;0;11;allies;[3arc]RappiidZz;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 32:56 K;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 32:57 Weapon;0;7;MistahTeeLexify;psg1_mp
+ 32:58 Weapon;0;11;RappiidZz;psg1_mp
+ 32:58 K;0;11;allies;[3arc]RappiidZz;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 33:01 K;0;0;allies;Rollon;0;6;axis;[3arc]ZM] Matt Damon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 33:08 K;0;8;allies;[3arc]Syks;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 33:09 K;0;1;axis;[3arc]iKill;0;9;allies;[3arc]Xmonkey154X;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 33:09 D;0;5;axis;[3arc]wzlr.ma;0;9;allies;[3arc]Xmonkey154X;psg1_mp;45;MOD_RIFLE_BULLET;right_leg_lower
+ 33:12 Weapon;0;10;Unknown Soldier 10;psg1_mp
+ 33:13 K;0;5;axis;[3arc]wzlr.ma;0;11;allies;[3arc]RappiidZz;psg1_mp;103;MOD_RIFLE_BULLET;torso_lower
+ 33:17 Weapon;0;0;Rollon;psg1_mp
+ 33:18 K;0;0;allies;Rollon;0;3;axis;[3arc]Spacecraftz;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 33:28 K;0;3;axis;[3arc]Spacecraftz;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 33:28 Weapon;0;5;wzlr.ma;psg1_mp
+ 33:28 Weapon;0;2;CitizenKan;psg1_mp
+ 33:31 K;0;5;axis;[3arc]wzlr.ma;0;11;allies;[3arc]RappiidZz;psg1_mp;140;MOD_HEAD_SHOT;head
+ 33:34 Weapon;0;4;MeReTriX;psg1_mp
+ 33:34 K;0;4;axis;[3arc]MeReTriX★;0;9;allies;[3arc]Xmonkey154X;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 33:36 K;0;1;axis;[3arc]iKill;0;11;allies;[3arc]RappiidZz;psg1_mp;140;MOD_HEAD_SHOT;head
+ 33:39 D;0;2;axis;[3arc]CitizenKan;0;9;allies;[3arc]Xmonkey154X;psg1_mp;79;MOD_RIFLE_BULLET;torso_lower
+ 33:40 D;0;9;allies;[3arc]Xmonkey154X;0;2;axis;[3arc]CitizenKan;psg1_mp;65;MOD_RIFLE_BULLET;left_leg_lower
+ 33:41 K;0;9;allies;[3arc]Xmonkey154X;0;2;axis;[3arc]CitizenKan;psg1_mp;61;MOD_RIFLE_BULLET;right_leg_upper
+ 33:45 K;0;8;allies;[3arc]Syks;0;6;axis;[3arc]ZM] Matt Damon;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 33:47 K;0;6;axis;[3arc]ZM] Matt Damon;0;0;allies;Rollon;psg1_mp;140;MOD_RIFLE_BULLET;neck
+ 33:52 K;0;5;axis;[3arc]wzlr.ma;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;100;MOD_RIFLE_BULLET;torso_lower
+ 33:52 D;0;1;axis;[3arc]iKill;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;22;MOD_RIFLE_BULLET;right_leg_lower
+ 33:53 Weapon;0;2;CitizenKan;psg1_mp
+ 33:54 Weapon;0;1;iKill;psg1_mp
+ 33:55 Weapon;0;2;CitizenKan;psg1_mp
+ 33:55 Weapon;0;2;CitizenKan;psg1_mp
+ 33:55 Weapon;0;2;CitizenKan;psg1_mp
+ 33:55 Weapon;0;2;CitizenKan;psg1_mp
+ 33:55 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:56 D;0;0;allies;Rollon;;-1;world;;none;32;MOD_FALLING;none
+ 33:56 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 K;0;9;allies;[3arc]Xmonkey154X;0;2;axis;[3arc]CitizenKan;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 Weapon;0;2;CitizenKan;psg1_mp
+ 33:57 K;0;2;axis;[3arc]CitizenKan;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 33:58 K;0;7;allies;[3arc]MistahTeeLexify;0;1;axis;[3arc]iKill;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 34:00 K;0;1;axis;[3arc]iKill;0;0;allies;Rollon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 34:06 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:10 Weapon;0;6;ZM] Matt Damon;psg1_mp
+ 34:12 K;0;4;axis;[3arc]MeReTriX★;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 34:17 K;0;8;allies;[3arc]Syks;0;6;axis;[3arc]ZM] Matt Damon;psg1_mp;140;MOD_HEAD_SHOT;head
+ 34:17 D;0;7;allies;[3arc]MistahTeeLexify;0;5;axis;[3arc]wzlr.ma;psg1_mp;70;MOD_RIFLE_BULLET;left_leg_upper
+ 34:19 K;0;7;allies;[3arc]MistahTeeLexify;0;5;axis;[3arc]wzlr.ma;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 34:19 Weapon;0;10;Unknown Soldier 10;psg1_mp
+ 34:21 K;0;10;allies;[3arc]Unknown Soldier 10;0;6;axis;[3arc]ZM] Matt Damon;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 34:26 K;0;1;axis;[3arc]iKill;0;9;allies;[3arc]Xmonkey154X;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 34:27 D;0;6;axis;[3arc]ZM] Matt Damon;0;0;allies;Rollon;destructible_car_mp;93;MOD_EXPLOSIVE;none
+ 34:27 D;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;destructible_car_mp;91;MOD_EXPLOSIVE;none
+ 34:27 K;0;5;axis;[3arc]wzlr.ma;0;0;allies;Rollon;mortar_mp;253;MOD_PROJECTILE_SPLASH;none
+ 34:28 Weapon;0;9;Xmonkey154X;psg1_mp
+ 34:31 K;0;6;axis;[3arc]ZM] Matt Damon;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;head
+ 34:33 K;0;11;allies;[3arc]RappiidZz;0;2;axis;[3arc]CitizenKan;psg1_mp;140;MOD_HEAD_SHOT;head
+ 34:33 Weapon;0;2;CitizenKan;psg1_mp
+ 34:33 D;0;2;axis;[3arc]CitizenKan;0;9;allies;[3arc]Xmonkey154X;psg1_mp;99;MOD_RIFLE_BULLET;torso_lower
+ 34:34 K;0;3;axis;[3arc]Spacecraftz;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_upper
+ 34:34 K;0;10;allies;[3arc]Unknown Soldier 10;0;4;axis;[3arc]MeReTriX★;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;head
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_hand
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_arm_lower
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;head
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_hand
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_hand
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;head
+ 34:35 D;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:35 K;0;4;axis;[3arc]MeReTriX★;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:37 Weapon;0;7;MistahTeeLexify;psg1_mp
+ 34:46 K;0;5;axis;[3arc]wzlr.ma;0;7;allies;[3arc]MistahTeeLexify;psg1_mp;105;MOD_RIFLE_BULLET;torso_lower
+ 34:51 Weapon;0;8;Syks;psg1_mp
+ 34:57 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:57 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_lower
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;torso_lower
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 34:58 D;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 34:58 K;0;1;axis;[3arc]iKill;0;0;allies;Rollon;cobra_20mm_comlink_mp;10;MOD_PISTOL_BULLET;right_leg_upper
+ 34:58 D;0;6;axis;[3arc]ZM] Matt Damon;0;0;allies;Rollon;psg1_mp;70;MOD_RIFLE_BULLET;left_arm_lower
+ 34:59 D;0;7;allies;[3arc]MistahTeeLexify;0;6;axis;[3arc]ZM] Matt Damon;psg1_mp;70;MOD_RIFLE_BULLET;right_arm_upper
+ 35:49 ExitLevel: executed
+ 35:49 ShutdownGame:
+ 35:49 ------------------------------------------------------------
+ 35:49 ------------------------------------------------------------
+ 35:49 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 35:49 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 35:51 J;0;0;Rollon
+ 35:51 J;0;1;[3arc]420BLAZeit quiks
+ 35:51 J;0;2;[3arc]Dr. Dro
+ 35:52 J;0;3;[3arc]Zombies
+ 35:52 J;0;4;[3arc]Shockwave115
+ 35:52 J;0;5;[3arc]Classixz
+ 35:52 J;0;6;[3arc]Midget Blaster
+ 36:13 K;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;knife_mp;138;MOD_MELEE;torso_lower
+ 36:14 D;0;0;allies;Rollon;;-1;world;;none;24;MOD_FALLING;none
+ 36:17 D;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;neck
+ 36:17 D;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;neck
+ 36:17 K;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 36:18 D;0;0;allies;Rollon;0;3;axis;[3arc]Zombies;kiparis_mp;29;MOD_RIFLE_BULLET;right_leg_upper
+ 36:18 D;0;3;axis;[3arc]Zombies;0;5;axis;[3arc]Classixz;mac11_elbit_mp;20;MOD_PISTOL_BULLET;left_arm_lower
+ 36:19 D;0;5;axis;[3arc]Classixz;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;left_arm_lower
+ 36:19 D;0;0;allies;Rollon;0;5;axis;[3arc]Classixz;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 36:19 K;0;0;allies;Rollon;0;5;axis;[3arc]Classixz;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 36:22 D;0;5;axis;[3arc]Classixz;0;2;axis;[3arc]Dr. Dro;l96a1_silencer_mp;75;MOD_RIFLE_BULLET;torso_lower
+ 36:23 D;0;3;axis;[3arc]Zombies;0;5;axis;[3arc]Classixz;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+ 36:23 D;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;torso_upper
+ 36:23 D;0;3;axis;[3arc]Zombies;0;5;axis;[3arc]Classixz;mac11_elbit_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+ 36:23 K;0;5;axis;[3arc]Classixz;0;2;axis;[3arc]Dr. Dro;l96a1_silencer_mp;75;MOD_RIFLE_BULLET;torso_lower
+ 36:24 D;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;torso_lower
+ 36:24 D;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;torso_lower
+ 36:24 D;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;torso_lower
+ 36:24 K;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;kiparis_mp;20;MOD_RIFLE_BULLET;torso_lower
+ 36:29 K;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;knife_mp;138;MOD_MELEE;torso_upper
+ 36:32 Weapon;0;0;Rollon;kiparis_mp
+ 36:33 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 36:34 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+ 36:34 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;right_arm_upper
+ 36:34 K;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;right_arm_lower
+ 36:37 D;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 36:37 D;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 36:38 K;0;1;allies;[3arc]420BLAZeit quiks;0;4;allies;[3arc]Shockwave115;ak47_reflex_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+ 36:38 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+ 36:38 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+ 36:38 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+ 36:38 K;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;41;MOD_HEAD_SHOT;head
+ 36:43 Weapon;0;0;Rollon;skorpiondw_mp
+ 36:44 D;0;0;allies;Rollon;;-1;world;;none;12;MOD_FALLING;none
+ 36:58 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 36:58 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 36:58 K;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+ 36:58 K;0;6;allies;[3arc]Midget Blaster;0;2;axis;[3arc]Dr. Dro;knife_mp;138;MOD_MELEE;torso_upper
+ 37:05 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;right_leg_upper
+ 37:06 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 37:06 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 37:06 K;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;left_leg_lower
+ 37:12 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+ 37:13 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_arm_lower
+ 37:13 K;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;55;MOD_HEAD_SHOT;head
+ 37:17 K;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;knife_mp;139;MOD_MELEE;head
+ 37:21 D;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 37:21 D;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;neck
+ 37:21 D;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 37:25 K;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;knife_mp;135;MOD_MELEE;torso_lower
+ 37:28 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;kiparis_mp;41;MOD_HEAD_SHOT;head
+ 37:28 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;kiparis_mp;41;MOD_HEAD_SHOT;head
+ 37:28 K;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;kiparis_mp;41;MOD_HEAD_SHOT;head
+ 37:30 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;neck
+ 37:30 D;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+ 37:30 K;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 37:31 D;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 37:31 D;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_arm_upper
+ 37:31 K;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_upper
+ 37:37 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;left_arm_upper
+ 37:37 D;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_upper
+ 37:37 K;0;5;axis;[3arc]Classixz;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 37:45 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+ 37:45 D;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+ 37:45 K;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_arm_lower
+ 37:47 K;0;2;axis;[3arc]Dr. Dro;0;3;axis;[3arc]Zombies;knife_mp;138;MOD_MELEE;head
+ 37:48 K;0;6;allies;[3arc]Midget Blaster;0;0;allies;Rollon;knife_mp;138;MOD_MELEE;right_arm_upper
+ 37:51 D;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;right_hand
+ 37:51 D;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+ 37:51 K;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_upper
+ 37:59 D;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 37:59 D;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 37:59 K;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 38:04 K;0;6;allies;[3arc]Midget Blaster;0;4;allies;[3arc]Shockwave115;knife_mp;139;MOD_MELEE;head
+ 38:05 K;0;4;allies;[3arc]Shockwave115;0;0;allies;Rollon;knife_mp;135;MOD_MELEE;torso_lower
+ 38:09 K;0;2;axis;[3arc]Dr. Dro;0;0;allies;Rollon;knife_mp;135;MOD_MELEE;torso_lower
+ 38:13 K;0;3;axis;[3arc]Zombies;0;0;allies;Rollon;knife_mp;139;MOD_MELEE;left_hand
+ 38:14 K;0;5;axis;[3arc]Classixz;0;1;allies;[3arc]420BLAZeit quiks;knife_mp;137;MOD_MELEE;head
+ 38:21 K;0;1;allies;[3arc]420BLAZeit quiks;0;0;allies;Rollon;knife_mp;139;MOD_MELEE;torso_lower
+ 39:06 ExitLevel: executed
+ 39:06 ShutdownGame:
+ 39:06 ------------------------------------------------------------
+ 39:06 ------------------------------------------------------------
+ 39:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 39:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 39:07 J;0;0;Rollon
+ 39:08 J;0;1;[3arc]gtlad
+ 39:08 J;0;2;[3arc]MistahTeeLexify
+ 39:08 J;0;3;[3arc]Kyota, King/Quee
+ 39:08 J;0;4;[3arc][ZM]CRICCO™ 1k
+ 39:09 J;0;5;[3arc]darkflamingpyro
+ 39:09 J;0;6;[3arc]RiotSurfer
+ 39:09 J;0;7;[3arc]420BLAZeit quiks
+ 39:09 J;0;8;[3arc]CounterfitCookie
+ 39:10 J;0;9;[3arc]Spacecraftz
+ 39:10 J;0;10;[3arc]FiveSevenHD
+ 39:10 J;0;11;[3arc]MOCHILINHA DE CR
+ 39:31 ShutdownGame:
+ 39:31 ------------------------------------------------------------
