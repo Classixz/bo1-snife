@@ -29,11 +29,11 @@ menufile,ui_mp/hud_sd_knife.txt
 rawfile,maps/mp/gametypes/sd_snipe.txt
 menufile,ui_mp/hud_sd_snipe.txt
 
-weapon,mp/intervention_3k_zam
-weapon,mp/awp_mp
-weapon,mp/barrett_mp
-weapon,mp/l118a_mp
-weapon,mp/m40a3_mp
+weapon,snipers/intervention_3k_zam
+weapon,snipers/awp_mp
+weapon,snipers/barrett_mp
+weapon,snipers/l118a_mp
+weapon,snipers/m40a3_mp
 //weapon,mp/msr_mp
 
 //Voting
@@ -52,3 +52,5 @@ menufile,ui/options_graphics_pc.menu
 menufile,ui/options_game_pc.menu
 //Sounds
 sound,default_snife
+//Rawfiles
+rawfile,myWhiteList.cfg
