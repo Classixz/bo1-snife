@@ -47,6 +47,7 @@ onPlayerSpawned()
 		self takeAllWeapons();
 		self clearPerks();
 		self maps\mp\gametypes\_class::setKillstreaks( "none", "none", "none" );
+		self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
 
 		cur_gm = GetDvar("g_gametype");
 
