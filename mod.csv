@@ -29,11 +29,12 @@ menufile,ui_mp/hud_sd_knife.txt
 rawfile,maps/mp/gametypes/sd_snipe.txt
 menufile,ui_mp/hud_sd_snipe.txt
 
-//weapon,snipers/intervention_3k_zam
+weapon,snipers/intervention_3k_zam
 weapon,snipers/awp_mp
 weapon,snipers/barrett_mp
 weapon,snipers/l118a_mp
 weapon,snipers/m40a3_mp
+weapon,pistol/five_seven_tactical_zam
 //weapon,mp/msr_mp
 
 //Voting
