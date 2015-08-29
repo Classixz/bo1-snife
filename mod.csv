@@ -30,6 +30,7 @@ rawfile,maps/mp/gametypes/sd_snipe.txt
 menufile,ui_mp/hud_sd_snipe.txt
 
 weapon,mp/m1911_mp
+weapon,mp/intervention_3k_zam
 
 //Voting
 
