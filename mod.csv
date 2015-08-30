@@ -52,6 +52,10 @@ weapon,snipers/msr_mp
 menufile,ui_mp/main.menu
 menufile,ui/options_graphics_pc.menu
 menufile,ui/options_game_pc.menu
+menufile,ui_mp/scriptmenus/KnifeSelection_Menu.menu
+menufile,ui_mp/scriptmenus/SnifeSelection_Menu.menu
+menufile,ui_mp/scriptmenus/SnifeSelection2_Menu.menu
+menufile,ui_mp/scriptmenus/SniperSelection_Menu.menu
 //Sounds
 sound,default_snife
 //Rawfiles

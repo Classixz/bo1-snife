@@ -1,0 +1,64 @@
+#include "ui/menudef.h"
+#include "ui_mp/common_macro.inc"
+
+#include "ui_mp/menustyle.inc"
+#include "ui_mp/choices_setup_teams.menu"
+
+{
+    menuDef
+    {
+        name            "SniperSelection_Menu"
+        rect            0 0 640 480
+        focuscolor         COLOR_FOCUSED
+        style           WINDOW_STYLE_EMPTY
+        blurWorld          7.0
+        onOpen
+        {
+            //execNow exec "CONFIG NAME HERE";
+        }
+        onEsc
+        {
+            //play "mouse_click";
+            //scriptMenuResponse "loadout_l96a1";
+            //close ClassSelection_Menu;
+        }
+        
+        CHOICE_MENU_TITLE( Sniper Selection )
+        
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "M40A3", scriptMenuResponse "sniper_m40a3"; close SniperSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Barrett .50 Cal", scriptMenuResponse "loadout_barrett"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Intervention", scriptMenuResponse "loadout_cheytac"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L96A1", scriptMenuResponse "loadout_l96a1"; close ClassSelection_Menu, ;, ;, 1, ; )   
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "PSG-1", scriptMenuResponse "loadout_psg1"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "L118A", scriptMenuResponse "loadout_l118a"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "MSR", scriptMenuResponse "loadout_msr"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "Ballista", scriptMenuResponse "loadout_ballista"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "DSR-50", scriptMenuResponse "loadout_dsr50"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "XPR-50", scriptMenuResponse "loadout_xpr50"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "AWP", scriptMenuResponse "loadout_awp"; close ClassSelection_Menu, ;, ;, 1, ; )
+        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "Credits", scriptMenuResponse "credits"; close ClassSelection_Menu, ;, ;, 1, ; )
+
+
+        // gradient_top
+        itemDef
+        {
+            style       WINDOW_STYLE_SHADER
+            rect        0 0 854 75 HORIZONTAL_ALIGN_FULLSCREEN 0
+            background     "gradient_top"
+            visible        1
+            decoration
+        }
+
+        // gradient_bottom
+        itemDef
+        {
+            style       WINDOW_STYLE_SHADER
+            rect        0 405 854 75 HORIZONTAL_ALIGN_FULLSCREEN 0
+            background     "gradient_bottom"
+            visible        1
+            decoration
+        }
+        
+        #include "ui/safearea.menu"
+    }
+}

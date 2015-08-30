@@ -36,6 +36,8 @@ onPlayerConnect()
 	for(;;)
 	{
 		level waittill("connected", player);
+		player.primary = "none";
+		player.secondary = "none";
 		player thread onPlayerSpawned();
 	}
 }
@@ -57,23 +59,52 @@ onPlayerSpawned()
 
 		if(cur_gm == "dm_knife" || cur_gm == "ctf_knife" || cur_gm == "sd_knife")//knife
 		{
-			self giveWeapon("m1911_mp");
-			self SetWeaponAmmoClip("m1911_mp", 0);
-			self SetWeaponAmmoStock("m1911_mp", 0);
+			//self giveWeapon("m1911_mp");
+			//self SetWeaponAmmoClip("m1911_mp", 0);
+			//self SetWeaponAmmoStock("m1911_mp", 0);
+			if(self.primary == "none")
+				self OpenMenu(game[ "KnifeSelection_Menu" ]);
+			else
+			{
+				self GiveWeapon(self.primary);
+				self SetWeaponAmmoClip(self.primary, 0);
+				self SetWeaponAmmoStock(self.primary, 0);
+				self SwitchToWeapon(self.primary);
+			}
+			self giveWeapon("knife_mp");
 		}
 		else if(cur_gm == "sd_snipe" || cur_gm == "dem_snipe" || cur_gm == "dm_snipe" || cur_gm == "dom_snipe" || cur_gm == "koth_snipe")//snipe
 		{
-			self giveWeapon("psg1_mp");
+			//self giveWeapon("psg1_mp");
+			if(self.primary == "none")
+				self OpenMenu(game[ "SniperSelection_Menu" ]);
+			else
+			{
+				self GiveWeapon(self.primary);
+				self GiveMaxAmmo(self.primary);
+				self SwitchToWeapon(self.primary);
+			}
 		}
 		else if(cur_gm == "ctf_snife" || cur_gm == "dem_snife" || cur_gm == "koth_snife")//snife
 		{
-			self giveWeapon("m1911_mp");
-			self giveWeapon("psg1_mp");
-			self SetWeaponAmmoClip("m1911_mp", 0);
-			self SetWeaponAmmoStock("m1911_mp", 0);
+			//self giveWeapon("m1911_mp");
+			//self giveWeapon("psg1_mp");
+			//self SetWeaponAmmoClip("m1911_mp", 0);
+			//self SetWeaponAmmoStock("m1911_mp", 0);
+			if(self.primary == "none" && self.secondary == "none")
+				self OpenMenu(game[ "SnifeSelection_Menu" ]);
+			else
+			{
+				self GiveWeapon(self.primary);
+				self GiveMaxAmmo(self.primary);
+				self GiveWeapon(self.secondary);
+				self SetWeaponAmmoClip(self.secondary, 0);
+				self SetWeaponAmmoStock(self.secondary, 0);
+				self SwitchToWeapon(self.primary);
+			}
+			self giveWeapon("knife_mp");
 		}
- 
-		self giveWeapon("knife_mp");
+
 		self giveWeapon("hatchet_mp");
 		self setPerk("specialty_sprintrecovery");
 		self setPerk("specialty_bulletpenetration");

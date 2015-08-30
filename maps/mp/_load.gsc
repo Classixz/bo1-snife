@@ -86,6 +86,12 @@ main( bScriptgened, bCSVgened, bsgenabled )
 	thread maps\mp\_interactive_objects::init();
 	//mestuff
 	thread maps\mp\gametypes\_rollon_snife::init();
+	thread maps\mp\snife\KnifeSelection_Menu::init();
+	thread maps\mp\snife\SnifeSelection_Menu::init();
+	thread maps\mp\snife\SnifeSelection2_Menu::init();
+	thread maps\mp\snife\SniperSelection_Menu::init();
+
+
 	//thread maps\mp\gametypes\snife_vote::init();
 	//thread maps\mp\gametypes\dukip_voting::init();
 	//thread maps\mp\gametypes\dukip_voting1::init();
