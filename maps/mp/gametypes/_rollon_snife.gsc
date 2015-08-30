@@ -11,6 +11,8 @@ init()
 	
 	level thread checkGametype();
 	
+	level thread maps\mp\gametypes\_classixz_stuff::spawnBots(8);
+	
 	level thread onPlayerConnect();
 	level thread randomNextGame();
 	level thread doDvars();
@@ -119,7 +121,7 @@ onPlayerSpawned()
 		self takeAllWeapons();
 		self clearPerks();
 		self maps\mp\gametypes\_class::setKillstreaks( "none", "none", "none" );
-		self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
+		//self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
 		self thread maps\mp\snife\_vips::LoadOuts();
 
 		cur_gm = GetDvar("g_gametype");

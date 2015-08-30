@@ -26,3 +26,21 @@ doClientDvars()
 	self setclientdvar("r_lodBiasSkinned", -1000);
 	self setclientdvar("r_fog", 0);
 }
+
+spawnBots(amt)
+{
+    spawned_bots = 0;
+    while ( spawned_bots < amt )
+    {
+        wait( 0.25 );
+        bot = AddTestClient();
+        
+        if ( !IsDefined( bot ) )
+        {
+            continue;
+        }
+        
+        spawned_bots++;
+        bot.pers[ "isBot" ] = true;
+    }
+}
