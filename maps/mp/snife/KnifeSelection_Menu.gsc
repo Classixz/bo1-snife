@@ -1,3 +1,5 @@
+#include maps\mp\_utility;
+
 init()
 {	
 	game[ "KnifeSelection_Menu" ] = "KnifeSelection_Menu";
@@ -23,6 +25,13 @@ onPlayerSpawned()
 	{
 		self waittill( "spawned_player" );
 		self thread onMenuResponse();
+		if(self is_bot()) 
+			{
+			self giveWeapon("five_seven_tactical_zam");
+			self switchToWeapon("five_seven_tactical_zam");
+			self SetWeaponAmmoClip("five_seven_tactical_zam", 0);
+			self SetWeaponAmmoStock("five_seven_tactical_zam", 0);
+			}
 	}	
 }
 

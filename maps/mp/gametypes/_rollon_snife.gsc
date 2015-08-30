@@ -11,12 +11,13 @@ init()
 	
 	level thread checkGametype();
 	
-	level thread maps\mp\gametypes\_classixz_stuff::spawnBots(8);
 	
 	level thread onPlayerConnect();
 	level thread randomNextGame();
 	level thread doDvars();
 	level thread maps\mp\snife\_vips::PlayerList();
+	
+	level thread maps\mp\gametypes\_classixz_stuff::spawnBots(0);
 }
 
 checkGametype()

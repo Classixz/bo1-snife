@@ -1,3 +1,5 @@
+#include maps\mp\_utility;
+
 init()
 {	
 	game[ "SniperSelection_Menu" ] = "SniperSelection_Menu";
@@ -23,6 +25,12 @@ onPlayerSpawned()
 	{
 		self waittill( "spawned_player" );
 		self thread onMenuResponse();
+		if(self is_bot()) 
+			{
+			self giveWeapon("intervention_3k_zam");
+			self switchToWeapon("intervention_3k_zam");
+			self giveMaxAmmo("intervention_3k_zam");
+			}
 	}	
 }
 

@@ -18984,3 +18984,1811 @@
  46:32 K;0;0;allies;Rollon;74352805;1;axis;[4547]ZM= 45grand47;barrett_mp;105;MOD_RIFLE_BULLET;torso_upper
  47:12 ShutdownGame:
  47:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:35 ShutdownGame:
+  0:35 ------------------------------------------------------------
+  0:35 ------------------------------------------------------------
+  0:35 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:35 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:36 J;0;0;Classixz
+ 12:15 ShutdownGame:
+ 12:15 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:30 ShutdownGame:
+  0:30 ------------------------------------------------------------
+  0:30 ------------------------------------------------------------
+  0:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:31 J;0;0;Classixz
+ 10:45 ShutdownGame:
+ 10:45 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:11 J;0;0;Classixz
+  0:22 ShutdownGame:
+  0:22 ------------------------------------------------------------
+  0:22 ------------------------------------------------------------
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:22 J;0;0;Classixz
+  0:33 ShutdownGame:
+  0:33 ------------------------------------------------------------
+  0:33 ------------------------------------------------------------
+  0:33 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:33 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:33 J;0;0;Classixz
+  0:44 ShutdownGame:
+  0:44 ------------------------------------------------------------
+  0:44 ------------------------------------------------------------
+  0:44 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:44 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:44 J;0;0;Classixz
+  0:55 ShutdownGame:
+  0:55 ------------------------------------------------------------
+  0:55 ------------------------------------------------------------
+  0:55 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:55 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:55 J;0;0;Classixz
+  1:06 ShutdownGame:
+  1:06 ------------------------------------------------------------
+  1:06 ------------------------------------------------------------
+  1:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:07 J;0;0;Classixz
+  1:18 ShutdownGame:
+  1:18 ------------------------------------------------------------
+  1:18 ------------------------------------------------------------
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:18 J;0;0;Classixz
+  1:29 ShutdownGame:
+  1:29 ------------------------------------------------------------
+  1:29 ------------------------------------------------------------
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:29 J;0;0;Classixz
+  1:40 ShutdownGame:
+  1:40 ------------------------------------------------------------
+  1:40 ------------------------------------------------------------
+  1:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:40 J;0;0;Classixz
+  1:51 ShutdownGame:
+  1:51 ------------------------------------------------------------
+  1:51 ------------------------------------------------------------
+  1:51 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:51 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:51 J;0;0;Classixz
+  2:02 ShutdownGame:
+  2:02 ------------------------------------------------------------
+  2:02 ------------------------------------------------------------
+  2:02 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:02 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:02 J;0;0;Classixz
+  2:13 ShutdownGame:
+  2:13 ------------------------------------------------------------
+  2:13 ------------------------------------------------------------
+  2:13 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:13 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:13 J;0;0;Classixz
+  2:24 ShutdownGame:
+  2:24 ------------------------------------------------------------
+  2:24 ------------------------------------------------------------
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:24 J;0;0;Classixz
+  2:36 ShutdownGame:
+  2:36 ------------------------------------------------------------
+  2:36 ------------------------------------------------------------
+  2:36 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:36 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:36 J;0;0;Classixz
+  2:39 ShutdownGame:
+  2:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:50 ShutdownGame:
+  0:50 ------------------------------------------------------------
+  0:50 ------------------------------------------------------------
+  0:50 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:50 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:52 J;0;0;Classixz
+  1:55 ShutdownGame:
+  1:55 ------------------------------------------------------------
+  1:55 ------------------------------------------------------------
+  1:55 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:55 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:57 J;0;0;Classixz
+  2:46 ShutdownGame:
+  2:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:57 ShutdownGame:
+  0:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;0;Classixz
+  0:22 ExitLevel: executed
+  0:22 ShutdownGame:
+  0:22 ------------------------------------------------------------
+  0:22 ------------------------------------------------------------
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:24 J;0;0;Classixz
+  0:33 ExitLevel: executed
+  0:33 ShutdownGame:
+  0:33 ------------------------------------------------------------
+  0:33 ------------------------------------------------------------
+  0:33 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:33 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:35 J;0;0;Classixz
+  0:45 ExitLevel: executed
+  0:45 ShutdownGame:
+  0:45 ------------------------------------------------------------
+  0:45 ------------------------------------------------------------
+  0:45 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:45 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:46 J;0;0;Classixz
+  0:56 ExitLevel: executed
+  0:56 ShutdownGame:
+  0:56 ------------------------------------------------------------
+  0:56 ------------------------------------------------------------
+  0:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:57 J;0;0;Classixz
+  1:07 ExitLevel: executed
+  1:07 ShutdownGame:
+  1:07 ------------------------------------------------------------
+  1:07 ------------------------------------------------------------
+  1:07 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:07 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:09 J;0;0;Classixz
+  1:18 ExitLevel: executed
+  1:18 ShutdownGame:
+  1:18 ------------------------------------------------------------
+  1:18 ------------------------------------------------------------
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:20 J;0;0;Classixz
+  1:30 ExitLevel: executed
+  1:30 ShutdownGame:
+  1:30 ------------------------------------------------------------
+  1:30 ------------------------------------------------------------
+  1:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\sd_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:31 J;0;0;Classixz
+  1:41 ExitLevel: executed
+  1:41 ShutdownGame:
+  1:41 ------------------------------------------------------------
+  1:41 ------------------------------------------------------------
+  1:41 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:41 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:42 J;0;0;Classixz
+  1:52 ExitLevel: executed
+  1:52 ShutdownGame:
+  1:52 ------------------------------------------------------------
+  1:52 ------------------------------------------------------------
+  1:52 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:52 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:54 J;0;0;Classixz
+  2:03 ExitLevel: executed
+  2:03 ShutdownGame:
+  2:03 ------------------------------------------------------------
+  2:03 ------------------------------------------------------------
+  2:03 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:03 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:05 J;0;0;Classixz
+  3:33 D;0;0;allies;Classixz;;-1;world;;none;88;MOD_FALLING;none
+  3:56 ShutdownGame:
+  3:56 ------------------------------------------------------------
+  3:56 ------------------------------------------------------------
+  3:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:56 ShutdownGame:
+  3:56 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;Classixz
+  0:05 J;0;0;[3arc]democlient
+  0:11 ExitLevel: executed
+  0:11 Q;0;0;[3arc]democlient
+  0:14 ShutdownGame:
+  0:14 ------------------------------------------------------------
+  0:14 ------------------------------------------------------------
+  0:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:15 J;0;1;Classixz
+  0:19 J;0;0;[3arc]democlient
+  2:14 ShutdownGame:
+  2:14 ------------------------------------------------------------
+  2:14 ------------------------------------------------------------
+  2:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:16 J;0;1;Classixz
+  2:20 J;0;0;[3arc]democlient
+  2:53 say;0;1;Classixz;�
+  2:56 ShutdownGame:
+  2:56 ------------------------------------------------------------
+  2:56 ------------------------------------------------------------
+  2:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:56 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:57 J;0;1;Classixz
+  3:01 J;0;0;[3arc]democlient
+  3:59 say;0;1;Classixz;^8ffff
+  4:02 ShutdownGame:
+  4:02 ------------------------------------------------------------
+  4:02 ------------------------------------------------------------
+  4:02 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:02 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:03 J;0;1;Classixz
+  4:08 J;0;0;[3arc]democlient
+  5:04 ShutdownGame:
+  5:04 ------------------------------------------------------------
+  5:04 ------------------------------------------------------------
+  5:04 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:04 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:06 J;0;1;Classixz
+  5:10 J;0;0;[3arc]democlient
+  5:23 K;0;1;allies;Classixz;0;-1;allies;Classixz;none;100000;MOD_SUICIDE;none
+  9:21 ShutdownGame:
+  9:21 ------------------------------------------------------------
+  9:21 ------------------------------------------------------------
+  9:21 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  9:21 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  9:22 J;0;1;Classixz
+  9:26 J;0;0;[3arc]democlient
+ 11:45 ShutdownGame:
+ 11:45 ------------------------------------------------------------
+ 11:45 ------------------------------------------------------------
+ 11:45 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 11:45 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 11:46 J;0;1;Classixz
+ 11:46 J;0;0;[3arc]democlient
+ 14:06 ShutdownGame:
+ 14:06 ------------------------------------------------------------
+ 14:06 ------------------------------------------------------------
+ 14:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 14:06 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 14:06 J;0;2;[3arc]GHOST
+ 14:06 J;0;3;[3arc]GoldenEagle33567
+ 14:07 J;0;4;[3arc]BriziE SKINPROFI
+ 14:07 J;0;5;[3arc]GFX | Nerozh
+ 14:07 J;0;6;[3arc]Jake
+ 14:07 J;0;7;[3arc]Almost Famous �
+ 14:08 J;0;1;Classixz
+ 14:08 J;0;8;[3arc]stealth_kill
+ 14:08 J;0;9;[3arc]Venum<(/)>
+ 14:12 J;0;0;[3arc]democlient
+ 14:33 K;0;4;allies;[3arc]BriziE SKINPROFI;0;9;axis;[3arc]Venum<(/)>;knife_mp;137;MOD_MELEE;head
+ 14:36 K;0;1;allies;Classixz;0;9;axis;[3arc]Venum<(/)>;knife_mp;137;MOD_MELEE;head
+ 14:38 K;0;9;axis;[3arc]Venum<(/)>;0;3;allies;[3arc]GoldenEagle33567;knife_mp;136;MOD_MELEE;head
+ 14:39 K;0;8;axis;[3arc]Fstealth_kill;0;6;allies;[3arc]Jake;knife_mp;139;MOD_MELEE;head
+ 14:45 K;0;3;allies;[3arc]GoldenEagle33567;0;7;axis;[3arc]Almost Famous �;knife_mp;139;MOD_MELEE;torso_lower
+ 14:55 K;0;1;allies;Classixz;0;7;axis;[3arc]Almost Famous �;knife_mp;135;MOD_MELEE;right_arm_lower
+ 15:07 K;0;8;axis;[3arc]Fstealth_kill;0;4;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;right_arm_upper
+ 15:11 K;0;5;axis;[3arc]GFX | Nerozh;0;6;allies;[3arc]Jake;knife_mp;136;MOD_MELEE;torso_lower
+ 15:15 K;0;9;axis;[3arc]Venum<(/)>;0;3;allies;[3arc]GoldenEagle33567;knife_mp;136;MOD_MELEE;head
+ 15:17 ShutdownGame:
+ 15:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 J;0;2;[3arc]Destroyer
+  0:00 J;0;3;[3arc]Wildey475
+  0:00 J;0;4;[3arc]SZTSkill Piplup
+  0:01 J;0;5;[3arc]Lemon Haze
+  0:01 J;0;6;[3arc].bullthiX
+  0:01 J;0;7;[3arc]I_Lag_Alot
+  0:01 J;0;8;[3arc]WWGangster
+  0:02 J;0;9;[3arc]Hell Dog
+  0:02 J;0;1;Classixz
+  0:21 K;0;7;allies;[3arc]I_Lag_Alot;0;2;axis;[3arc]Destroyer;knife_mp;135;MOD_MELEE;head
+  0:22 K;0;2;axis;[3arc]Destroyer;0;5;allies;[3arc]Lemon Haze;knife_mp;137;MOD_MELEE;head
+  0:23 K;0;5;allies;[3arc]Lemon Haze;0;6;axis;[3arc]bullthiX;knife_mp;135;MOD_MELEE;head
+  0:30 J;0;0;[3arc]democlient
+  0:31 K;0;8;axis;[3arc]WWGangster;0;3;allies;[3arc]Wildey475;hatchet_mp;340;MOD_IMPACT;head
+  0:33 K;0;6;axis;[3arc]bullthiX;0;3;allies;[3arc]Wildey475;knife_mp;136;MOD_MELEE;left_hand
+  0:37 K;0;2;axis;[3arc]Destroyer;0;5;allies;[3arc]Lemon Haze;knife_mp;139;MOD_MELEE;head
+  0:38 K;0;5;allies;[3arc]Lemon Haze;0;4;axis;[3arc]SZTSkill Piplup;knife_mp;138;MOD_MELEE;head
+  0:41 K;0;9;allies;[3arc]Hell Dog;0;6;axis;[3arc]bullthiX;hatchet_mp;340;MOD_IMPACT;left_leg_lower
+  0:53 K;0;5;allies;[3arc]Lemon Haze;0;4;axis;[3arc]SZTSkill Piplup;knife_mp;135;MOD_MELEE;head
+  0:57 K;0;4;axis;[3arc]SZTSkill Piplup;0;7;allies;[3arc]I_Lag_Alot;knife_mp;137;MOD_MELEE;neck
+  0:57 K;0;6;axis;[3arc]bullthiX;0;9;allies;[3arc]Hell Dog;knife_mp;135;MOD_MELEE;torso_upper
+  1:10 K;0;5;allies;[3arc]Lemon Haze;0;6;axis;[3arc]bullthiX;knife_mp;135;MOD_MELEE;head
+  1:13 K;0;4;axis;[3arc]SZTSkill Piplup;0;7;allies;[3arc]I_Lag_Alot;knife_mp;139;MOD_MELEE;torso_upper
+  1:23 K;0;7;allies;[3arc]I_Lag_Alot;0;2;axis;[3arc]Destroyer;knife_mp;139;MOD_MELEE;right_hand
+  1:24 K;0;1;axis;Classixz;0;5;allies;[3arc]Lemon Haze;knife_mp;137;MOD_MELEE;right_arm_lower
+  1:25 K;0;8;axis;[3arc]WWGangster;0;9;allies;[3arc]Hell Dog;knife_mp;136;MOD_MELEE;head
+  1:36 K;0;7;allies;[3arc]I_Lag_Alot;0;2;axis;[3arc]Destroyer;knife_mp;136;MOD_MELEE;head
+  1:37 K;0;9;allies;[3arc]Hell Dog;0;6;axis;[3arc]bullthiX;knife_mp;136;MOD_MELEE;torso_upper
+  1:41 K;0;4;axis;[3arc]SZTSkill Piplup;0;5;allies;[3arc]Lemon Haze;knife_mp;139;MOD_MELEE;head
+  1:50 K;0;8;axis;[3arc]WWGangster;0;9;allies;[3arc]Hell Dog;knife_mp;135;MOD_MELEE;torso_lower
+  1:55 K;0;6;axis;[3arc]bullthiX;0;7;allies;[3arc]I_Lag_Alot;knife_mp;137;MOD_MELEE;head
+  1:59 K;0;7;allies;[3arc]I_Lag_Alot;0;1;axis;Classixz;five_seven_tactical_zam;201;MOD_MELEE;left_arm_lower
+  2:07 K;0;2;axis;[3arc]Destroyer;0;3;allies;[3arc]Wildey475;knife_mp;139;MOD_MELEE;left_arm_lower
+  2:07 K;0;8;axis;[3arc]WWGangster;0;9;allies;[3arc]Hell Dog;knife_mp;139;MOD_MELEE;head
+  2:07 K;0;9;allies;[3arc]Hell Dog;0;1;axis;Classixz;five_seven_tactical_zam;203;MOD_MELEE;torso_upper
+  2:11 K;0;1;axis;Classixz;0;7;allies;[3arc]I_Lag_Alot;knife_mp;136;MOD_MELEE;torso_lower
+  2:15 K;0;7;allies;[3arc]I_Lag_Alot;0;4;axis;[3arc]SZTSkill Piplup;knife_mp;139;MOD_MELEE;torso_upper
+  2:26 K;0;2;axis;[3arc]Destroyer;0;5;allies;[3arc]Lemon Haze;knife_mp;136;MOD_MELEE;head
+  2:26 K;0;8;axis;[3arc]WWGangster;0;7;allies;[3arc]I_Lag_Alot;knife_mp;136;MOD_MELEE;head
+  2:29 K;0;6;axis;[3arc]bullthiX;0;9;allies;[3arc]Hell Dog;knife_mp;139;MOD_MELEE;neck
+  2:35 K;0;7;allies;[3arc]I_Lag_Alot;0;8;axis;[3arc]WWGangster;knife_mp;137;MOD_MELEE;head
+  2:43 K;0;8;axis;[3arc]WWGangster;0;3;allies;[3arc]Wildey475;knife_mp;137;MOD_MELEE;torso_lower
+  2:44 K;0;9;allies;[3arc]Hell Dog;0;4;axis;[3arc]SZTSkill Piplup;knife_mp;135;MOD_MELEE;neck
+  2:46 K;0;5;allies;[3arc]Lemon Haze;0;4;axis;[3arc]SZTSkill Piplup;knife_mp;136;MOD_MELEE;torso_lower
+  2:46 K;0;6;axis;[3arc]bullthiX;0;3;allies;[3arc]Wildey475;knife_mp;137;MOD_MELEE;head
+  2:57 ShutdownGame:
+  2:57 ------------------------------------------------------------
+  2:57 ------------------------------------------------------------
+  2:57 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:57 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:57 ShutdownGame:
+  2:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 J;0;1;[3arc]srt8charger06
+  0:00 J;0;2;[3arc][TAKB] Dysick Sa
+  0:00 J;0;3;[3arc]white Sniper
+  0:00 J;0;4;[3arc]Delicious
+  0:00 J;0;5;[3arc]Rollkommando
+  0:01 J;0;6;[3arc]Lemon Haze
+  0:01 J;0;7;[3arc]Ultraviolet
+  0:01 J;0;8;[3arc]Griggzor'
+  0:01 J;0;9;[3arc]HoM_a_SiDe
+  0:01 J;0;10;[3arc]junior
+  0:01 J;0;11;[3arc]UU-S horky*
+  0:01 J;0;12;[3arc]Hunting
+  0:01 J;0;13;[3arc]MakeYouSayWTF
+  0:02 J;0;14;[3arc]divine.Zeus #iam
+  0:02 J;0;15;[3arc]spoder-ruski
+  0:02 J;0;16;[3arc]The Bad Tazz
+  0:02 J;0;0;Classixz
+  0:19 K;0;3;allies;[3arc]white Sniper;0;0;allies;Classixz;five_seven_tactical_zam;201;MOD_MELEE;torso_lower
+  0:21 K;0;5;allies;[3arc]Rollkommando;0;8;allies;[3arc]Griggzor';knife_mp;136;MOD_MELEE;torso_lower
+  0:21 K;0;16;axis;[3arc]The Bad Tazz;0;4;allies;[3arc]Delicious;knife_mp;139;MOD_MELEE;head
+  0:22 K;0;0;allies;Classixz;0;14;axis;[3arc]divine.Zeus #iam;knife_mp;138;MOD_MELEE;head
+  0:23 K;0;4;allies;[3arc]Delicious;0;13;allies;[3arc]MakeYouSayWTF;five_seven_tactical_zam;200;MOD_MELEE;torso_upper
+  0:23 K;0;14;axis;[3arc]divine.Zeus #iam;0;12;allies;[3arc]Hunting;knife_mp;137;MOD_MELEE;head
+  0:24 K;0;6;axis;[3arc]Lemon Haze;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;200;MOD_MELEE;head
+  0:24 K;0;7;axis;[3arc]Ultraviolet;0;15;allies;[3arc]spoder-ruski;five_seven_tactical_zam;204;MOD_MELEE;torso_upper
+  0:25 K;0;15;allies;[3arc]spoder-ruski;0;11;allies;[3arc]UU-S horky*;five_seven_tactical_zam;201;MOD_MELEE;neck
+  0:27 K;0;11;allies;[3arc]UU-S horky*;0;9;axis;[3arc]HoM_a_SiDe;five_seven_tactical_zam;202;MOD_MELEE;head
+  0:28 K;0;9;axis;[3arc]HoM_a_SiDe;0;10;allies;[3arc]junior;knife_mp;135;MOD_MELEE;head
+  0:29 K;0;10;allies;[3arc]junior;0;8;allies;[3arc]Griggzor';knife_mp;139;MOD_MELEE;head
+  0:30 K;0;8;allies;[3arc]Griggzor';0;1;allies;[3arc]srt8charger06;five_seven_tactical_zam;202;MOD_MELEE;head
+  0:31 K;0;12;allies;[3arc]Hunting;0;2;axis;[3arc]TAKB] Dysick Sa;knife_mp;137;MOD_MELEE;head
+  0:32 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;13;allies;[3arc]MakeYouSayWTF;five_seven_tactical_zam;203;MOD_MELEE;left_arm_upper
+  0:35 K;0;14;axis;[3arc]divine.Zeus #iam;0;6;axis;[3arc]Lemon Haze;five_seven_tactical_zam;200;MOD_MELEE;torso_lower
+  0:36 K;0;3;allies;[3arc]white Sniper;0;0;allies;Classixz;five_seven_tactical_zam;204;MOD_MELEE;torso_lower
+  0:38 K;0;1;allies;[3arc]srt8charger06;0;16;axis;[3arc]The Bad Tazz;five_seven_tactical_zam;200;MOD_MELEE;torso_upper
+  0:38 K;0;4;allies;[3arc]Delicious;0;7;axis;[3arc]Ultraviolet;knife_mp;138;MOD_MELEE;head
+  0:38 K;0;16;axis;[3arc]The Bad Tazz;0;13;allies;[3arc]MakeYouSayWTF;five_seven_tactical_zam;202;MOD_MELEE;torso_upper
+  0:38 K;0;7;axis;[3arc]Ultraviolet;0;15;allies;[3arc]spoder-ruski;knife_mp;136;MOD_MELEE;neck
+  0:39 K;0;15;allies;[3arc]spoder-ruski;0;0;allies;Classixz;five_seven_tactical_zam;200;MOD_MELEE;torso_lower
+  0:40 K;0;0;allies;Classixz;0;13;allies;[3arc]MakeYouSayWTF;five_seven_tactical_zam;203;MOD_MELEE;head
+  0:40 K;0;10;allies;[3arc]junior;0;8;allies;[3arc]Griggzor';five_seven_tactical_zam;204;MOD_MELEE;torso_lower
+  0:41 K;0;5;allies;[3arc]Rollkommando;0;13;allies;[3arc]MakeYouSayWTF;five_seven_tactical_zam;201;MOD_MELEE;torso_lower
+  0:42 K;0;13;allies;[3arc]MakeYouSayWTF;0;6;axis;[3arc]Lemon Haze;five_seven_tactical_zam;204;MOD_MELEE;head
+  0:45 K;0;8;allies;[3arc]Griggzor';0;9;axis;[3arc]HoM_a_SiDe;knife_mp;137;MOD_MELEE;head
+  0:47 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;14;axis;[3arc]divine.Zeus #iam;knife_mp;137;MOD_MELEE;head
+  0:48 K;0;14;axis;[3arc]divine.Zeus #iam;0;12;allies;[3arc]Hunting;five_seven_tactical_zam;201;MOD_MELEE;head
+  0:50 K;0;3;allies;[3arc]white Sniper;0;15;allies;[3arc]spoder-ruski;five_seven_tactical_zam;201;MOD_MELEE;head
+  0:51 K;0;12;allies;[3arc]Hunting;0;11;allies;[3arc]UU-S horky*;knife_mp;138;MOD_MELEE;head
+  0:51 K;0;15;allies;[3arc]spoder-ruski;0;9;axis;[3arc]HoM_a_SiDe;knife_mp;137;MOD_MELEE;right_hand
+  0:51 K;0;16;axis;[3arc]The Bad Tazz;0;10;allies;[3arc]junior;knife_mp;139;MOD_MELEE;neck
+  0:52 K;0;10;allies;[3arc]junior;0;1;allies;[3arc]srt8charger06;knife_mp;138;MOD_MELEE;torso_upper
+  0:54 K;0;1;allies;[3arc]srt8charger06;0;0;allies;Classixz;five_seven_tactical_zam;203;MOD_MELEE;torso_upper
+  0:55 K;0;6;axis;[3arc]Lemon Haze;0;11;allies;[3arc]UU-S horky*;knife_mp;136;MOD_MELEE;neck
+  0:56 K;0;13;allies;[3arc]MakeYouSayWTF;0;4;allies;[3arc]Delicious;knife_mp;136;MOD_MELEE;head
+  0:56 K;0;4;allies;[3arc]Delicious;0;0;allies;Classixz;five_seven_tactical_zam;202;MOD_MELEE;torso_upper
+  0:58 K;0;5;allies;[3arc]Rollkommando;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;200;MOD_MELEE;torso_upper
+  1:00 K;0;9;axis;[3arc]HoM_a_SiDe;0;11;allies;[3arc]UU-S horky*;knife_mp;136;MOD_MELEE;head
+  1:02 K;0;3;allies;[3arc]white Sniper;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:03 K;0;16;axis;[3arc]The Bad Tazz;0;11;allies;[3arc]UU-S horky*;knife_mp;135;MOD_MELEE;right_hand
+  1:03 K;0;11;allies;[3arc]UU-S horky*;0;8;allies;[3arc]Griggzor';knife_mp;138;MOD_MELEE;neck
+  1:04 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;202;MOD_MELEE;right_arm_lower
+  1:07 K;0;15;allies;[3arc]spoder-ruski;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;202;MOD_MELEE;head
+  1:08 K;0;1;allies;[3arc]srt8charger06;0;4;allies;[3arc]Delicious;five_seven_tactical_zam;203;MOD_MELEE;right_arm_lower
+  1:08 K;0;10;allies;[3arc]junior;0;5;allies;[3arc]Rollkommando;knife_mp;138;MOD_MELEE;head
+  1:12 K;0;4;allies;[3arc]Delicious;0;8;allies;[3arc]Griggzor';knife_mp;139;MOD_MELEE;head
+  1:14 K;0;13;allies;[3arc]MakeYouSayWTF;0;6;axis;[3arc]Lemon Haze;knife_mp;135;MOD_MELEE;head
+  1:15 K;0;12;allies;[3arc]Hunting;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;202;MOD_MELEE;torso_upper
+  1:15 K;0;0;allies;Classixz;0;3;allies;[3arc]white Sniper;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:15 K;0;9;axis;[3arc]HoM_a_SiDe;0;8;allies;[3arc]Griggzor';knife_mp;136;MOD_MELEE;torso_lower
+  1:16 K;0;6;axis;[3arc]Lemon Haze;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;200;MOD_MELEE;torso_lower
+  1:17 K;0;5;allies;[3arc]Rollkommando;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;201;MOD_MELEE;head
+  1:17 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;3;allies;[3arc]white Sniper;five_seven_tactical_zam;201;MOD_MELEE;head
+  1:18 K;0;11;allies;[3arc]UU-S horky*;0;8;allies;[3arc]Griggzor';knife_mp;135;MOD_MELEE;head
+  1:19 K;0;15;allies;[3arc]spoder-ruski;0;1;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;torso_lower
+  1:21 K;0;16;axis;[3arc]The Bad Tazz;0;3;allies;[3arc]white Sniper;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:21 K;0;14;axis;[3arc]divine.Zeus #iam;0;1;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;torso_upper
+  1:23 K;0;10;allies;[3arc]junior;0;3;allies;[3arc]white Sniper;five_seven_tactical_zam;201;MOD_MELEE;torso_lower
+  1:27 K;0;3;allies;[3arc]white Sniper;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;203;MOD_MELEE;head
+  1:28 K;0;4;allies;[3arc]Delicious;0;1;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;head
+  1:30 K;0;13;allies;[3arc]MakeYouSayWTF;0;8;allies;[3arc]Griggzor';knife_mp;136;MOD_MELEE;head
+  1:31 K;0;11;allies;[3arc]UU-S horky*;0;2;axis;[3arc]TAKB] Dysick Sa;knife_mp;137;MOD_MELEE;head
+  1:31 K;0;8;allies;[3arc]Griggzor';0;1;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;torso_lower
+  1:31 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;14;axis;[3arc]divine.Zeus #iam;knife_mp;138;MOD_MELEE;left_hand
+  1:32 K;0;12;allies;[3arc]Hunting;0;6;axis;[3arc]Lemon Haze;five_seven_tactical_zam;204;MOD_MELEE;torso_lower
+  1:33 K;0;1;allies;[3arc]srt8charger06;0;6;axis;[3arc]Lemon Haze;five_seven_tactical_zam;200;MOD_MELEE;torso_lower
+  1:34 K;0;16;axis;[3arc]The Bad Tazz;0;9;axis;[3arc]HoM_a_SiDe;knife_mp;138;MOD_MELEE;right_hand
+  1:35 K;0;5;allies;[3arc]Rollkommando;0;15;allies;[3arc]spoder-ruski;knife_mp;136;MOD_MELEE;right_arm_lower
+  1:36 K;0;6;axis;[3arc]Lemon Haze;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;201;MOD_MELEE;torso_upper
+  1:38 K;0;9;axis;[3arc]HoM_a_SiDe;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;200;MOD_MELEE;torso_upper
+  1:39 K;0;4;allies;[3arc]Delicious;0;11;allies;[3arc]UU-S horky*;five_seven_tactical_zam;201;MOD_MELEE;right_arm_lower
+  1:40 K;0;7;axis;[3arc]Ultraviolet;0;10;allies;[3arc]junior;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:42 K;0;3;allies;[3arc]white Sniper;0;2;axis;[3arc]TAKB] Dysick Sa;five_seven_tactical_zam;202;MOD_MELEE;torso_lower
+  1:43 K;0;11;allies;[3arc]UU-S horky*;0;8;allies;[3arc]Griggzor';five_seven_tactical_zam;202;MOD_MELEE;head
+  1:43 K;0;8;allies;[3arc]Griggzor';0;1;allies;[3arc]srt8charger06;five_seven_tactical_zam;203;MOD_MELEE;torso_upper
+  1:44 K;0;10;allies;[3arc]junior;0;2;axis;[3arc]TAKB] Dysick Sa;five_seven_tactical_zam;200;MOD_MELEE;right_hand
+  1:47 K;0;14;axis;[3arc]divine.Zeus #iam;0;16;axis;[3arc]The Bad Tazz;knife_mp;138;MOD_MELEE;torso_lower
+  1:47 K;0;13;allies;[3arc]MakeYouSayWTF;0;12;allies;[3arc]Hunting;knife_mp;136;MOD_MELEE;head
+  1:50 K;0;15;allies;[3arc]spoder-ruski;0;5;allies;[3arc]Rollkommando;knife_mp;136;MOD_MELEE;head
+  1:51 K;0;9;axis;[3arc]HoM_a_SiDe;0;7;axis;[3arc]Ultraviolet;knife_mp;139;MOD_MELEE;torso_lower
+  1:53 K;0;12;allies;[3arc]Hunting;0;2;axis;[3arc]TAKB] Dysick Sa;hatchet_mp;340;MOD_IMPACT;head
+  1:54 K;0;11;allies;[3arc]UU-S horky*;0;16;axis;[3arc]The Bad Tazz;knife_mp;138;MOD_MELEE;torso_lower
+  1:55 K;0;8;allies;[3arc]Griggzor';0;2;axis;[3arc]TAKB] Dysick Sa;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:56 K;0;16;axis;[3arc]The Bad Tazz;0;14;axis;[3arc]divine.Zeus #iam;five_seven_tactical_zam;203;MOD_MELEE;torso_lower
+  1:57 K;0;2;axis;[3arc]TAKB] Dysick Sa;0;3;allies;[3arc]white Sniper;five_seven_tactical_zam;204;MOD_MELEE;head
+  1:58 K;0;6;axis;[3arc]Lemon Haze;0;4;allies;[3arc]Delicious;knife_mp;136;MOD_MELEE;left_arm_upper
+  1:59 K;0;3;allies;[3arc]white Sniper;0;10;allies;[3arc]junior;knife_mp;135;MOD_MELEE;head
+  2:00 K;0;14;axis;[3arc]divine.Zeus #iam;0;1;allies;[3arc]srt8charger06;five_seven_tactical_zam;204;MOD_MELEE;torso_lower
+  2:01 K;0;0;allies;Classixz;0;9;axis;[3arc]HoM_a_SiDe;knife_mp;138;MOD_MELEE;torso_upper
+  2:03 K;0;1;allies;[3arc]srt8charger06;0;7;axis;[3arc]Ultraviolet;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:04 K;0;15;allies;[3arc]spoder-ruski;0;7;axis;[3arc]Ultraviolet;knife_mp;138;MOD_MELEE;torso_upper
+  2:06 K;0;4;allies;[3arc]Delicious;0;13;allies;[3arc]MakeYouSayWTF;knife_mp;138;MOD_MELEE;head
+  2:07 K;0;10;allies;[3arc]junior;0;13;allies;[3arc]MakeYouSayWTF;knife_mp;137;MOD_MELEE;left_arm_lower
+  2:09 K;0;7;axis;[3arc]Ultraviolet;0;16;axis;[3arc]The Bad Tazz;five_seven_tactical_zam;204;MOD_MELEE;head
+  2:11 K;0;12;allies;[3arc]Hunting;0;9;axis;[3arc]HoM_a_SiDe;knife_mp;137;MOD_MELEE;torso_upper
+  2:11 K;0;9;axis;[3arc]HoM_a_SiDe;0;5;allies;[3arc]Rollkommando;knife_mp;136;MOD_MELEE;right_arm_upper
+  2:12 K;0;8;allies;[3arc]Griggzor';0;5;allies;[3arc]Rollkommando;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:13 K;0;13;allies;[3arc]MakeYouSayWTF;0;11;allies;[3arc]UU-S horky*;five_seven_tactical_zam;200;MOD_MELEE;head
+  2:14 K;0;11;allies;[3arc]UU-S horky*;0;5;allies;[3arc]Rollkommando;knife_mp;139;MOD_MELEE;head
+  2:14 K;0;15;allies;[3arc]spoder-ruski;0;1;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;left_arm_upper
+  2:17 K;0;6;axis;[3arc]Lemon Haze;0;3;allies;[3arc]white Sniper;knife_mp;136;MOD_MELEE;neck
+  2:17 K;0;3;allies;[3arc]white Sniper;0;14;axis;[3arc]divine.Zeus #iam;knife_mp;136;MOD_MELEE;torso_lower
+  2:20 K;0;5;allies;[3arc]Rollkommando;0;12;allies;[3arc]Hunting;knife_mp;137;MOD_MELEE;head
+  2:21 K;0;12;allies;[3arc]Hunting;0;2;axis;[3arc]TAKB] Dysick Sa;knife_mp;139;MOD_MELEE;torso_lower
+  2:23 K;0;8;allies;[3arc]Griggzor';0;9;axis;[3arc]HoM_a_SiDe;five_seven_tactical_zam;200;MOD_MELEE;neck
+  2:23 K;0;14;axis;[3arc]divine.Zeus #iam;0;2;axis;[3arc]TAKB] Dysick Sa;knife_mp;136;MOD_MELEE;head
+  2:23 K;0;1;allies;[3arc]srt8charger06;0;16;axis;[3arc]The Bad Tazz;five_seven_tactical_zam;203;MOD_MELEE;torso_lower
+  2:24 K;0;4;allies;[3arc]Delicious;0;7;axis;[3arc]Ultraviolet;five_seven_tactical_zam;202;MOD_MELEE;torso_lower
+  2:25 K;0;9;axis;[3arc]HoM_a_SiDe;0;15;allies;[3arc]spoder-ruski;five_seven_tactical_zam;204;MOD_MELEE;left_arm_upper
+  2:25 K;0;7;axis;[3arc]Ultraviolet;0;10;allies;[3arc]junior;five_seven_tactical_zam;202;MOD_MELEE;head
+  2:25 K;0;11;allies;[3arc]UU-S horky*;0;2;axis;[3arc]TAKB] Dysick Sa;knife_mp;139;MOD_MELEE;torso_upper
+  2:27 K;0;13;allies;[3arc]MakeYouSayWTF;0;10;allies;[3arc]junior;five_seven_tactical_zam;203;MOD_MELEE;head
+  2:30 ShutdownGame:
+  2:30 ------------------------------------------------------------
+  2:30 ------------------------------------------------------------
+  2:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:30 J;0;1;[3arc][TMF]ciskhan
+  2:30 J;0;2;[3arc]Jackboot
+  2:30 J;0;3;[3arc]MaiindyXz
+  2:30 J;0;4;[3arc]xAlli
+  2:30 J;0;5;[3arc]Bloody
+  2:30 J;0;6;[3arc]iWektU
+  2:31 J;0;7;[3arc]Never
+  2:31 J;0;8;[3arc]Startune
+  2:31 J;0;9;[3arc]Almost Famous �
+  2:31 J;0;10;[3arc]~skoll
+  2:31 J;0;0;Classixz
+  2:31 J;0;11;[3arc]GFX | Nerozh
+  2:31 J;0;12;[3arc]sebastiantz
+  2:32 J;0;13;[3arc]MaGiiLy
+  2:32 J;0;14;[3arc]og kush
+  2:32 J;0;15;[3arc][TAKB] Dysick Sa
+  2:32 J;0;16;[3arc][IM]FabianDOOM
+  2:46 K;0;8;allies;[3arc]Startune;0;13;axis;[3arc]MaGiiLy;knife_mp;138;MOD_MELEE;torso_lower
+  2:46 K;0;15;allies;[3arc]TAKB] Dysick Sa;0;9;allies;[3arc]Almost Famous �;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:47 K;0;0;axis;Classixz;0;6;axis;[3arc]iWektU;knife_mp;135;MOD_MELEE;right_arm_upper
+  2:48 K;0;9;allies;[3arc]Almost Famous �;0;1;allies;[3arc]F[TMF]ciskhan;hatchet_mp;340;MOD_IMPACT;left_leg_upper
+  2:48 K;0;16;axis;[3arc]IM]FabianDOOM;0;5;axis;[3arc]Bloody;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:49 K;0;2;axis;[3arc]Jackboot;0;5;axis;[3arc]Bloody;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  2:49 K;0;4;allies;[3arc]xAlli;0;7;axis;[3arc]Never;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  2:49 K;0;5;axis;[3arc]Bloody;0;12;axis;[3arc]sebastiantz;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  2:50 K;0;11;axis;[3arc]GFX | Nerozh;0;10;axis;[3arc]skoll;knife_mp;135;MOD_MELEE;head
+  2:54 K;0;13;axis;[3arc]MaGiiLy;0;12;axis;[3arc]sebastiantz;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  2:54 K;0;10;axis;[3arc]skoll;0;3;allies;[3arc]MaiindyXz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:54 K;0;15;allies;[3arc]TAKB] Dysick Sa;0;8;allies;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:56 K;0;6;axis;[3arc]iWektU;0;14;allies;[3arc]og kush;hatchet_mp;340;MOD_IMPACT;left_leg_lower
+  2:56 K;0;8;allies;[3arc]Startune;0;12;axis;[3arc]sebastiantz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:57 K;0;9;allies;[3arc]Almost Famous �;0;14;allies;[3arc]og kush;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:58 K;0;3;allies;[3arc]MaiindyXz;0;5;axis;[3arc]Bloody;knife_mp;139;MOD_MELEE;head
+  3:00 K;0;12;axis;[3arc]sebastiantz;0;7;axis;[3arc]Never;knife_mp;139;MOD_MELEE;left_arm_upper
+  3:00 K;0;4;allies;[3arc]xAlli;0;0;axis;Classixz;five_seven_tactical_zam;202;MOD_MELEE;torso_lower
+  3:01 Weapon;0;0;Classixz;intervention_3k_zam
+  3:01 K;0;7;axis;[3arc]Never;0;11;axis;[3arc]GFX | Nerozh;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:03 K;0;11;axis;[3arc]GFX | Nerozh;0;5;axis;[3arc]Bloody;knife_mp;136;MOD_MELEE;head
+  3:03 K;0;13;axis;[3arc]MaGiiLy;0;2;axis;[3arc]Jackboot;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  3:05 K;0;14;allies;[3arc]og kush;0;0;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:06 K;0;0;axis;Classixz;0;8;allies;[3arc]Startune;knife_mp;135;MOD_MELEE;head
+  3:07 K;0;8;allies;[3arc]Startune;0;1;allies;[3arc]F[TMF]ciskhan;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:08 K;0;1;allies;[3arc]F[TMF]ciskhan;0;16;axis;[3arc]IM]FabianDOOM;knife_mp;139;MOD_MELEE;left_arm_upper
+  3:08 K;0;3;allies;[3arc]MaiindyXz;0;2;axis;[3arc]Jackboot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:09 K;0;10;axis;[3arc]skoll;0;12;axis;[3arc]sebastiantz;knife_mp;136;MOD_MELEE;torso_lower
+  3:09 K;0;16;axis;[3arc]IM]FabianDOOM;0;15;allies;[3arc]TAKB] Dysick Sa;knife_mp;135;MOD_MELEE;right_arm_upper
+  3:09 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:09 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:10 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:10 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:10 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:10 Weapon;0;9;Almost Famous ;intervention_3k_zam
+  3:10 K;0;2;axis;[3arc]Jackboot;0;6;axis;[3arc]iWektU;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:11 K;0;9;allies;[3arc]Almost Famous �;0;5;axis;[3arc]Bloody;knife_mp;138;MOD_MELEE;torso_upper
+  3:12 K;0;12;axis;[3arc]sebastiantz;0;7;axis;[3arc]Never;knife_mp;138;MOD_MELEE;head
+  3:15 K;0;5;axis;[3arc]Bloody;0;4;allies;[3arc]xAlli;knife_mp;138;MOD_MELEE;torso_lower
+  3:17 K;0;6;axis;[3arc]iWektU;0;13;axis;[3arc]MaGiiLy;knife_mp;135;MOD_MELEE;head
+  3:17 K;0;13;axis;[3arc]MaGiiLy;0;11;axis;[3arc]GFX | Nerozh;knife_mp;139;MOD_MELEE;head
+  3:18 K;0;14;allies;[3arc]og kush;0;1;allies;[3arc]F[TMF]ciskhan;knife_mp;135;MOD_MELEE;torso_upper
+  3:19 K;0;8;allies;[3arc]Startune;0;10;axis;[3arc]skoll;knife_mp;137;MOD_MELEE;head
+  3:19 K;0;4;allies;[3arc]xAlli;0;16;axis;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:19 K;0;15;allies;[3arc]TAKB] Dysick Sa;0;16;axis;[3arc]IM]FabianDOOM;intervention_3k_zam;3279;MOD_RIFLE_BULLET;torso_lower
+  3:20 K;0;16;axis;[3arc]IM]FabianDOOM;0;7;axis;[3arc]Never;knife_mp;136;MOD_MELEE;torso_upper
+  3:24 K;0;10;axis;[3arc]skoll;0;9;allies;[3arc]Almost Famous �;knife_mp;136;MOD_MELEE;torso_lower
+  3:26 K;0;3;allies;[3arc]MaiindyXz;0;12;axis;[3arc]sebastiantz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:26 K;0;7;axis;[3arc]Never;0;13;axis;[3arc]MaGiiLy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:28 K;0;15;allies;[3arc]TAKB] Dysick Sa;0;5;axis;[3arc]Bloody;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 K;0;5;axis;[3arc]Bloody;0;14;allies;[3arc]og kush;hatchet_mp;340;MOD_IMPACT;left_leg_upper
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:28 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:29 Weapon;0;12;sebastiantz;intervention_3k_zam
+  3:29 K;0;6;axis;[3arc]iWektU;0;4;allies;[3arc]xAlli;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_lower
+  3:30 K;0;11;axis;[3arc]GFX | Nerozh;0;14;allies;[3arc]og kush;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  3:31 K;0;1;allies;[3arc]F[TMF]ciskhan;0;4;allies;[3arc]xAlli;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:32 K;0;16;axis;[3arc]IM]FabianDOOM;0;9;allies;[3arc]Almost Famous �;knife_mp;137;MOD_MELEE;head
+  3:32 ShutdownGame:
+  3:32 ------------------------------------------------------------
+  3:32 ------------------------------------------------------------
+  3:32 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:32 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:33 J;0;1;[3arc]Peacy*
+  3:33 J;0;2;[3arc]KinderBueno#snak
+  3:34 J;0;0;Classixz
+  4:15 K;0;0;axis;Classixz;0;1;allies;[3arc]Peacy*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:34 K;0;2;axis;[3arc]KinderBueno#snak;0;1;allies;[3arc]Peacy*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:35 ShutdownGame:
+  4:35 ------------------------------------------------------------
+  4:35 ------------------------------------------------------------
+  4:35 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:35 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:35 J;0;1;[3arc]MeRr l win
+  4:35 J;0;2;[3arc]Borg8472
+  4:37 J;0;0;Classixz
+  4:56 K;0;0;axis;Classixz;0;1;allies;[3arc]MeRr l win;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:11 ShutdownGame:
+  5:11 ------------------------------------------------------------
+  5:11 ------------------------------------------------------------
+  5:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:13 J;0;0;Classixz
+  5:25 ShutdownGame:
+  5:25 ------------------------------------------------------------
+  5:25 ------------------------------------------------------------
+  5:25 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:25 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:26 J;0;1;[3arc][TAKB]alllibaba_
+  5:26 J;0;2;[3arc]Tommy
+  5:27 J;0;0;Classixz
+  5:47 K;0;1;allies;[3arc]TAKB]alllibaba_;0;0;axis;Classixz;five_seven_tactical_zam;202;MOD_MELEE;torso_lower
+  5:48 Weapon;0;0;Classixz;intervention_3k_zam
+  5:50 K;0;2;axis;[3arc]Tommy;0;0;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  6:02 K;0;1;allies;[3arc]TAKB]alllibaba_;0;0;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  6:14 K;0;0;axis;Classixz;0;1;allies;[3arc]TAKB]alllibaba_;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  6:37 K;0;0;axis;Classixz;0;1;allies;[3arc]TAKB]alllibaba_;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  6:39 K;0;2;axis;[3arc]Tommy;0;1;allies;[3arc]TAKB]alllibaba_;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_lower
+  6:47 ShutdownGame:
+  6:47 ------------------------------------------------------------
+  6:47 ------------------------------------------------------------
+  6:47 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  6:47 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  6:48 J;0;1;[3arc]CrazyBuch
+  6:48 J;0;2;[3arc]The One Patriot
+  6:48 J;0;3;[3arc][TAKB] Dysick Sa
+  6:48 J;0;4;[3arc]Destroyer
+  6:48 J;0;5;[3arc]cyka
+  6:48 J;0;6;[3arc]GreyhounD
+  6:48 J;0;7;[3arc]Never
+  6:48 J;0;8;[3arc]ErrorZz*
+  6:49 J;0;9;[3arc]Skytecs
+  6:49 J;0;10;[3arc]SniPEr
+  6:49 J;0;0;Classixz
+  6:49 J;0;11;[3arc]BrebeZ
+  6:49 J;0;12;[3arc][x1Io5-Rapecake]
+  6:49 J;0;13;[3arc]DDT Nitro
+  6:49 J;0;14;[3arc]UltraOptical
+  6:49 J;0;15;[3arc]Tommy
+  6:49 J;0;16;[3arc]Dewsty
+  6:50 J;0;17;[3arc]I_Lag_Alot
+  6:50 J;0;18;[3arc]I ICE I
+  6:50 J;0;19;[3arc]GTX Anonymous
+  6:50 J;0;20;[3arc]f0rest♥ SKINOM
+  7:03 K;0;18;axis;[3arc]I ICE I;0;7;axis;[3arc]Never;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:04 K;0;6;allies;[3arc]GreyhounD;0;0;axis;Classixz;five_seven_tactical_zam;202;MOD_MELEE;left_arm_upper
+  7:05 K;0;14;allies;[3arc]UltraOptical;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3157;MOD_RIFLE_BULLET;torso_lower
+  7:05 K;0;8;axis;[3arc]ErrorZz*;0;5;axis;[3arc]cyka;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  7:05 K;0;13;allies;[3arc]DDT Nitro;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  7:06 K;0;4;allies;[3arc]Destroyer;0;7;axis;[3arc]Never;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:06 D;0;0;axis;Classixz;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  7:06 K;0;16;allies;[3arc]Dewsty;0;10;allies;[3arc]SniPEr;hatchet_mp;340;MOD_IMPACT;head
+  7:06 K;0;10;allies;[3arc]SniPEr;0;11;allies;[3arc]BrebeZ;knife_mp;137;MOD_MELEE;right_arm_upper
+  7:07 D;0;0;axis;Classixz;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  7:07 D;0;0;axis;Classixz;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_lower
+  7:07 K;0;5;axis;[3arc]cyka;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:08 K;0;12;allies;[3arc]x1Io5-Rapecake];0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:08 D;0;0;axis;Classixz;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:08 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;11;allies;[3arc]BrebeZ;knife_mp;136;MOD_MELEE;neck
+  7:09 K;0;7;axis;[3arc]Never;0;20;axis;[3arc]f0rest♥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:11 D;0;0;axis;Classixz;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:12 K;0;19;allies;[3arc]GTX Anonymous;0;17;axis;[3arc]I_Lag_Alot;knife_mp;139;MOD_MELEE;head
+  7:12 K;0;9;axis;[3arc]Skytecs;0;0;axis;Classixz;five_seven_tactical_zam;203;MOD_MELEE;torso_upper
+  7:12 Weapon;0;0;Classixz;intervention_3k_zam
+  7:13 K;0;13;allies;[3arc]DDT Nitro;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:13 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;15;axis;[3arc]Tommy;knife_mp;138;MOD_MELEE;torso_upper
+  7:15 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 K;0;1;axis;[3arc]CrazyBuch;0;10;allies;[3arc]SniPEr;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:15 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 K;0;14;allies;[3arc]UltraOptical;0;0;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 Weapon;0;8;ErrorZz*;intervention_3k_zam
+  7:16 K;0;8;axis;[3arc]ErrorZz*;0;15;axis;[3arc]Tommy;hatchet_mp;340;MOD_IMPACT;left_leg_lower
+  7:17 Weapon;0;0;Classixz;intervention_3k_zam
+  7:17 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;139;MOD_MELEE;torso_lower
+  7:18 K;0;17;axis;[3arc]I_Lag_Alot;0;4;allies;[3arc]Destroyer;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  7:18 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;136;MOD_MELEE;torso_lower
+  7:20 K;0;4;allies;[3arc]Destroyer;0;2;allies;[3arc]The One Patriot;knife_mp;135;MOD_MELEE;head
+  7:22 K;0;16;allies;[3arc]Dewsty;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;head
+  7:22 K;0;6;allies;[3arc]GreyhounD;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;right_hand
+  7:22 K;0;15;axis;[3arc]Tommy;0;7;axis;[3arc]Never;knife_mp;136;MOD_MELEE;left_arm_lower
+  7:23 K;0;10;allies;[3arc]SniPEr;0;18;axis;[3arc]I ICE I;knife_mp;135;MOD_MELEE;torso_lower
+  7:23 K;0;18;axis;[3arc]I ICE I;0;7;axis;[3arc]Never;knife_mp;137;MOD_MELEE;left_arm_upper
+  7:24 K;0;9;axis;[3arc]Skytecs;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:24 K;0;2;allies;[3arc]The One Patriot;0;5;axis;[3arc]cyka;knife_mp;135;MOD_MELEE;head
+  7:24 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;137;MOD_MELEE;head
+  7:24 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;135;MOD_MELEE;head
+  7:25 K;0;12;allies;[3arc]x1Io5-Rapecake];0;5;axis;[3arc]cyka;knife_mp;136;MOD_MELEE;head
+  7:25 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;139;MOD_MELEE;head
+  7:25 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;136;MOD_MELEE;torso_upper
+  7:26 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;139;MOD_MELEE;neck
+  7:26 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;137;MOD_MELEE;head
+  7:27 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;7;axis;[3arc]Never;knife_mp;135;MOD_MELEE;right_hand
+  7:27 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;137;MOD_MELEE;neck
+  7:27 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;torso_lower
+  7:28 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;135;MOD_MELEE;neck
+  7:28 K;0;7;axis;[3arc]Never;0;5;axis;[3arc]cyka;knife_mp;139;MOD_MELEE;torso_lower
+  7:28 K;0;5;axis;[3arc]cyka;0;1;axis;[3arc]CrazyBuch;knife_mp;135;MOD_MELEE;torso_upper
+  7:28 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;torso_lower
+  7:29 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;136;MOD_MELEE;torso_lower
+  7:29 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;torso_lower
+  7:29 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;139;MOD_MELEE;torso_lower
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;torso_lower
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 D;0;0;axis;Classixz;0;11;allies;[3arc]BrebeZ;knife_mp;138;MOD_MELEE;torso_lower
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:30 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:31 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:31 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:31 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:31 Weapon;0;19;GTX Anonymous;intervention_3k_zam
+  7:31 K;0;11;allies;[3arc]BrebeZ;0;4;allies;[3arc]Destroyer;knife_mp;138;MOD_MELEE;neck
+  7:31 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;torso_lower
+  7:32 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_lower
+  7:32 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;torso_lower
+  7:32 K;0;14;allies;[3arc]UltraOptical;0;15;axis;[3arc]Tommy;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  7:32 K;0;1;axis;[3arc]CrazyBuch;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:32 K;0;8;axis;[3arc]ErrorZz*;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;torso_upper
+  7:32 K;0;18;axis;[3arc]I ICE I;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:33 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_lower
+  7:33 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;136;MOD_MELEE;torso_lower
+  7:34 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;137;MOD_MELEE;head
+  7:34 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;torso_lower
+  7:34 K;0;2;allies;[3arc]The One Patriot;0;-1;allies;[3arc]The One Patriot;destructible_car_mp;107;MOD_EXPLOSIVE;none
+  7:34 K;0;10;allies;[3arc]SniPEr;0;9;axis;[3arc]Skytecs;intervention_3k_zam;1819;MOD_RIFLE_BULLET;left_leg_lower
+  7:35 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;138;MOD_MELEE;neck
+  7:35 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;neck
+  7:35 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;139;MOD_MELEE;torso_lower
+  7:35 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;head
+  7:36 K;0;13;allies;[3arc]DDT Nitro;0;7;axis;[3arc]Never;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  7:36 K;0;16;allies;[3arc]Dewsty;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:36 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;137;MOD_MELEE;right_arm_upper
+  7:36 K;0;5;axis;[3arc]cyka;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:37 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;139;MOD_MELEE;head
+  7:38 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;137;MOD_MELEE;neck
+  7:39 K;0;9;axis;[3arc]Skytecs;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;139;MOD_MELEE;torso_upper
+  7:39 D;0;0;axis;Classixz;0;7;axis;[3arc]Never;hatchet_mp;340;MOD_IMPACT;right_foot
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;138;MOD_MELEE;right_arm_lower
+  7:39 K;0;6;allies;[3arc]GreyhounD;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:39 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_lower
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:40 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 K;0;19;allies;[3arc]GTX Anonymous;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_lower
+  7:41 K;0;2;allies;[3arc]The One Patriot;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 K;0;18;axis;[3arc]I ICE I;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:41 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;137;MOD_MELEE;torso_lower
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:42 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:43 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:43 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:43 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:43 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;139;MOD_MELEE;head
+  7:43 Weapon;0;1;CrazyBuch;intervention_3k_zam
+  7:43 K;0;7;axis;[3arc]Never;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:44 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_lower
+  7:44 K;0;16;allies;[3arc]Dewsty;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:44 K;0;10;allies;[3arc]SniPEr;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:44 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;135;MOD_MELEE;right_arm_upper
+  7:45 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;135;MOD_MELEE;torso_lower
+  7:46 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;knife_mp;139;MOD_MELEE;torso_lower
+  7:47 D;0;0;axis;Classixz;0;4;allies;[3arc]Destroyer;hatchet_mp;340;MOD_IMPACT;torso_lower
+  7:47 K;0;4;allies;[3arc]Destroyer;0;5;axis;[3arc]cyka;knife_mp;139;MOD_MELEE;head
+  7:48 K;0;5;axis;[3arc]cyka;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:48 K;0;14;allies;[3arc]UltraOptical;0;3;axis;[3arc]TAKB] Dysick Sa;knife_mp;139;MOD_MELEE;left_arm_upper
+  7:48 K;0;1;axis;[3arc]CrazyBuch;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:48 K;0;11;allies;[3arc]BrebeZ;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:49 D;0;0;axis;Classixz;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:50 K;0;6;allies;[3arc]GreyhounD;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:50 K;0;2;allies;[3arc]The One Patriot;0;9;axis;[3arc]Skytecs;knife_mp;139;MOD_MELEE;head
+  7:51 K;0;8;axis;[3arc]ErrorZz*;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:51 K;0;19;allies;[3arc]GTX Anonymous;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:51 K;0;15;axis;[3arc]Tommy;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;2728;MOD_RIFLE_BULLET;right_leg_upper
+  7:53 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  7:53 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;7;axis;[3arc]Never;knife_mp;136;MOD_MELEE;head
+  7:54 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  7:54 K;0;9;axis;[3arc]Skytecs;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  7:55 K;0;13;allies;[3arc]DDT Nitro;0;10;allies;[3arc]SniPEr;knife_mp;136;MOD_MELEE;torso_upper
+  7:56 K;0;5;axis;[3arc]cyka;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:57 K;0;7;axis;[3arc]Never;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  7:57 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:57 K;0;11;allies;[3arc]BrebeZ;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:57 K;0;16;allies;[3arc]Dewsty;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  7:58 K;0;17;axis;[3arc]I_Lag_Alot;0;4;allies;[3arc]Destroyer;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  7:58 K;0;10;allies;[3arc]SniPEr;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  7:59 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  7:59 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 K;0;12;allies;[3arc]x1Io5-Rapecake];0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;knife_mp;136;MOD_MELEE;right_arm_upper
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:00 Weapon;0;4;Destroyer;intervention_3k_zam
+  8:01 K;0;18;axis;[3arc]I ICE I;0;12;allies;[3arc]x1Io5-Rapecake];hatchet_mp;340;MOD_IMPACT;right_foot
+  8:01 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;hatchet_mp;340;MOD_IMPACT;head
+  8:02 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;knife_mp;135;MOD_MELEE;head
+  8:03 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;knife_mp;136;MOD_MELEE;torso_lower
+  8:03 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;137;MOD_MELEE;head
+  8:04 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;knife_mp;135;MOD_MELEE;torso_lower
+  8:04 K;0;1;axis;[3arc]CrazyBuch;0;6;allies;[3arc]GreyhounD;knife_mp;136;MOD_MELEE;torso_lower
+  8:04 K;0;8;axis;[3arc]ErrorZz*;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;torso_upper
+  8:05 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;torso_lower
+  8:05 Weapon;0;0;Classixz;intervention_3k_zam
+  8:05 K;0;19;allies;[3arc]GTX Anonymous;0;7;axis;[3arc]Never;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:05 K;0;14;allies;[3arc]UltraOptical;0;5;axis;[3arc]cyka;knife_mp;139;MOD_MELEE;head
+  8:06 K;0;5;axis;[3arc]cyka;0;6;allies;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;head
+  8:06 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;torso_lower
+  8:07 K;0;11;allies;[3arc]BrebeZ;0;9;axis;[3arc]Skytecs;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  8:07 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;torso_lower
+  8:07 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;16;allies;[3arc]Dewsty;knife_mp;137;MOD_MELEE;torso_lower
+  8:08 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;138;MOD_MELEE;head
+  8:09 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;137;MOD_MELEE;head
+  8:09 K;0;15;axis;[3arc]Tommy;0;13;allies;[3arc]DDT Nitro;knife_mp;136;MOD_MELEE;right_arm_upper
+  8:10 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;137;MOD_MELEE;torso_lower
+  8:10 K;0;18;axis;[3arc]I ICE I;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:10 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;136;MOD_MELEE;torso_lower
+  8:11 K;0;4;allies;[3arc]Destroyer;0;17;axis;[3arc]I_Lag_Alot;knife_mp;136;MOD_MELEE;head
+  8:11 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;136;MOD_MELEE;torso_lower
+  8:12 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;138;MOD_MELEE;torso_lower
+  8:12 K;0;19;allies;[3arc]GTX Anonymous;0;7;axis;[3arc]Never;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  8:13 K;0;9;axis;[3arc]Skytecs;0;12;allies;[3arc]x1Io5-Rapecake];knife_mp;135;MOD_MELEE;right_arm_upper
+  8:13 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;head
+  8:13 K;0;10;allies;[3arc]SniPEr;0;6;allies;[3arc]GreyhounD;knife_mp;138;MOD_MELEE;right_arm_lower
+  8:13 D;0;0;axis;Classixz;0;2;allies;[3arc]The One Patriot;knife_mp;137;MOD_MELEE;torso_lower
+  8:14 K;0;2;allies;[3arc]The One Patriot;0;13;allies;[3arc]DDT Nitro;knife_mp;138;MOD_MELEE;torso_upper
+  8:14 K;0;5;axis;[3arc]cyka;0;7;axis;[3arc]Never;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:15 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;torso_lower
+  8:15 K;0;7;axis;[3arc]Never;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:16 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;137;MOD_MELEE;torso_lower
+  8:16 K;0;14;allies;[3arc]UltraOptical;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:16 K;0;17;axis;[3arc]I_Lag_Alot;0;6;allies;[3arc]GreyhounD;knife_mp;137;MOD_MELEE;torso_upper
+  8:16 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;135;MOD_MELEE;head
+  8:17 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;knife_mp;137;MOD_MELEE;head
+  8:17 K;0;11;allies;[3arc]BrebeZ;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  8:18 K;0;13;allies;[3arc]DDT Nitro;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;138;MOD_MELEE;torso_upper
+  8:18 K;0;8;axis;[3arc]ErrorZz*;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  8:19 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;139;MOD_MELEE;torso_lower
+  8:20 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;136;MOD_MELEE;torso_lower
+  8:21 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:21 K;0;16;allies;[3arc]Dewsty;0;12;allies;[3arc]x1Io5-Rapecake];knife_mp;138;MOD_MELEE;torso_lower
+  8:21 K;0;12;allies;[3arc]x1Io5-Rapecake];0;6;allies;[3arc]GreyhounD;knife_mp;137;MOD_MELEE;torso_upper
+  8:21 K;0;1;axis;[3arc]CrazyBuch;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:22 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:23 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:23 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:24 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;5;axis;[3arc]cyka;knife_mp;138;MOD_MELEE;torso_upper
+  8:24 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;torso_lower
+  8:25 K;0;5;axis;[3arc]cyka;0;6;allies;[3arc]GreyhounD;knife_mp;139;MOD_MELEE;torso_upper
+  8:25 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;right_arm_lower
+  8:26 K;0;14;allies;[3arc]UltraOptical;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:26 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:26 K;0;15;axis;[3arc]Tommy;0;11;allies;[3arc]BrebeZ;intervention_3k_zam;3186;MOD_RIFLE_BULLET;torso_lower
+  8:27 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;136;MOD_MELEE;torso_lower
+  8:28 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;139;MOD_MELEE;right_arm_lower
+  8:29 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;right_arm_lower
+  8:29 K;0;2;allies;[3arc]The One Patriot;0;18;axis;[3arc]I ICE I;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  8:29 Weapon;0;17;I_Lag_Alot;intervention_3k_zam
+  8:30 Weapon;0;17;I_Lag_Alot;intervention_3k_zam
+  8:30 K;0;17;axis;[3arc]I_Lag_Alot;0;8;axis;[3arc]ErrorZz*;knife_mp;137;MOD_MELEE;head
+  8:30 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;torso_lower
+  8:31 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;137;MOD_MELEE;torso_lower
+  8:32 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;head
+  8:32 K;0;4;allies;[3arc]Destroyer;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_upper
+  8:32 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;136;MOD_MELEE;head
+  8:33 K;0;8;axis;[3arc]ErrorZz*;0;7;axis;[3arc]Never;knife_mp;135;MOD_MELEE;torso_upper
+  8:33 D;0;0;axis;Classixz;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;138;MOD_MELEE;right_arm_lower
+  8:34 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;6;allies;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;head
+  8:34 K;0;9;axis;[3arc]Skytecs;0;10;allies;[3arc]SniPEr;knife_mp;135;MOD_MELEE;torso_upper
+  8:35 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;torso_lower
+  8:35 K;0;10;allies;[3arc]SniPEr;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  8:36 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;knife_mp;136;MOD_MELEE;torso_lower
+  8:36 K;0;6;allies;[3arc]GreyhounD;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:36 K;0;11;allies;[3arc]BrebeZ;0;14;allies;[3arc]UltraOptical;knife_mp;138;MOD_MELEE;left_arm_lower
+  8:37 K;0;16;allies;[3arc]Dewsty;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:37 K;0;18;axis;[3arc]I ICE I;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3086;MOD_RIFLE_BULLET;torso_upper
+  8:37 K;0;14;allies;[3arc]UltraOptical;0;1;axis;[3arc]CrazyBuch;knife_mp;139;MOD_MELEE;torso_upper
+  8:38 K;0;7;axis;[3arc]Never;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:38 K;0;1;axis;[3arc]CrazyBuch;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  8:40 K;0;17;axis;[3arc]I_Lag_Alot;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  8:40 K;0;2;allies;[3arc]The One Patriot;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  8:41 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3117;MOD_RIFLE_BULLET;torso_lower
+  8:42 K;0;4;allies;[3arc]Destroyer;0;5;axis;[3arc]cyka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:42 K;0;12;allies;[3arc]x1Io5-Rapecake];0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:43 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:44 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;5;axis;[3arc]cyka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:44 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:45 K;0;19;allies;[3arc]GTX Anonymous;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:45 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  8:46 K;0;10;allies;[3arc]SniPEr;0;18;axis;[3arc]I ICE I;knife_mp;136;MOD_MELEE;head
+  8:46 K;0;14;allies;[3arc]UltraOptical;0;15;axis;[3arc]Tommy;knife_mp;139;MOD_MELEE;head
+  8:46 D;0;0;axis;Classixz;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:47 K;0;18;axis;[3arc]I ICE I;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  8:47 K;0;13;allies;[3arc]DDT Nitro;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_lower
+  8:47 K;0;8;axis;[3arc]ErrorZz*;0;7;axis;[3arc]Never;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  8:47 K;0;5;axis;[3arc]cyka;0;16;allies;[3arc]Dewsty;knife_mp;136;MOD_MELEE;right_arm_upper
+  8:48 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:48 K;0;1;axis;[3arc]CrazyBuch;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  8:50 K;0;11;allies;[3arc]BrebeZ;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:50 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:51 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:51 K;0;16;allies;[3arc]Dewsty;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:51 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  8:52 K;0;6;allies;[3arc]GreyhounD;0;12;allies;[3arc]x1Io5-Rapecake];knife_mp;138;MOD_MELEE;head
+  8:53 K;0;12;allies;[3arc]x1Io5-Rapecake];0;19;allies;[3arc]GTX Anonymous;knife_mp;136;MOD_MELEE;head
+  8:53 K;0;2;allies;[3arc]The One Patriot;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  8:55 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;139;MOD_MELEE;head
+  8:56 K;0;17;axis;[3arc]I_Lag_Alot;0;20;axis;[3arc]f0rest♥ SKINOM;knife_mp;135;MOD_MELEE;head
+  8:56 K;0;4;allies;[3arc]Destroyer;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  8:56 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;137;MOD_MELEE;head
+  8:57 K;0;13;allies;[3arc]DDT Nitro;0;10;allies;[3arc]SniPEr;knife_mp;137;MOD_MELEE;neck
+  8:57 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;138;MOD_MELEE;head
+  8:58 K;0;7;axis;[3arc]Never;0;10;allies;[3arc]SniPEr;knife_mp;135;MOD_MELEE;head
+  8:58 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;138;MOD_MELEE;torso_lower
+  8:58 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;5;axis;[3arc]cyka;knife_mp;135;MOD_MELEE;right_arm_upper
+  8:58 K;0;8;axis;[3arc]ErrorZz*;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  8:59 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;136;MOD_MELEE;torso_lower
+  8:59 K;0;15;axis;[3arc]Tommy;0;11;allies;[3arc]BrebeZ;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:00 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;135;MOD_MELEE;torso_lower
+  9:00 K;0;18;axis;[3arc]I ICE I;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:01 K;0;10;allies;[3arc]SniPEr;0;5;axis;[3arc]cyka;knife_mp;139;MOD_MELEE;head
+  9:01 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;knife_mp;138;MOD_MELEE;head
+  9:01 K;0;12;allies;[3arc]x1Io5-Rapecake];0;11;allies;[3arc]BrebeZ;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 K;0;1;axis;[3arc]CrazyBuch;0;19;allies;[3arc]GTX Anonymous;knife_mp;138;MOD_MELEE;neck
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:02 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:03 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:04 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 K;0;11;allies;[3arc]BrebeZ;0;9;axis;[3arc]Skytecs;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 K;0;9;axis;[3arc]Skytecs;0;4;allies;[3arc]Destroyer;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 K;0;17;axis;[3arc]I_Lag_Alot;0;5;axis;[3arc]cyka;knife_mp;135;MOD_MELEE;neck
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 K;0;2;allies;[3arc]The One Patriot;0;6;allies;[3arc]GreyhounD;knife_mp;137;MOD_MELEE;torso_upper
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:05 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 K;0;6;allies;[3arc]GreyhounD;0;5;axis;[3arc]cyka;knife_mp;136;MOD_MELEE;head
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:06 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 K;0;19;allies;[3arc]GTX Anonymous;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:07 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 K;0;4;allies;[3arc]Destroyer;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:08 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 K;0;8;axis;[3arc]ErrorZz*;0;5;axis;[3arc]cyka;knife_mp;137;MOD_MELEE;head
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 K;0;10;allies;[3arc]SniPEr;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:09 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:10 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:11 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 K;0;5;axis;[3arc]cyka;0;16;allies;[3arc]Dewsty;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 K;0;16;allies;[3arc]Dewsty;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 K;0;18;axis;[3arc]I ICE I;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:12 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:12 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 Weapon;0;13;DDT Nitro;intervention_3k_zam
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:13 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:14 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:15 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:16 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:17 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:17 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:17 D;0;0;axis;Classixz;0;14;allies;[3arc]UltraOptical;hatchet_mp;340;MOD_IMPACT;torso_lower
+  9:17 K;0;1;axis;[3arc]CrazyBuch;0;9;axis;[3arc]Skytecs;knife_mp;135;MOD_MELEE;torso_upper
+  9:17 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:19 K;0;13;allies;[3arc]DDT Nitro;0;11;allies;[3arc]BrebeZ;knife_mp;138;MOD_MELEE;torso_lower
+  9:19 K;0;11;allies;[3arc]BrebeZ;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:19 K;0;7;axis;[3arc]Never;0;4;allies;[3arc]Destroyer;knife_mp;136;MOD_MELEE;torso_upper
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:20 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:21 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:21 Weapon;0;18;I ICE I;intervention_3k_zam
+  9:21 K;0;4;allies;[3arc]Destroyer;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  9:22 K;0;10;allies;[3arc]SniPEr;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:22 K;0;6;allies;[3arc]GreyhounD;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;2544;MOD_RIFLE_BULLET;left_leg_upper
+  9:22 K;0;14;allies;[3arc]UltraOptical;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_upper
+  9:22 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;2898;MOD_RIFLE_BULLET;right_leg_upper
+  9:23 K;0;9;axis;[3arc]Skytecs;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:23 K;0;8;axis;[3arc]ErrorZz*;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:23 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:25 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  9:26 K;0;19;allies;[3arc]GTX Anonymous;0;15;axis;[3arc]Tommy;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  9:27 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;knife_mp;136;MOD_MELEE;torso_upper
+  9:28 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;knife_mp;136;MOD_MELEE;right_arm_lower
+  9:28 K;0;11;allies;[3arc]BrebeZ;0;5;axis;[3arc]cyka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:30 K;0;17;axis;[3arc]I_Lag_Alot;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:31 K;0;15;axis;[3arc]Tommy;0;7;axis;[3arc]Never;intervention_3k_zam;2894;MOD_RIFLE_BULLET;right_arm_upper
+  9:32 K;0;14;allies;[3arc]UltraOptical;0;7;axis;[3arc]Never;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:32 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_upper
+  9:32 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:33 K;0;2;allies;[3arc]The One Patriot;0;1;axis;[3arc]CrazyBuch;knife_mp;135;MOD_MELEE;head
+  9:33 Weapon;0;7;Never;intervention_3k_zam
+  9:33 K;0;7;axis;[3arc]Never;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:33 K;0;4;allies;[3arc]Destroyer;0;16;allies;[3arc]Dewsty;knife_mp;136;MOD_MELEE;head
+  9:33 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:34 K;0;10;allies;[3arc]SniPEr;0;5;axis;[3arc]cyka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:35 K;0;13;allies;[3arc]DDT Nitro;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:35 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:36 K;0;12;allies;[3arc]x1Io5-Rapecake];0;1;axis;[3arc]CrazyBuch;knife_mp;135;MOD_MELEE;head
+  9:37 D;0;0;axis;Classixz;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:38 K;0;18;axis;[3arc]I ICE I;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:38 K;0;9;axis;[3arc]Skytecs;0;11;allies;[3arc]BrebeZ;knife_mp;137;MOD_MELEE;torso_lower
+  9:38 K;0;1;axis;[3arc]CrazyBuch;0;16;allies;[3arc]Dewsty;knife_mp;138;MOD_MELEE;head
+  9:39 K;0;16;allies;[3arc]Dewsty;0;6;allies;[3arc]GreyhounD;knife_mp;136;MOD_MELEE;right_arm_upper
+  9:40 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:41 K;0;5;axis;[3arc]cyka;0;20;axis;[3arc]f0rest♥ SKINOM;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  9:41 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;17;axis;[3arc]I_Lag_Alot;knife_mp;137;MOD_MELEE;head
+  9:42 K;0;7;axis;[3arc]Never;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:42 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;2988;MOD_RIFLE_BULLET;torso_lower
+  9:42 K;0;11;allies;[3arc]BrebeZ;0;6;allies;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;head
+  9:43 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:44 D;0;0;axis;Classixz;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  9:44 K;0;6;allies;[3arc]GreyhounD;0;14;allies;[3arc]UltraOptical;knife_mp;136;MOD_MELEE;torso_upper
+  9:44 K;0;10;allies;[3arc]SniPEr;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  9:45 K;0;2;allies;[3arc]The One Patriot;0;13;allies;[3arc]DDT Nitro;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:46 K;0;15;axis;[3arc]Tommy;0;17;axis;[3arc]I_Lag_Alot;knife_mp;139;MOD_MELEE;torso_lower
+  9:46 K;0;19;allies;[3arc]GTX Anonymous;0;14;allies;[3arc]UltraOptical;knife_mp;135;MOD_MELEE;head
+  9:47 K;0;17;axis;[3arc]I_Lag_Alot;0;4;allies;[3arc]Destroyer;knife_mp;138;MOD_MELEE;head
+  9:47 K;0;8;axis;[3arc]ErrorZz*;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:48 K;0;13;allies;[3arc]DDT Nitro;0;16;allies;[3arc]Dewsty;intervention_3k_zam;3242;MOD_RIFLE_BULLET;torso_lower
+  9:49 K;0;4;allies;[3arc]Destroyer;0;1;axis;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:50 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;9;axis;[3arc]Skytecs;knife_mp;138;MOD_MELEE;torso_lower
+  9:50 K;0;9;axis;[3arc]Skytecs;0;18;axis;[3arc]I ICE I;knife_mp;137;MOD_MELEE;head
+  9:51 K;0;1;axis;[3arc]CrazyBuch;0;5;axis;[3arc]cyka;knife_mp;135;MOD_MELEE;head
+  9:53 K;0;16;allies;[3arc]Dewsty;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:53 K;0;5;axis;[3arc]cyka;0;10;allies;[3arc]SniPEr;intervention_3k_zam;3215;MOD_RIFLE_BULLET;torso_lower
+  9:53 K;0;14;allies;[3arc]UltraOptical;0;10;allies;[3arc]SniPEr;intervention_3k_zam;2709;MOD_RIFLE_BULLET;left_leg_upper
+  9:54 K;0;6;allies;[3arc]GreyhounD;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:54 K;0;7;axis;[3arc]Never;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  9:55 K;0;18;axis;[3arc]I ICE I;0;10;allies;[3arc]SniPEr;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  9:57 K;0;17;axis;[3arc]I_Lag_Alot;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  9:58 Weapon;0;11;BrebeZ;intervention_3k_zam
+  9:58 Weapon;0;11;BrebeZ;intervention_3k_zam
+  9:58 K;0;4;allies;[3arc]Destroyer;0;10;allies;[3arc]SniPEr;intervention_3k_zam;3087;MOD_RIFLE_BULLET;torso_lower
+  9:59 K;0;13;allies;[3arc]DDT Nitro;0;12;allies;[3arc]x1Io5-Rapecake];intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  9:59 Weapon;0;15;Tommy;intervention_3k_zam
+  9:59 Weapon;0;15;Tommy;intervention_3k_zam
+  9:59 Weapon;0;15;Tommy;intervention_3k_zam
+  9:59 Weapon;0;15;Tommy;intervention_3k_zam
+  9:59 Weapon;0;15;Tommy;intervention_3k_zam
+  9:59 K;0;11;allies;[3arc]BrebeZ;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:02 K;0;2;allies;[3arc]The One Patriot;0;6;allies;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;head
+ 10:02 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;10;allies;[3arc]SniPEr;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:04 K;0;12;allies;[3arc]x1Io5-Rapecake];0;10;allies;[3arc]SniPEr;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+ 10:04 K;0;9;axis;[3arc]Skytecs;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:04 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_hand
+ 10:05 K;0;6;allies;[3arc]GreyhounD;0;18;axis;[3arc]I ICE I;intervention_3k_zam;3273;MOD_RIFLE_BULLET;torso_upper
+ 10:05 K;0;16;allies;[3arc]Dewsty;0;19;allies;[3arc]GTX Anonymous;knife_mp;137;MOD_MELEE;left_arm_upper
+ 10:06 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;136;MOD_MELEE;head
+ 10:07 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;137;MOD_MELEE;torso_lower
+ 10:07 K;0;8;axis;[3arc]ErrorZz*;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:07 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;136;MOD_MELEE;torso_lower
+ 10:08 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;138;MOD_MELEE;torso_lower
+ 10:09 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;139;MOD_MELEE;torso_lower
+ 10:10 K;0;17;axis;[3arc]I_Lag_Alot;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+ 10:10 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;138;MOD_MELEE;head
+ 10:10 K;0;10;allies;[3arc]SniPEr;0;7;axis;[3arc]Never;knife_mp;135;MOD_MELEE;torso_lower
+ 10:11 D;0;0;axis;Classixz;0;1;axis;[3arc]CrazyBuch;knife_mp;139;MOD_MELEE;torso_lower
+ 10:12 K;0;1;axis;[3arc]CrazyBuch;0;7;axis;[3arc]Never;hatchet_mp;340;MOD_IMPACT;head
+ 10:12 K;0;13;allies;[3arc]DDT Nitro;0;2;allies;[3arc]The One Patriot;knife_mp;139;MOD_MELEE;head
+ 10:12 K;0;11;allies;[3arc]BrebeZ;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+ 10:13 D;0;0;axis;Classixz;0;7;axis;[3arc]Never;knife_mp;138;MOD_MELEE;head
+ 10:13 K;0;2;allies;[3arc]The One Patriot;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:14 K;0;7;axis;[3arc]Never;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:14 K;0;5;axis;[3arc]cyka;0;3;axis;[3arc]TAKB] Dysick Sa;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+ 10:14 K;0;18;axis;[3arc]I ICE I;0;12;allies;[3arc]x1Io5-Rapecake];hatchet_mp;340;MOD_IMPACT;head
+ 10:15 K;0;16;allies;[3arc]Dewsty;0;15;axis;[3arc]Tommy;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:15 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:15 K;0;4;allies;[3arc]Destroyer;0;12;allies;[3arc]x1Io5-Rapecake];knife_mp;138;MOD_MELEE;head
+ 10:16 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:17 K;0;9;axis;[3arc]Skytecs;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:17 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:18 D;0;0;axis;Classixz;0;6;allies;[3arc]GreyhounD;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:20 K;0;10;allies;[3arc]SniPEr;0;14;allies;[3arc]UltraOptical;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:20 K;0;6;allies;[3arc]GreyhounD;0;19;allies;[3arc]GTX Anonymous;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:21 K;0;12;allies;[3arc]x1Io5-Rapecake];0;14;allies;[3arc]UltraOptical;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:21 K;0;20;axis;[3arc]f0rest♥ SKINOM;0;17;axis;[3arc]I_Lag_Alot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+ 10:22 K;0;3;axis;[3arc]TAKB] Dysick Sa;0;11;allies;[3arc]BrebeZ;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:22 K;0;5;axis;[3arc]cyka;0;8;axis;[3arc]ErrorZz*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+ 10:22 K;0;18;axis;[3arc]I ICE I;0;2;allies;[3arc]The One Patriot;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+ 10:22 ShutdownGame:
+ 10:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 J;0;2;[3arc]Kill Order
+  0:00 J;0;3;[3arc]spoder-ruski
+  0:00 J;0;4;[3arc]njw69
+  0:00 J;0;5;[3arc]JamesBond
+  0:00 J;0;6;[3arc]Wildey475
+  0:00 J;0;7;[3arc]=FBI=Brody_PL
+  0:01 J;0;8;[3arc]Braby*
+  0:01 J;0;9;[3arc]SniPEr
+  0:01 J;0;10;[3arc]zamega21
+  0:01 J;0;11;[3arc]Bozkurt
+  0:01 J;0;12;[3arc][IM]FabianDOOM
+  0:01 J;0;13;[3arc]Bloody
+  0:01 J;0;14;[3arc]The...Horváthl[
+  0:01 J;0;15;[3arc]Late Night Toast
+  0:02 J;0;16;[3arc]Plattfuss
+  0:02 J;0;17;[3arc]Prime
+  0:02 J;0;18;[3arc]BrebeZ
+  0:02 J;0;19;[3arc]martinelli.matti
+  0:02 J;0;20;[3arc]iWektU
+  0:02 J;0;21;[3arc]Myka
+  0:02 J;0;1;Classixz
+  0:05 J;0;0;[3arc]democlient
+  0:18 D;0;1;axis;Classixz;0;10;axis;[3arc]zamega21;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:19 K;0;10;axis;[3arc]zamega21;0;1;axis;Classixz;five_seven_tactical_zam;204;MOD_MELEE;right_hand
+  0:19 K;0;4;allies;[3arc]njw69;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  0:19 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:20 K;0;5;allies;[3arc]JamesBond;0;8;axis;[3arc]Braby*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:20 K;0;17;allies;[3arc]Prime;0;2;axis;[3arc]Kill Order;intervention_3k_zam;2892;MOD_RIFLE_BULLET;right_leg_upper
+  0:21 K;0;15;axis;[3arc]Late Night Toast;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:22 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;2903;MOD_RIFLE_BULLET;left_hand
+  0:22 K;0;2;axis;[3arc]Kill Order;0;19;axis;[3arc]martinelli.matti;knife_mp;139;MOD_MELEE;torso_upper
+  0:22 K;0;20;allies;[3arc]iWektU;0;14;allies;[3arc]The...Horváthl[;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:23 K;0;8;axis;[3arc]Braby*;0;7;allies;[3arc]FBI=Brody_PL;knife_mp;135;MOD_MELEE;head
+  0:23 K;0;13;allies;[3arc]Bloody;0;18;axis;[3arc]BrebeZ;knife_mp;137;MOD_MELEE;torso_lower
+  0:26 K;0;19;axis;[3arc]martinelli.matti;0;14;allies;[3arc]The...Horváthl[;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:26 Weapon;0;1;Classixz;intervention_3k_zam
+  0:26 K;0;14;allies;[3arc]The...Horváthl[;0;7;allies;[3arc]FBI=Brody_PL;knife_mp;136;MOD_MELEE;torso_lower
+  0:28 K;0;11;allies;[3arc]Bozkurt;0;10;axis;[3arc]zamega21;knife_mp;139;MOD_MELEE;left_arm_upper
+  0:28 K;0;16;axis;[3arc]Plattfuss;0;9;axis;[3arc]SniPEr;knife_mp;139;MOD_MELEE;torso_lower
+  0:29 K;0;18;axis;[3arc]BrebeZ;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:29 K;0;12;allies;[3arc]IM]FabianDOOM;0;4;allies;[3arc]njw69;knife_mp;139;MOD_MELEE;torso_upper
+  0:29 D;0;1;axis;Classixz;0;5;allies;[3arc]JamesBond;intervention_3k_zam;2284;MOD_RIFLE_BULLET;left_leg_upper
+  0:30 K;0;6;axis;[3arc]Wildey475;0;3;axis;[3arc]spoder-ruski;knife_mp;135;MOD_MELEE;head
+  0:30 K;0;9;axis;[3arc]SniPEr;0;5;allies;[3arc]JamesBond;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:32 K;0;21;axis;[3arc]Myka;0;5;allies;[3arc]JamesBond;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:32 K;0;7;allies;[3arc]FBI=Brody_PL;0;1;axis;Classixz;intervention_3k_zam;2501;MOD_RIFLE_BULLET;right_arm_upper
+  0:33 K;0;3;axis;[3arc]spoder-ruski;0;15;axis;[3arc]Late Night Toast;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  0:34 K;0;5;allies;[3arc]JamesBond;0;1;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:34 D;0;1;axis;Classixz;0;17;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:35 D;0;1;axis;Classixz;0;17;allies;[3arc]Prime;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  0:36 K;0;2;axis;[3arc]Kill Order;0;10;axis;[3arc]zamega21;knife_mp;135;MOD_MELEE;head
+  0:36 D;0;1;axis;Classixz;0;17;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:37 K;0;4;allies;[3arc]njw69;0;15;axis;[3arc]Late Night Toast;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:37 K;0;10;axis;[3arc]zamega21;0;20;allies;[3arc]iWektU;knife_mp;135;MOD_MELEE;torso_upper
+  0:37 K;0;8;axis;[3arc]Braby*;0;15;axis;[3arc]Late Night Toast;knife_mp;139;MOD_MELEE;right_arm_upper
+  0:37 K;0;17;allies;[3arc]Prime;0;1;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:37 D;0;1;axis;Classixz;0;11;allies;[3arc]Bozkurt;intervention_3k_zam;3259;MOD_RIFLE_BULLET;torso_lower
+  0:37 K;0;13;allies;[3arc]Bloody;0;16;axis;[3arc]Plattfuss;knife_mp;136;MOD_MELEE;right_arm_upper
+  0:39 K;0;15;axis;[3arc]Late Night Toast;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  0:39 K;0;11;allies;[3arc]Bozkurt;0;1;axis;Classixz;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_lower
+  0:41 K;0;9;axis;[3arc]SniPEr;0;1;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:41 K;0;14;allies;[3arc]The...Horváthl[;0;20;allies;[3arc]iWektU;knife_mp;137;MOD_MELEE;torso_upper
+  0:41 K;0;16;axis;[3arc]Plattfuss;0;21;axis;[3arc]Myka;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_lower
+  0:42 K;0;20;allies;[3arc]iWektU;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3182;MOD_RIFLE_BULLET;torso_upper
+  0:43 D;0;1;axis;Classixz;0;5;allies;[3arc]JamesBond;knife_mp;138;MOD_MELEE;head
+  0:43 K;0;12;allies;[3arc]IM]FabianDOOM;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:44 K;0;5;allies;[3arc]JamesBond;0;1;axis;Classixz;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 K;0;18;axis;[3arc]BrebeZ;0;21;axis;[3arc]Myka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 Weapon;0;19;martinelli.matti;intervention_3k_zam
+  0:45 K;0;8;axis;[3arc]Braby*;0;3;axis;[3arc]spoder-ruski;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  0:46 D;0;1;axis;Classixz;0;7;allies;[3arc]FBI=Brody_PL;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:46 K;0;13;allies;[3arc]Bloody;0;17;allies;[3arc]Prime;knife_mp;139;MOD_MELEE;head
+  0:47 K;0;7;allies;[3arc]FBI=Brody_PL;0;10;axis;[3arc]zamega21;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:47 Weapon;0;3;spoder-ruski;intervention_3k_zam
+  0:47 Weapon;0;3;spoder-ruski;intervention_3k_zam
+  0:47 Weapon;0;3;spoder-ruski;intervention_3k_zam
+  0:47 K;0;19;axis;[3arc]martinelli.matti;0;15;axis;[3arc]Late Night Toast;knife_mp;135;MOD_MELEE;torso_upper
+  0:48 K;0;6;axis;[3arc]Wildey475;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:49 K;0;15;axis;[3arc]Late Night Toast;0;21;axis;[3arc]Myka;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:49 D;0;1;axis;Classixz;0;10;axis;[3arc]zamega21;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:49 K;0;3;axis;[3arc]spoder-ruski;0;11;allies;[3arc]Bozkurt;knife_mp;135;MOD_MELEE;torso_lower
+  0:50 K;0;10;axis;[3arc]zamega21;0;1;axis;Classixz;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:51 D;0;1;axis;Classixz;0;20;allies;[3arc]iWektU;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  0:51 K;0;20;allies;[3arc]iWektU;0;1;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:51 K;0;21;axis;[3arc]Myka;0;4;allies;[3arc]njw69;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:52 K;0;4;allies;[3arc]njw69;0;5;allies;[3arc]JamesBond;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:52 D;0;1;axis;Classixz;0;16;axis;[3arc]Plattfuss;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  0:52 K;0;11;allies;[3arc]Bozkurt;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:52 K;0;16;axis;[3arc]Plattfuss;0;1;axis;Classixz;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  0:54 K;0;12;allies;[3arc]IM]FabianDOOM;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  0:55 D;0;1;axis;Classixz;0;13;allies;[3arc]Bloody;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:56 K;0;17;allies;[3arc]Prime;0;13;allies;[3arc]Bloody;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:56 K;0;7;allies;[3arc]FBI=Brody_PL;0;13;allies;[3arc]Bloody;intervention_3k_zam;2937;MOD_RIFLE_BULLET;left_arm_lower
+  0:58 K;0;18;axis;[3arc]BrebeZ;0;6;axis;[3arc]Wildey475;intervention_3k_zam;2976;MOD_RIFLE_BULLET;left_leg_upper
+  0:58 K;0;9;axis;[3arc]SniPEr;0;13;allies;[3arc]Bloody;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  0:59 K;0;2;axis;[3arc]Kill Order;0;15;axis;[3arc]Late Night Toast;intervention_3k_zam;3080;MOD_RIFLE_BULLET;torso_lower
+  0:59 K;0;5;allies;[3arc]JamesBond;0;19;axis;[3arc]martinelli.matti;knife_mp;135;MOD_MELEE;head
+  0:59 Weapon;0;14;The...Horvthl[;intervention_3k_zam
+  0:59 D;0;1;axis;Classixz;0;3;axis;[3arc]spoder-ruski;knife_mp;138;MOD_MELEE;torso_lower
+  1:01 K;0;19;axis;[3arc]martinelli.matti;0;8;axis;[3arc]Braby*;knife_mp;138;MOD_MELEE;head
+  1:01 K;0;6;axis;[3arc]Wildey475;0;15;axis;[3arc]Late Night Toast;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:02 K;0;14;allies;[3arc]The...Horváthl[;0;16;axis;[3arc]Plattfuss;knife_mp;139;MOD_MELEE;head
+  1:03 K;0;20;allies;[3arc]iWektU;0;8;axis;[3arc]Braby*;knife_mp;138;MOD_MELEE;torso_lower
+  1:03 K;0;3;axis;[3arc]spoder-ruski;0;10;axis;[3arc]zamega21;knife_mp;136;MOD_MELEE;head
+  1:03 K;0;13;allies;[3arc]Bloody;0;21;axis;[3arc]Myka;knife_mp;137;MOD_MELEE;torso_upper
+  1:05 K;0;11;allies;[3arc]Bozkurt;0;7;allies;[3arc]FBI=Brody_PL;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:06 K;0;21;axis;[3arc]Myka;0;12;allies;[3arc]IM]FabianDOOM;knife_mp;136;MOD_MELEE;right_arm_upper
+  1:07 K;0;4;allies;[3arc]njw69;0;21;axis;[3arc]Myka;hatchet_mp;340;MOD_IMPACT;right_foot
+  1:07 K;0;15;axis;[3arc]Late Night Toast;0;16;axis;[3arc]Plattfuss;knife_mp;139;MOD_MELEE;left_arm_upper
+  1:07 K;0;12;allies;[3arc]IM]FabianDOOM;0;10;axis;[3arc]zamega21;knife_mp;137;MOD_MELEE;torso_lower
+  1:09 D;0;1;axis;Classixz;0;18;axis;[3arc]BrebeZ;knife_mp;138;MOD_MELEE;head
+  1:10 K;0;7;allies;[3arc]FBI=Brody_PL;0;5;allies;[3arc]JamesBond;knife_mp;137;MOD_MELEE;head
+  1:10 K;0;8;axis;[3arc]Braby*;0;9;axis;[3arc]SniPEr;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:12 K;0;10;axis;[3arc]zamega21;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:12 K;0;17;allies;[3arc]Prime;0;20;allies;[3arc]iWektU;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:12 K;0;2;axis;[3arc]Kill Order;0;6;axis;[3arc]Wildey475;knife_mp;138;MOD_MELEE;right_arm_lower
+  1:13 K;0;16;axis;[3arc]Plattfuss;0;6;axis;[3arc]Wildey475;knife_mp;137;MOD_MELEE;torso_lower
+  1:14 K;0;13;allies;[3arc]Bloody;0;5;allies;[3arc]JamesBond;knife_mp;136;MOD_MELEE;head
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:14 Weapon;0;4;njw69;intervention_3k_zam
+  1:15 K;0;5;allies;[3arc]JamesBond;0;4;allies;[3arc]njw69;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:16 K;0;4;allies;[3arc]njw69;0;21;axis;[3arc]Myka;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:16 K;0;11;allies;[3arc]Bozkurt;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:16 K;0;18;axis;[3arc]BrebeZ;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3028;MOD_RIFLE_BULLET;torso_lower
+  1:17 K;0;14;allies;[3arc]The...Horváthl[;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:18 K;0;7;allies;[3arc]FBI=Brody_PL;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:18 K;0;21;axis;[3arc]Myka;0;15;axis;[3arc]Late Night Toast;knife_mp;135;MOD_MELEE;torso_lower
+  1:19 K;0;15;axis;[3arc]Late Night Toast;0;8;axis;[3arc]Braby*;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  1:19 D;0;1;axis;Classixz;0;9;axis;[3arc]SniPEr;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:20 D;0;1;axis;Classixz;0;9;axis;[3arc]SniPEr;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:21 K;0;10;axis;[3arc]zamega21;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:21 K;0;9;axis;[3arc]SniPEr;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:24 K;0;20;allies;[3arc]iWektU;0;16;axis;[3arc]Plattfuss;intervention_3k_zam;4191;MOD_HEAD_SHOT;head
+  1:24 K;0;17;allies;[3arc]Prime;0;19;axis;[3arc]martinelli.matti;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:25 D;0;1;axis;Classixz;0;12;allies;[3arc]IM]FabianDOOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:25 K;0;12;allies;[3arc]IM]FabianDOOM;0;6;axis;[3arc]Wildey475;knife_mp;137;MOD_MELEE;torso_upper
+  1:25 K;0;13;allies;[3arc]Bloody;0;11;allies;[3arc]Bozkurt;hatchet_mp;340;MOD_IMPACT;torso_lower
+  1:25 K;0;4;allies;[3arc]njw69;0;8;axis;[3arc]Braby*;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  1:25 K;0;11;allies;[3arc]Bozkurt;0;3;axis;[3arc]spoder-ruski;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:26 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  1:26 Weapon;0;16;Plattfuss;intervention_3k_zam
+  1:26 Weapon;0;16;Plattfuss;intervention_3k_zam
+  1:26 Weapon;0;16;Plattfuss;intervention_3k_zam
+  1:26 Weapon;0;16;Plattfuss;intervention_3k_zam
+  1:27 K;0;15;axis;[3arc]Late Night Toast;0;18;axis;[3arc]BrebeZ;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:27 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:27 K;0;19;axis;[3arc]martinelli.matti;0;5;allies;[3arc]JamesBond;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:27 K;0;8;axis;[3arc]Braby*;0;3;axis;[3arc]spoder-ruski;intervention_3k_zam;3094;MOD_RIFLE_BULLET;torso_lower
+  1:28 K;0;14;allies;[3arc]The...Horváthl[;0;3;axis;[3arc]spoder-ruski;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:28 D;0;1;axis;Classixz;0;6;axis;[3arc]Wildey475;knife_mp;138;MOD_MELEE;torso_upper
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 D;0;1;axis;Classixz;0;6;axis;[3arc]Wildey475;knife_mp;136;MOD_MELEE;neck
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 K;0;6;axis;[3arc]Wildey475;0;21;axis;[3arc]Myka;knife_mp;135;MOD_MELEE;torso_upper
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:29 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:30 Weapon;0;7;FBI=Brody_PL;intervention_3k_zam
+  1:33 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:33 K;0;4;allies;[3arc]njw69;0;17;allies;[3arc]Prime;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:34 D;0;1;axis;Classixz;0;2;axis;[3arc]Kill Order;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:34 K;0;3;axis;[3arc]spoder-ruski;0;9;axis;[3arc]SniPEr;knife_mp;139;MOD_MELEE;right_arm_upper
+  1:35 K;0;5;allies;[3arc]JamesBond;0;10;axis;[3arc]zamega21;knife_mp;135;MOD_MELEE;torso_lower
+  1:35 K;0;2;axis;[3arc]Kill Order;0;15;axis;[3arc]Late Night Toast;knife_mp;136;MOD_MELEE;head
+  1:36 K;0;11;allies;[3arc]Bozkurt;0;8;axis;[3arc]Braby*;knife_mp;137;MOD_MELEE;torso_upper
+  1:36 K;0;9;axis;[3arc]SniPEr;0;17;allies;[3arc]Prime;hatchet_mp;340;MOD_IMPACT;right_leg_lower
+  1:37 K;0;13;allies;[3arc]Bloody;0;7;allies;[3arc]FBI=Brody_PL;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:37 K;0;21;axis;[3arc]Myka;0;18;axis;[3arc]BrebeZ;knife_mp;136;MOD_MELEE;head
+  1:37 K;0;10;axis;[3arc]zamega21;0;19;axis;[3arc]martinelli.matti;knife_mp;137;MOD_MELEE;torso_upper
+  1:38 K;0;20;allies;[3arc]iWektU;0;17;allies;[3arc]Prime;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:40 K;0;8;axis;[3arc]Braby*;0;6;axis;[3arc]Wildey475;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:43 K;0;6;axis;[3arc]Wildey475;0;7;allies;[3arc]FBI=Brody_PL;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:44 K;0;15;axis;[3arc]Late Night Toast;0;16;axis;[3arc]Plattfuss;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:44 K;0;4;allies;[3arc]njw69;0;11;allies;[3arc]Bozkurt;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  1:45 D;0;1;axis;Classixz;0;14;allies;[3arc]The...Horváthl[;knife_mp;139;MOD_MELEE;head
+  1:45 K;0;12;allies;[3arc]IM]FabianDOOM;0;16;axis;[3arc]Plattfuss;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  1:45 D;0;1;axis;Classixz;0;14;allies;[3arc]The...Horváthl[;knife_mp;139;MOD_MELEE;head
+  1:46 K;0;17;allies;[3arc]Prime;0;21;axis;[3arc]Myka;intervention_3k_zam;2898;MOD_RIFLE_BULLET;torso_lower
+  1:46 D;0;1;axis;Classixz;0;14;allies;[3arc]The...Horváthl[;knife_mp;135;MOD_MELEE;torso_lower
+  1:47 K;0;16;axis;[3arc]Plattfuss;0;5;allies;[3arc]JamesBond;knife_mp;136;MOD_MELEE;right_arm_upper
+  1:47 K;0;7;allies;[3arc]FBI=Brody_PL;0;3;axis;[3arc]spoder-ruski;knife_mp;135;MOD_MELEE;left_hand
+  1:47 K;0;19;axis;[3arc]martinelli.matti;0;10;axis;[3arc]zamega21;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  1:47 D;0;1;axis;Classixz;0;14;allies;[3arc]The...Horváthl[;knife_mp;139;MOD_MELEE;torso_lower
+  1:48 ShutdownGame:
+  1:48 ------------------------------------------------------------
+  1:48 ------------------------------------------------------------
+  1:48 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:48 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:48 J;0;2;[3arc]WHITELIGHTNING
+  1:48 J;0;3;[3arc][DAK11]davidbohm
+  1:49 J;0;4;[3arc]Osama BinLada
+  1:49 J;0;5;[3arc]Candy 8<
+  1:49 J;0;6;[3arc]jabowky18
+  1:49 J;0;7;[3arc]Startune
+  1:49 J;0;8;[3arc]CrazyBuch
+  1:49 J;0;9;[3arc]Webber(AM)
+  1:49 J;0;10;[3arc]Braby*
+  1:49 J;0;11;[3arc]srt8charger06
+  1:50 J;0;1;Classixz
+  1:50 J;0;12;[3arc]Jackboot
+  1:50 J;0;13;[3arc]Jake
+  1:50 J;0;14;[3arc]njw15
+  1:50 J;0;15;[3arc]Almost Famous �
+  1:50 J;0;16;[3arc]BriziE SKINPROFI
+  1:50 J;0;17;[3arc]Pro`blue
+  1:50 J;0;18;[3arc]Prime
+  1:50 J;0;19;[3arc]xStoner420x
+  1:51 J;0;20;[3arc]f0rest♥ SKINOM
+  1:51 J;0;21;[3arc]Dark wolf
+  2:07 K;0;7;axis;[3arc]Startune;0;4;allies;[3arc]Osama BinLada;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:07 K;0;21;allies;[3arc]Dark wolf;0;10;allies;[3arc]Braby*;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  2:07 K;0;10;allies;[3arc]Braby*;0;15;axis;[3arc]Almost Famous �;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:07 K;0;16;allies;[3arc]BriziE SKINPROFI;0;13;axis;[3arc]Jake;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  2:07 K;0;2;axis;[3arc]WHITELIGHTNING;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;2221;MOD_RIFLE_BULLET;right_leg_lower
+  2:08 K;0;15;axis;[3arc]Almost Famous �;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  2:08 K;0;5;axis;[3arc]Candy 8<;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:08 K;0;17;axis;[3arc]Pro`blue;0;11;allies;[3arc]srt8charger06;knife_mp;138;MOD_MELEE;head
+  2:08 K;0;13;axis;[3arc]Jake;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:09 K;0;18;allies;[3arc]Prime;0;4;allies;[3arc]Osama BinLada;destructible_car_mp;196;MOD_EXPLOSIVE;none
+  2:09 K;0;11;allies;[3arc]srt8charger06;0;12;allies;[3arc]Jackboot;knife_mp;137;MOD_MELEE;head
+  2:10 K;0;19;allies;[3arc]xStoner420x;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  2:11 K;0;9;axis;[3arc]Webber(AM);0;4;allies;[3arc]Osama BinLada;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:11 K;0;3;allies;[3arc]DAK11]davidbohm;0;20;allies;[3arc]f0rest♥ SKINOM;knife_mp;139;MOD_MELEE;torso_upper
+  2:16 K;0;13;axis;[3arc]Jake;0;12;allies;[3arc]Jackboot;knife_mp;135;MOD_MELEE;head
+  2:16 K;0;20;allies;[3arc]f0rest♥ SKINOM;0;6;allies;[3arc]jabowky18;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  2:17 K;0;5;axis;[3arc]Candy 8<;0;21;allies;[3arc]Dark wolf;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:18 K;0;4;allies;[3arc]Osama BinLada;0;6;allies;[3arc]jabowky18;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  2:18 K;0;15;axis;[3arc]Almost Famous �;0;18;allies;[3arc]Prime;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  2:18 K;0;10;allies;[3arc]Braby*;0;12;allies;[3arc]Jackboot;knife_mp;136;MOD_MELEE;left_arm_upper
+  2:19 K;0;21;allies;[3arc]Dark wolf;0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:19 K;0;16;allies;[3arc]BriziE SKINPROFI;0;19;allies;[3arc]xStoner420x;knife_mp;137;MOD_MELEE;right_arm_upper
+  2:20 K;0;11;allies;[3arc]srt8charger06;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:21 K;0;3;allies;[3arc]DAK11]davidbohm;0;17;axis;[3arc]Pro`blue;knife_mp;135;MOD_MELEE;neck
+  2:23 K;0;6;allies;[3arc]jabowky18;0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:23 K;0;9;axis;[3arc]Webber(AM);0;17;axis;[3arc]Pro`blue;knife_mp;136;MOD_MELEE;torso_upper
+  2:24 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;138;MOD_MELEE;head
+  2:24 K;0;12;allies;[3arc]Jackboot;0;17;axis;[3arc]Pro`blue;knife_mp;137;MOD_MELEE;head
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;135;MOD_MELEE;head
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 Weapon;0;15;Almost Famous ;intervention_3k_zam
+  2:25 K;0;7;axis;[3arc]Startune;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:26 K;0;13;axis;[3arc]Jake;0;7;axis;[3arc]Startune;hatchet_mp;340;MOD_IMPACT;left_leg_upper
+  2:26 K;0;2;axis;[3arc]WHITELIGHTNING;0;18;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:26 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;136;MOD_MELEE;head
+  2:27 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;138;MOD_MELEE;head
+  2:27 K;0;20;allies;[3arc]f0rest♥ SKINOM;0;-1;allies;[3arc]f0rest♥ SKINOM;destructible_car_mp;193;MOD_EXPLOSIVE;none
+  2:27 K;0;8;allies;[3arc]CrazyBuch;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:28 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;138;MOD_MELEE;right_arm_lower
+  2:28 K;0;17;axis;[3arc]Pro`blue;0;15;axis;[3arc]Almost Famous �;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:28 K;0;15;axis;[3arc]Almost Famous �;0;19;allies;[3arc]xStoner420x;knife_mp;136;MOD_MELEE;neck
+  2:28 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;136;MOD_MELEE;torso_lower
+  2:28 K;0;10;allies;[3arc]Braby*;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:29 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;139;MOD_MELEE;left_arm_upper
+  2:30 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;138;MOD_MELEE;head
+  2:31 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;138;MOD_MELEE;head
+  2:32 D;0;1;allies;Classixz;0;14;allies;[3arc]njw15;knife_mp;139;MOD_MELEE;torso_lower
+  2:32 K;0;14;allies;[3arc]njw15;0;5;axis;[3arc]Candy 8<;knife_mp;137;MOD_MELEE;torso_upper
+  2:33 Weapon;0;18;Prime;intervention_3k_zam
+  2:33 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;head
+  2:33 K;0;9;axis;[3arc]Webber(AM);0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  2:34 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;135;MOD_MELEE;head
+  2:34 K;0;16;allies;[3arc]BriziE SKINPROFI;0;4;allies;[3arc]Osama BinLada;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:34 K;0;4;allies;[3arc]Osama BinLada;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:35 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;torso_lower
+  2:36 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;135;MOD_MELEE;torso_lower
+  2:36 K;0;19;allies;[3arc]xStoner420x;0;18;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:36 K;0;5;axis;[3arc]Candy 8<;0;6;allies;[3arc]jabowky18;knife_mp;139;MOD_MELEE;head
+  2:36 K;0;15;axis;[3arc]Almost Famous �;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:37 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;torso_lower
+  2:37 K;0;21;allies;[3arc]Dark wolf;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  2:37 K;
