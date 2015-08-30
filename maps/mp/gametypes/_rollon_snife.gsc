@@ -38,6 +38,8 @@ onPlayerConnect()
 		level waittill("connected", player);
 		player.primary = "none";
 		player.secondary = "none";
+		player.vip = 0;
+		player.vip_greeted = 0;
 		player thread onPlayerSpawned();
 	}
 }
@@ -111,7 +113,40 @@ onPlayerSpawned()
 		//self setPerk("specialty_fastreload");
 		self setPerk("specialty_unlimitedsprint");
 		setDvar("perk_bulletPenetrationMultiplier", 4);
+
+		self thread tip();
+		self thread reset_class();
 	}
+}
+
+reset_class()
+{
+	self endon("disconnect");
+	self endon("death");
+	while(1)
+	{
+		if(self SecondaryOffhandButtonPressed())
+		{
+			self.primary = "none";
+			self.secondary = "none";
+			self iPrintLnBold("Weapons are Reset for Next Life");
+		}
+		wait .01;
+	}
+}
+
+tip()
+{
+	self endon("disconnect");
+	self endon("death");
+
+	self.tip destroy();
+	self.tip = createFontString( "objective", 1 );
+	self.tip setPoint( "TOP", "TOP", 0, 0 );
+	self.tip.sort = 1001;
+	self.tip setText("Press Your Tactical Grenade Button to Change Weapons");
+	wait 10;
+	self.tip destroy();
 }
 
 randomNextGame()
