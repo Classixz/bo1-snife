@@ -35,7 +35,8 @@ weapon,snipers/barrett_mp
 weapon,snipers/l118a_mp
 weapon,snipers/m40a3_mp
 weapon,pistol/five_seven_tactical_zam
-//weapon,mp/msr_mp
+weapon,snipers/storm_mp
+weapon,snipers/msr_mp
 
 //Voting
 
