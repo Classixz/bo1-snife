@@ -9,10 +9,75 @@ init()
 	
 	level thread maps\mp\snife\_precache::precacheWeapons();
 	
+	level thread checkGametype();
+	
 	level thread onPlayerConnect();
 	level thread randomNextGame();
 	level thread doDvars();
 	level thread maps\mp\snife\_vips::PlayerList();
+}
+
+checkGametype()
+{
+	level.currentGT = getdvar("g_gametype");
+	if(level.currentGT == "tdm" || level.currentGT == "dm" || 
+		 level.currentGT == "ctf" || level.currentGT == "dom" || 
+		 level.currentGT == "koth" || level.currentGT == "dem")
+		{
+			
+		wait 5;
+		iPrintLnBold("Looks like the right gamemode is not loaded..");
+		wait 2;
+		iPrintLnBold("Reselecting gamemode.");
+		wait 2;
+		
+		gm = [];
+		gm[0] = "dm_knife";
+		gm[1] = "ctf_knife";
+		gm[2] = "sd_knife";
+		gm[3] = "dem_snife";
+		gm[4] = "ctf_snife";
+		gm[5] = "koth_snife";
+		gm[6] = "dm_snipe";
+		gm[7] = "dom_snipe";
+		gm[8] = "koth_snipe";
+		gm[9] = "sd_snipe";
+		gm[10] = "dem_snipe";
+		
+		
+		gmSelected = gm[RandomInt(gm.size)];
+
+		wait 0.1;
+
+		if(gmSelected == "dm_knife")
+			iPrintLnBold("Free-For-All Knife selected");
+		else if(gmSelected == "ctf_knife")
+			iPrintLnBold("Capture the Flag Knife selected");
+		else if(gmSelected == "sd_knife")
+			iPrintLnBold("Search & Destroy Knife selected");
+		else if(gmSelected == "dem_snife")
+			iPrintLnBold("Demolition Snife selected");
+		else if(gmSelected == "ctf_snife")
+			iPrintLnBold("Capture the Flag Snife selected");
+		else if(gmSelected == "koth_snife")
+			iPrintLnBold("Headquarters Snife selected");
+		else if(gmSelected == "dem_snipe")
+			iPrintLnBold("Demolition Snipe selected");
+		else if(gmSelected == "dm_snipe")
+			iPrintLnBold("Capture the Flag Snipe selected");
+		else if(gmSelected == "koth_snipe")
+			iPrintLnBold("Headquarters Snipe selected");
+		else if(gmSelected == "dom_snipe")
+			iPrintLnBold("Domination Snipe selected");
+		else if(gmSelected == "sd_snipe")
+			iPrintLnBold("Search & Destroy Snipe selected");
+
+		setDvar("g_gametype", gmSelected);
+		
+		wait 2;
+		SetDvar("sv_mapRotationCurrent", "map "+getdvar("mapname"));
+		exitlevel(false);
+		}
 }
 
 doDvars()
@@ -123,6 +188,7 @@ reset_class()
 {
 	self endon("disconnect");
 	self endon("death");
+	self endon("weaponResetDone");
 	while(1)
 	{
 		if(self SecondaryOffhandButtonPressed())
@@ -130,6 +196,7 @@ reset_class()
 			self.primary = "none";
 			self.secondary = "none";
 			self iPrintLnBold("Weapons are Reset for Next Life");
+			self notify("weaponResetDone");
 		}
 		wait .01;
 	}
@@ -144,7 +211,7 @@ tip()
 	self.tip = createFontString( "objective", 1 );
 	self.tip setPoint( "TOP", "TOP", 0, 0 );
 	self.tip.sort = 1001;
-	self.tip setText("Press Your Tactical Grenade Button to Change Weapons");
+	self.tip setText("Press ^8[{+smoke}]^7 to Change Weapons");
 	wait 10;
 	self.tip destroy();
 }
