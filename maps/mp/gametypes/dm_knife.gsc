@@ -6,7 +6,7 @@ main()
 	maps\mp\gametypes\_callbacksetup::SetupCallbacks();
 	maps\mp\gametypes\_globallogic::SetupCallbacks();
 	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 10, 0, 1440 );
-	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( level.gameType, 1000, 0, 50000 );
+	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( level.gameType, 1500, 0, 50000 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundLimitDvar( level.gameType, 1, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundWinLimitDvar( level.gameType, 0, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerNumLivesDvar( level.gameType, 0, 0, 10 );

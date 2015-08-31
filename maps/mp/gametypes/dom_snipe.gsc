@@ -7,8 +7,8 @@ main()
 	maps\mp\gametypes\_globallogic::init();
 	maps\mp\gametypes\_callbacksetup::SetupCallbacks();
 	maps\mp\gametypes\_globallogic::SetupCallbacks();
-	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( "dom", 30, 0, 1440 );
-	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( "dom", 200, 0, 1000 );
+	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( "dom", 12, 0, 1440 );
+	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( "dom", 100, 0, 1000 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundLimitDvar( "dom", 1, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundWinLimitDvar( "dom", 0, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerNumLivesDvar( "dom", 0, 0, 10 );

@@ -7,8 +7,8 @@ main()
 	maps\mp\gametypes\_globallogic::init();
 	maps\mp\gametypes\_callbacksetup::SetupCallbacks();
 	maps\mp\gametypes\_globallogic::SetupCallbacks();
-	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 30, 0, 1440 );
-	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( level.gameType, 300, 0, 1000 );
+	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 12, 0, 1440 );
+	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( level.gameType, 150, 0, 1000 );
 	maps\mp\gametypes\_globallogic_utils::registerNumLivesDvar( level.gameType, 0, 0, 10 );
 	maps\mp\gametypes\_weapons::registerGrenadeLauncherDudDvar( level.gameType, 10, 0, 1440 );
 	maps\mp\gametypes\_weapons::registerThrownGrenadeDudDvar( level.gameType, 0, 0, 1440 );
