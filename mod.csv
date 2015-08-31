@@ -1,11 +1,7 @@
 //Game modes - setup 
-
 rawfile,maps/mp/gametypes/_gametypes.txt
-
 stringtable,mp/gametypesTable.csv
-
 //Game modes - actual modes
-
 rawfile,maps/mp/gametypes/ctf_knife.txt
 menufile,ui_mp/hud_ctf_knife.txt
 rawfile,maps/mp/gametypes/ctf_snife.txt
@@ -28,7 +24,6 @@ rawfile,maps/mp/gametypes/sd_knife.txt
 menufile,ui_mp/hud_sd_knife.txt
 rawfile,maps/mp/gametypes/sd_snipe.txt
 menufile,ui_mp/hud_sd_snipe.txt
-
 weapon,snipers/intervention_3k_zam
 weapon,snipers/awp_mp
 weapon,snipers/barrett_mp
@@ -36,11 +31,10 @@ weapon,snipers/l118a_mp
 weapon,snipers/m40a3_mp
 weapon,snipers/storm_mp
 weapon,snipers/msr_mp
+weapon,snipers/r700_zam
 weapon,other/five_seven_tactical_zam
 weapon,other/bowie_knife_zam
-
 //Voting
-
 //menufile,ui_mp/scriptmenus/snife_vote.menu
 //menufile,ui_mp/scriptmenus/dukip_map_selection.menu
 //menufile,ui_mp/scriptmenus/dukip_map_selection1.menu
@@ -48,7 +42,6 @@ weapon,other/bowie_knife_zam
 //menufile,ui_mp/scriptmenus/dukip_gm_selection.menu
 //menufile,ui_mp/scriptmenus/dukip_gm_selection1.menu
 //menufile,ui_mp/scriptmenus/dukip_gm_selection2.menu
-
 //Menus
 menufile,ui_mp/main.menu
 menufile,ui/options_graphics_pc.menu
@@ -61,14 +54,13 @@ menufile,ui_mp/scriptmenus/SniperSelection_Menu.menu
 sound,default_snife
 //Rawfiles
 rawfile,myWhiteList.cfg
-
 //Skyboxes
 xmodel,skybox_mp_array
 xmodel,skybox_mp_cracked
 xmodel,skybox_mp_crisis
 xmodel,skybox_mp_firingrange
 xmodel,skybox_mp_duga
-xmodel,skybox_mp_havana
+xmodel,skybox_mp_cairo
 xmodel,skybox_mp_havoc
 xmodel,skybox_mp_radiation
 xmodel,skybox_mp_mountain

@@ -12,7 +12,7 @@ main()
 	
 	level win_limit_logic();
 	
-	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 15, 0, 1440 );
+	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 8, 0, 1440 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundLimitDvar( level.gameType, 3, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundWinLimitDvar( level.gameType, 2, 0, 10 );
 	maps\mp\gametypes\_globallogic_utils::registerRoundSwitchDvar( level.gameType, 1, 0, 9 );

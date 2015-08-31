@@ -20791,4 +20791,685 @@
   2:36 K;0;15;axis;[3arc]Almost Famous â˜;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
   2:37 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;torso_lower
   2:37 K;0;21;allies;[3arc]Dark wolf;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
-  2:37 K;
+  2:37 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;12;allies;[3arc]Jackboot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:37 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;138;MOD_MELEE;right_arm_lower
+  2:38 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;138;MOD_MELEE;right_arm_lower
+  2:39 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;right_arm_lower
+  2:40 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;torso_lower
+  2:40 K;0;7;axis;[3arc]Startune;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  2:41 K;0;13;axis;[3arc]Jake;0;18;allies;[3arc]Prime;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  2:41 K;0;6;allies;[3arc]jabowky18;0;18;allies;[3arc]Prime;intervention_3k_zam;3235;MOD_RIFLE_BULLET;torso_upper
+  2:41 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;torso_lower
+  2:42 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;139;MOD_MELEE;torso_lower
+  2:42 D;0;1;allies;Classixz;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  2:43 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;torso_lower
+  2:43 K;0;12;allies;[3arc]Jackboot;0;16;allies;[3arc]BriziE SKINPROFI;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:44 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;torso_lower
+  2:45 K;0;17;axis;[3arc]Pro`blue;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3176;MOD_RIFLE_BULLET;torso_lower
+  2:45 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;torso_lower
+  2:45 K;0;2;axis;[3arc]WHITELIGHTNING;0;19;allies;[3arc]xStoner420x;hatchet_mp;340;MOD_IMPACT;right_leg_upper
+  2:45 D;0;1;allies;Classixz;0;10;allies;[3arc]Braby*;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:45 K;0;10;allies;[3arc]Braby*;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;135;MOD_MELEE;head
+  2:46 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;torso_lower
+  2:46 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;16;allies;[3arc]BriziE SKINPROFI;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  2:46 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;right_arm_lower
+  2:47 K;0;18;allies;[3arc]Prime;0;14;allies;[3arc]njw15;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  2:47 D;0;1;allies;Classixz;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;135;MOD_MELEE;left_arm_upper
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 Weapon;0;9;Webber(AM);intervention_3k_zam
+  2:47 D;0;1;allies;Classixz;0;11;allies;[3arc]srt8charger06;knife_mp;137;MOD_MELEE;torso_lower
+  2:48 K;0;16;allies;[3arc]BriziE SKINPROFI;0;21;allies;[3arc]Dark wolf;knife_mp;135;MOD_MELEE;head
+  2:48 K;0;11;allies;[3arc]srt8charger06;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;136;MOD_MELEE;head
+  2:48 K;0;4;allies;[3arc]Osama BinLada;0;8;allies;[3arc]CrazyBuch;knife_mp;139;MOD_MELEE;head
+  2:49 D;0;1;allies;Classixz;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;135;MOD_MELEE;right_arm_lower
+  2:49 K;0;3;allies;[3arc]DAK11]davidbohm;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_arm_upper
+  2:50 K;0;9;axis;[3arc]Webber(AM);0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:50 K;0;5;axis;[3arc]Candy 8<;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:50 D;0;1;allies;Classixz;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:51 D;0;1;allies;Classixz;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:52 K;0;12;allies;[3arc]Jackboot;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:52 K;0;8;allies;[3arc]CrazyBuch;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:52 D;0;1;allies;Classixz;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:53 D;0;1;allies;Classixz;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  2:54 K;0;6;allies;[3arc]jabowky18;0;21;allies;[3arc]Dark wolf;knife_mp;137;MOD_MELEE;head
+  2:54 K;0;2;axis;[3arc]WHITELIGHTNING;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  2:54 K;0;13;axis;[3arc]Jake;0;18;allies;[3arc]Prime;knife_mp;138;MOD_MELEE;left_arm_upper
+  2:56 K;0;7;axis;[3arc]Startune;0;10;allies;[3arc]Braby*;intervention_3k_zam;3260;MOD_RIFLE_BULLET;torso_upper
+  2:57 K;0;17;axis;[3arc]Pro`blue;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;4171;MOD_HEAD_SHOT;head
+  2:58 K;0;10;allies;[3arc]Braby*;0;18;allies;[3arc]Prime;knife_mp;139;MOD_MELEE;left_arm_upper
+  2:58 K;0;15;axis;[3arc]Almost Famous â˜;0;20;allies;[3arc]f0restâ™¥ SKINOM;knife_mp;138;MOD_MELEE;head
+  2:59 K;0;9;axis;[3arc]Webber(AM);0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:00 K;0;18;allies;[3arc]Prime;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:01 K;0;16;allies;[3arc]BriziE SKINPROFI;0;12;allies;[3arc]Jackboot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:01 K;0;21;allies;[3arc]Dark wolf;0;11;allies;[3arc]srt8charger06;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:02 K;0;8;allies;[3arc]CrazyBuch;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:03 K;0;5;axis;[3arc]Candy 8<;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  3:05 K;0;12;allies;[3arc]Jackboot;0;11;allies;[3arc]srt8charger06;intervention_3k_zam;3229;MOD_RIFLE_BULLET;torso_lower
+  3:05 K;0;13;axis;[3arc]Jake;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:06 K;0;6;allies;[3arc]jabowky18;0;11;allies;[3arc]srt8charger06;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:06 K;0;14;allies;[3arc]njw15;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:07 K;0;10;allies;[3arc]Braby*;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:08 K;0;4;allies;[3arc]Osama BinLada;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  3:09 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;137;MOD_MELEE;left_arm_upper
+  3:09 K;0;3;allies;[3arc]DAK11]davidbohm;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:10 K;0;19;allies;[3arc]xStoner420x;0;15;axis;[3arc]Almost Famous â˜;knife_mp;135;MOD_MELEE;head
+  3:11 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;hatchet_mp;340;MOD_IMPACT;right_arm_lower
+  3:11 K;0;8;allies;[3arc]CrazyBuch;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:11 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;137;MOD_MELEE;neck
+  3:11 K;0;9;axis;[3arc]Webber(AM);0;18;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:12 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;139;MOD_MELEE;right_arm_lower
+  3:12 K;0;18;allies;[3arc]Prime;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:12 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  3:13 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;136;MOD_MELEE;left_arm_upper
+  3:13 K;0;16;allies;[3arc]BriziE SKINPROFI;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:14 Weapon;0;5;Candy 8<;intervention_3k_zam
+  3:14 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;136;MOD_MELEE;torso_lower
+  3:14 Weapon;0;5;Candy 8<;intervention_3k_zam
+  3:14 Weapon;0;5;Candy 8<;intervention_3k_zam
+  3:15 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;136;MOD_MELEE;torso_lower
+  3:15 K;0;5;axis;[3arc]Candy 8<;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:15 K;0;2;axis;[3arc]WHITELIGHTNING;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:16 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;136;MOD_MELEE;left_arm_upper
+  3:16 K;0;11;allies;[3arc]srt8charger06;0;14;allies;[3arc]njw15;knife_mp;137;MOD_MELEE;neck
+  3:17 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;138;MOD_MELEE;torso_lower
+  3:17 K;0;13;axis;[3arc]Jake;0;6;allies;[3arc]jabowky18;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  3:17 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;136;MOD_MELEE;torso_lower
+  3:18 K;0;4;allies;[3arc]Osama BinLada;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;135;MOD_MELEE;torso_upper
+  3:18 D;0;1;allies;Classixz;0;7;axis;[3arc]Startune;knife_mp;139;MOD_MELEE;torso_lower
+  3:18 J;0;0;[3arc]democlient
+  3:19 K;0;15;axis;[3arc]Almost Famous â˜;0;6;allies;[3arc]jabowky18;knife_mp;137;MOD_MELEE;right_arm_lower
+  3:19 K;0;7;axis;[3arc]Startune;0;12;allies;[3arc]Jackboot;knife_mp;135;MOD_MELEE;head
+  3:19 K;0;14;allies;[3arc]njw15;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:20 K;0;6;allies;[3arc]jabowky18;0;19;allies;[3arc]xStoner420x;knife_mp;138;MOD_MELEE;head
+  3:20 D;0;1;allies;Classixz;0;12;allies;[3arc]Jackboot;knife_mp;135;MOD_MELEE;torso_lower
+  3:21 D;0;1;allies;Classixz;0;12;allies;[3arc]Jackboot;knife_mp;136;MOD_MELEE;torso_lower
+  3:22 K;0;21;allies;[3arc]Dark wolf;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:22 D;0;1;allies;Classixz;0;12;allies;[3arc]Jackboot;knife_mp;138;MOD_MELEE;torso_lower
+  3:23 K;0;17;axis;[3arc]Pro`blue;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;136;MOD_MELEE;torso_upper
+  3:23 D;0;1;allies;Classixz;0;12;allies;[3arc]Jackboot;hatchet_mp;340;MOD_IMPACT;torso_lower
+  3:24 K;0;9;axis;[3arc]Webber(AM);0;19;allies;[3arc]xStoner420x;knife_mp;137;MOD_MELEE;torso_upper
+  3:25 K;0;18;allies;[3arc]Prime;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_foot
+  3:26 K;0;11;allies;[3arc]srt8charger06;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:27 K;0;13;axis;[3arc]Jake;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:27 K;0;8;allies;[3arc]CrazyBuch;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;137;MOD_MELEE;neck
+  3:28 K;0;4;allies;[3arc]Osama BinLada;0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:28 K;0;5;axis;[3arc]Candy 8<;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;135;MOD_MELEE;torso_upper
+  3:29 K;0;2;axis;[3arc]WHITELIGHTNING;0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:29 K;0;10;allies;[3arc]Braby*;0;6;allies;[3arc]jabowky18;knife_mp;137;MOD_MELEE;torso_upper
+  3:31 K;0;15;axis;[3arc]Almost Famous â˜;0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:31 K;0;3;allies;[3arc]DAK11]davidbohm;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:34 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;137;MOD_MELEE;head
+  3:34 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;139;MOD_MELEE;head
+  3:34 K;0;6;allies;[3arc]jabowky18;0;18;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:35 K;0;7;axis;[3arc]Startune;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:35 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;137;MOD_MELEE;head
+  3:35 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;head
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:35 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:36 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;137;MOD_MELEE;head
+  3:37 K;0;12;allies;[3arc]Jackboot;0;21;allies;[3arc]Dark wolf;knife_mp;135;MOD_MELEE;head
+  3:37 K;0;11;allies;[3arc]srt8charger06;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:37 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;head
+  3:37 K;0;16;allies;[3arc]BriziE SKINPROFI;0;21;allies;[3arc]Dark wolf;knife_mp;137;MOD_MELEE;torso_lower
+  3:38 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:38 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:38 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:38 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  3:38 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;139;MOD_MELEE;torso_lower
+  3:39 K;0;4;allies;[3arc]Osama BinLada;0;14;allies;[3arc]njw15;hatchet_mp;340;MOD_IMPACT;right_leg_upper
+  3:39 K;0;18;allies;[3arc]Prime;0;10;allies;[3arc]Braby*;knife_mp;138;MOD_MELEE;head
+  3:39 K;0;14;allies;[3arc]njw15;0;17;axis;[3arc]Pro`blue;knife_mp;136;MOD_MELEE;left_arm_upper
+  3:39 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;139;MOD_MELEE;head
+  3:40 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;138;MOD_MELEE;torso_lower
+  3:40 K;0;15;axis;[3arc]Almost Famous â˜;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:41 K;0;8;allies;[3arc]CrazyBuch;0;13;axis;[3arc]Jake;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:41 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;135;MOD_MELEE;torso_lower
+  3:42 K;0;19;allies;[3arc]xStoner420x;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:42 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;138;MOD_MELEE;torso_lower
+  3:43 K;0;13;axis;[3arc]Jake;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:43 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;135;MOD_MELEE;torso_lower
+  3:43 K;0;6;allies;[3arc]jabowky18;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3239;MOD_RIFLE_BULLET;torso_upper
+  3:44 D;0;1;allies;Classixz;0;21;allies;[3arc]Dark wolf;knife_mp;139;MOD_MELEE;head
+  3:44 K;0;21;allies;[3arc]Dark wolf;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:44 K;0;9;axis;[3arc]Webber(AM);0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3188;MOD_RIFLE_BULLET;torso_lower
+  3:45 D;0;1;allies;Classixz;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:46 D;0;1;allies;Classixz;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:47 K;0;11;allies;[3arc]srt8charger06;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;4218;MOD_HEAD_SHOT;head
+  3:47 K;0;7;axis;[3arc]Startune;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  3:48 K;0;16;allies;[3arc]BriziE SKINPROFI;0;14;allies;[3arc]njw15;knife_mp;135;MOD_MELEE;torso_upper
+  3:49 K;0;18;allies;[3arc]Prime;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:50 K;0;19;allies;[3arc]xStoner420x;0;17;axis;[3arc]Pro`blue;knife_mp;139;MOD_MELEE;torso_upper
+  3:51 K;0;8;allies;[3arc]CrazyBuch;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  3:51 K;0;5;axis;[3arc]Candy 8<;0;12;allies;[3arc]Jackboot;intervention_3k_zam;3162;MOD_RIFLE_BULLET;torso_lower
+  3:53 K;0;10;allies;[3arc]Braby*;0;4;allies;[3arc]Osama BinLada;knife_mp;136;MOD_MELEE;head
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:53 Weapon;0;12;Jackboot;intervention_3k_zam
+  3:54 K;0;21;allies;[3arc]Dark wolf;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;4453;MOD_HEAD_SHOT;head
+  3:55 K;0;6;allies;[3arc]jabowky18;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  3:55 K;0;12;allies;[3arc]Jackboot;0;4;allies;[3arc]Osama BinLada;knife_mp;136;MOD_MELEE;head
+  3:55 K;0;9;axis;[3arc]Webber(AM);0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_hand
+  3:57 K;0;4;allies;[3arc]Osama BinLada;0;14;allies;[3arc]njw15;knife_mp;136;MOD_MELEE;torso_upper
+  3:57 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  3:58 D;0;1;allies;Classixz;0;17;axis;[3arc]Pro`blue;knife_mp;137;MOD_MELEE;left_hand
+  3:58 K;0;14;allies;[3arc]njw15;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  3:59 K;0;18;allies;[3arc]Prime;0;2;axis;[3arc]WHITELIGHTNING;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  3:59 D;0;1;allies;Classixz;0;17;axis;[3arc]Pro`blue;knife_mp;135;MOD_MELEE;torso_lower
+  3:59 D;0;1;allies;Classixz;0;17;axis;[3arc]Pro`blue;knife_mp;136;MOD_MELEE;torso_lower
+  4:00 K;0;13;axis;[3arc]Jake;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;120;MOD_BURNED;none
+  4:00 D;0;1;allies;Classixz;0;17;axis;[3arc]Pro`blue;knife_mp;136;MOD_MELEE;torso_lower
+  4:01 D;0;16;allies;[3arc]BriziE SKINPROFI;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;83;MOD_BURNED;none
+  4:01 K;0;19;allies;[3arc]xStoner420x;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;147;MOD_BURNED;none
+  4:01 D;0;1;allies;Classixz;0;17;axis;[3arc]Pro`blue;knife_mp;136;MOD_MELEE;torso_lower
+  4:02 K;0;17;axis;[3arc]Pro`blue;0;1;allies;Classixz;five_seven_tactical_zam;203;MOD_MELEE;torso_upper
+  4:02 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;135;MOD_MELEE;head
+  4:02 D;0;15;axis;[3arc]Almost Famous â˜;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;15;MOD_BURNED;none
+  4:02 D;0;15;axis;[3arc]Almost Famous â˜;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;51;MOD_BURNED;none
+  4:03 K;0;15;axis;[3arc]Almost Famous â˜;0;3;allies;[3arc]DAK11]davidbohm;rcbomb_mp;293;MOD_EXPLOSIVE;none
+  4:03 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;138;MOD_MELEE;torso_lower
+  4:04 K;0;7;axis;[3arc]Startune;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:04 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;135;MOD_MELEE;torso_lower
+  4:04 K;0;2;axis;[3arc]WHITELIGHTNING;0;8;allies;[3arc]CrazyBuch;knife_mp;136;MOD_MELEE;left_hand
+  4:05 K;0;9;axis;[3arc]Webber(AM);0;20;allies;[3arc]f0restâ™¥ SKINOM;knife_mp;139;MOD_MELEE;head
+  4:05 K;0;11;allies;[3arc]srt8charger06;0;6;allies;[3arc]jabowky18;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  4:05 K;0;10;allies;[3arc]Braby*;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3814;MOD_HEAD_SHOT;head
+  4:05 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;137;MOD_MELEE;torso_lower
+  4:05 K;0;3;allies;[3arc]DAK11]davidbohm;0;21;allies;[3arc]Dark wolf;knife_mp;135;MOD_MELEE;head
+  4:06 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;torso_lower
+  4:07 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;138;MOD_MELEE;right_arm_upper
+  4:07 K;0;16;allies;[3arc]BriziE SKINPROFI;0;12;allies;[3arc]Jackboot;hatchet_mp;340;MOD_IMPACT;left_foot
+  4:07 K;0;8;allies;[3arc]CrazyBuch;0;4;allies;[3arc]Osama BinLada;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  4:08 K;0;12;allies;[3arc]Jackboot;0;14;allies;[3arc]njw15;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:11 D;0;21;allies;[3arc]Dark wolf;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;15;MOD_BURNED;none
+  4:11 D;0;21;allies;[3arc]Dark wolf;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;51;MOD_BURNED;none
+  4:12 K;0;21;allies;[3arc]Dark wolf;0;20;allies;[3arc]f0restâ™¥ SKINOM;napalm_mp;51;MOD_BURNED;none
+  4:12 K;0;4;allies;[3arc]Osama BinLada;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:13 K;0;7;axis;[3arc]Startune;0;14;allies;[3arc]njw15;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_lower
+  4:13 K;0;15;axis;[3arc]Almost Famous â˜;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  4:13 K;0;6;allies;[3arc]jabowky18;0;18;allies;[3arc]Prime;knife_mp;135;MOD_MELEE;head
+  4:15 K;0;13;axis;[3arc]Jake;0;9;axis;[3arc]Webber(AM);knife_mp;136;MOD_MELEE;torso_lower
+  4:15 K;0;19;allies;[3arc]xStoner420x;0;18;allies;[3arc]Prime;knife_mp;136;MOD_MELEE;head
+  4:16 K;0;9;axis;[3arc]Webber(AM);0;3;allies;[3arc]DAK11]davidbohm;knife_mp;136;MOD_MELEE;head
+  4:16 K;0;14;allies;[3arc]njw15;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:17 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;136;MOD_MELEE;torso_upper
+  4:19 K;0;11;allies;[3arc]srt8charger06;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;head
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:21 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 K;0;12;allies;[3arc]Jackboot;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 K;0;6;allies;[3arc]jabowky18;0;12;allies;[3arc]Jackboot;hatchet_mp;340;MOD_IMPACT;left_leg_upper
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 K;0;3;allies;[3arc]DAK11]davidbohm;0;2;axis;[3arc]WHITELIGHTNING;knife_mp;136;MOD_MELEE;torso_upper
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:22 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 K;0;16;allies;[3arc]BriziE SKINPROFI;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 K;0;10;allies;[3arc]Braby*;0;5;axis;[3arc]Candy 8<;knife_mp;137;MOD_MELEE;left_hand
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:23 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:24 Weapon;0;8;CrazyBuch;intervention_3k_zam
+  4:25 K;0;13;axis;[3arc]Jake;0;18;allies;[3arc]Prime;knife_mp;139;MOD_MELEE;right_arm_upper
+  4:25 D;0;1;allies;Classixz;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:26 K;0;9;axis;[3arc]Webber(AM);0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  4:26 K;0;14;allies;[3arc]njw15;0;7;axis;[3arc]Startune;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  4:26 K;0;5;axis;[3arc]Candy 8<;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:26 Weapon;0;20;f0rest SKINOM;intervention_3k_zam
+  4:26 Weapon;0;20;f0rest SKINOM;intervention_3k_zam
+  4:26 Weapon;0;20;f0rest SKINOM;intervention_3k_zam
+  4:26 Weapon;0;20;f0rest SKINOM;intervention_3k_zam
+  4:27 Weapon;0;20;f0rest SKINOM;intervention_3k_zam
+  4:27 K;0;15;axis;[3arc]Almost Famous â˜;0;19;allies;[3arc]xStoner420x;knife_mp;139;MOD_MELEE;torso_lower
+  4:28 D;0;1;allies;Classixz;0;2;axis;[3arc]WHITELIGHTNING;knife_mp;138;MOD_MELEE;torso_upper
+  4:29 D;0;1;allies;Classixz;0;2;axis;[3arc]WHITELIGHTNING;knife_mp;137;MOD_MELEE;torso_lower
+  4:29 K;0;18;allies;[3arc]Prime;0;11;allies;[3arc]srt8charger06;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  4:30 D;0;1;allies;Classixz;0;2;axis;[3arc]WHITELIGHTNING;knife_mp;136;MOD_MELEE;torso_lower
+  4:31 D;0;1;allies;Classixz;0;2;axis;[3arc]WHITELIGHTNING;knife_mp;137;MOD_MELEE;torso_lower
+  4:31 K;0;11;allies;[3arc]srt8charger06;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  4:32 K;0;2;axis;[3arc]WHITELIGHTNING;0;4;allies;[3arc]Osama BinLada;knife_mp;136;MOD_MELEE;head
+  4:32 K;0;12;allies;[3arc]Jackboot;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:32 K;0;7;axis;[3arc]Startune;0;10;allies;[3arc]Braby*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:33 D;0;1;allies;Classixz;0;4;allies;[3arc]Osama BinLada;knife_mp;136;MOD_MELEE;torso_lower
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:33 D;0;1;allies;Classixz;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:33 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_lower
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 D;0;1;allies;Classixz;0;4;allies;[3arc]Osama BinLada;knife_mp;139;MOD_MELEE;left_arm_upper
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 K;0;19;allies;[3arc]xStoner420x;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_lower
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 K;0;3;allies;[3arc]DAK11]davidbohm;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:34 D;0;1;allies;Classixz;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 D;0;1;allies;Classixz;0;4;allies;[3arc]Osama BinLada;knife_mp;139;MOD_MELEE;torso_lower
+  4:35 K;0;4;allies;[3arc]Osama BinLada;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:35 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3230;MOD_RIFLE_BULLET;torso_lower
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 K;0;8;allies;[3arc]CrazyBuch;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 K;0;9;axis;[3arc]Webber(AM);0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:35 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 K;0;10;allies;[3arc]Braby*;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 Weapon;0;6;jabowky18;intervention_3k_zam
+  4:36 K;0;6;allies;[3arc]jabowky18;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  4:37 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_arm_upper
+  4:38 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  4:39 K;0;5;axis;[3arc]Candy 8<;0;18;allies;[3arc]Prime;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  4:39 K;0;14;allies;[3arc]njw15;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;4500;MOD_HEAD_SHOT;head
+  4:40 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:40 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;138;MOD_MELEE;head
+  4:41 D;0;1;allies;Classixz;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;136;MOD_MELEE;torso_lower
+  4:41 K;0;16;allies;[3arc]BriziE SKINPROFI;0;17;axis;[3arc]Pro`blue;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  4:43 K;0;2;axis;[3arc]WHITELIGHTNING;0;11;allies;[3arc]srt8charger06;knife_mp;135;MOD_MELEE;head
+  4:44 K;0;11;allies;[3arc]srt8charger06;0;7;axis;[3arc]Startune;knife_mp;139;MOD_MELEE;head
+  4:44 K;0;17;axis;[3arc]Pro`blue;0;4;allies;[3arc]Osama BinLada;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:45 Weapon;0;21;Dark wolf;intervention_3k_zam
+  4:45 K;0;7;axis;[3arc]Startune;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:46 K;0;18;allies;[3arc]Prime;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;139;MOD_MELEE;torso_upper
+  4:46 K;0;8;allies;[3arc]CrazyBuch;0;4;allies;[3arc]Osama BinLada;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:47 K;0;15;axis;[3arc]Almost Famous â˜;0;12;allies;[3arc]Jackboot;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:47 K;0;21;allies;[3arc]Dark wolf;0;10;allies;[3arc]Braby*;knife_mp;138;MOD_MELEE;neck
+  4:47 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  4:49 K;0;12;allies;[3arc]Jackboot;0;10;allies;[3arc]Braby*;knife_mp;136;MOD_MELEE;torso_upper
+  4:50 K;0;4;allies;[3arc]Osama BinLada;0;5;axis;[3arc]Candy 8<;knife_mp;139;MOD_MELEE;head
+  4:51 K;0;13;axis;[3arc]Jake;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:54 K;0;3;allies;[3arc]DAK11]davidbohm;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:55 K;0;14;allies;[3arc]njw15;0;16;allies;[3arc]BriziE SKINPROFI;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_lower
+  4:55 K;0;10;allies;[3arc]Braby*;0;6;allies;[3arc]jabowky18;knife_mp;139;MOD_MELEE;right_arm_upper
+  4:56 K;0;8;allies;[3arc]CrazyBuch;0;17;axis;[3arc]Pro`blue;knife_mp;139;MOD_MELEE;head
+  4:56 K;0;2;axis;[3arc]WHITELIGHTNING;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  4:56 K;0;16;allies;[3arc]BriziE SKINPROFI;0;18;allies;[3arc]Prime;knife_mp;137;MOD_MELEE;head
+  4:56 K;0;11;allies;[3arc]srt8charger06;0;15;axis;[3arc]Almost Famous â˜;intervention_3k_zam;3000;MOD_RIFLE_BULLET;right_leg_upper
+  4:57 K;0;9;axis;[3arc]Webber(AM);0;7;axis;[3arc]Startune;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  4:59 K;0;5;axis;[3arc]Candy 8<;0;19;allies;[3arc]xStoner420x;knife_mp;135;MOD_MELEE;torso_lower
+  4:59 K;0;18;allies;[3arc]Prime;0;17;axis;[3arc]Pro`blue;knife_mp;137;MOD_MELEE;torso_upper
+  5:01 K;0;15;axis;[3arc]Almost Famous â˜;0;4;allies;[3arc]Osama BinLada;knife_mp;135;MOD_MELEE;head
+  5:02 K;0;6;allies;[3arc]jabowky18;0;4;allies;[3arc]Osama BinLada;knife_mp;138;MOD_MELEE;head
+  5:03 K;0;19;allies;[3arc]xStoner420x;0;21;allies;[3arc]Dark wolf;knife_mp;139;MOD_MELEE;torso_upper
+  5:04 K;0;10;allies;[3arc]Braby*;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:04 K;0;3;allies;[3arc]DAK11]davidbohm;0;7;axis;[3arc]Startune;intervention_3k_zam;3000;MOD_RIFLE_BULLET;left_leg_upper
+  5:06 K;0;13;axis;[3arc]Jake;0;12;allies;[3arc]Jackboot;knife_mp;136;MOD_MELEE;head
+  5:06 K;0;7;axis;[3arc]Startune;0;20;allies;[3arc]f0restâ™¥ SKINOM;knife_mp;138;MOD_MELEE;head
+  5:07 K;0;12;allies;[3arc]Jackboot;0;17;axis;[3arc]Pro`blue;knife_mp;138;MOD_MELEE;head
+  5:08 K;0;2;axis;[3arc]WHITELIGHTNING;0;9;axis;[3arc]Webber(AM);knife_mp;135;MOD_MELEE;head
+  5:09 K;0;21;allies;[3arc]Dark wolf;0;20;allies;[3arc]f0restâ™¥ SKINOM;knife_mp;139;MOD_MELEE;left_arm_upper
+  5:09 K;0;17;axis;[3arc]Pro`blue;0;11;allies;[3arc]srt8charger06;knife_mp;136;MOD_MELEE;head
+  5:09 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 K;0;9;axis;[3arc]Webber(AM);0;8;allies;[3arc]CrazyBuch;knife_mp;135;MOD_MELEE;head
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:10 Weapon;0;14;njw15;intervention_3k_zam
+  5:11 K;0;11;allies;[3arc]srt8charger06;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;2928;MOD_RIFLE_BULLET;left_leg_lower
+  5:12 K;0;20;allies;[3arc]f0restâ™¥ SKINOM;0;5;axis;[3arc]Candy 8<;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:12 K;0;5;axis;[3arc]Candy 8<;0;15;axis;[3arc]Almost Famous â˜;knife_mp;136;MOD_MELEE;head
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:13 K;0;8;allies;[3arc]CrazyBuch;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;139;MOD_MELEE;torso_lower
+  5:13 Weapon;0;6;jabowky18;intervention_3k_zam
+  5:15 K;0;15;axis;[3arc]Almost Famous â˜;0;6;allies;[3arc]jabowky18;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:15 K;0;12;allies;[3arc]Jackboot;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;138;MOD_MELEE;torso_upper
+  5:17 K;0;6;allies;[3arc]jabowky18;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;135;MOD_MELEE;head
+  5:17 K;0;4;allies;[3arc]Osama BinLada;0;14;allies;[3arc]njw15;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:18 K;0;14;allies;[3arc]njw15;0;21;allies;[3arc]Dark wolf;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:19 K;0;19;allies;[3arc]xStoner420x;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;139;MOD_MELEE;head
+  5:21 D;0;1;allies;Classixz;0;3;allies;[3arc]DAK11]davidbohm;knife_mp;139;MOD_MELEE;head
+  5:21 K;0;10;allies;[3arc]Braby*;0;16;allies;[3arc]BriziE SKINPROFI;knife_mp;135;MOD_MELEE;right_leg_upper
+  5:22 K;0;3;allies;[3arc]DAK11]davidbohm;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:22 K;0;21;allies;[3arc]Dark wolf;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:23 K;0;16;allies;[3arc]BriziE SKINPROFI;0;11;allies;[3arc]srt8charger06;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:23 D;0;1;allies;Classixz;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:23 K;0;15;axis;[3arc]Almost Famous â˜;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;2937;MOD_RIFLE_BULLET;right_leg_upper
+  5:24 K;0;2;axis;[3arc]WHITELIGHTNING;0;13;axis;[3arc]Jake;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:24 K;0;7;axis;[3arc]Startune;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;4500;MOD_RIFLE_BULLET;neck
+  5:25 K;0;17;axis;[3arc]Pro`blue;0;6;allies;[3arc]jabowky18;knife_mp;135;MOD_MELEE;torso_upper
+  5:25 K;0;5;axis;[3arc]Candy 8<;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:25 K;0;11;allies;[3arc]srt8charger06;0;9;axis;[3arc]Webber(AM);intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:26 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:27 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:27 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:27 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:27 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:27 Weapon;0;4;Osama BinLada;intervention_3k_zam
+  5:28 K;0;13;axis;[3arc]Jake;0;6;allies;[3arc]jabowky18;knife_mp;135;MOD_MELEE;right_arm_upper
+  5:28 K;0;9;axis;[3arc]Webber(AM);0;14;allies;[3arc]njw15;knife_mp;137;MOD_MELEE;head
+  5:29 D;0;1;allies;Classixz;0;18;allies;[3arc]Prime;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:30 K;0;18;allies;[3arc]Prime;0;6;allies;[3arc]jabowky18;knife_mp;138;MOD_MELEE;torso_upper
+  5:30 K;0;12;allies;[3arc]Jackboot;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:30 K;0;14;allies;[3arc]njw15;0;10;allies;[3arc]Braby*;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:30 Weapon;0;3;DAK11]davidbohm;intervention_3k_zam
+  5:30 Weapon;0;3;DAK11]davidbohm;intervention_3k_zam
+  5:30 Weapon;0;3;DAK11]davidbohm;intervention_3k_zam
+  5:30 Weapon;0;3;DAK11]davidbohm;intervention_3k_zam
+  5:30 Weapon;0;3;DAK11]davidbohm;intervention_3k_zam
+  5:31 K;0;4;allies;[3arc]Osama BinLada;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:31 K;0;6;allies;[3arc]jabowky18;0;8;allies;[3arc]CrazyBuch;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:32 K;0;7;axis;[3arc]Startune;0;3;allies;[3arc]DAK11]davidbohm;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  5:33 K;0;21;allies;[3arc]Dark wolf;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:33 K;0;3;allies;[3arc]DAK11]davidbohm;0;2;axis;[3arc]WHITELIGHTNING;hatchet_mp;340;MOD_IMPACT;torso_lower
+  5:33 K;0;8;allies;[3arc]CrazyBuch;0;20;allies;[3arc]f0restâ™¥ SKINOM;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_upper
+  5:34 K;0;5;axis;[3arc]Candy 8<;0;19;allies;[3arc]xStoner420x;intervention_3k_zam;3300;MOD_RIFLE_BULLET;torso_lower
+  6:04 Q;0;0;[3arc]democlient
+  6:19 ExitLevel: executed
+  6:20 ShutdownGame:
+  6:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;Classixz
+  0:22 ShutdownGame:
+  0:22 ------------------------------------------------------------
+  0:22 ------------------------------------------------------------
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:22 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:23 J;0;1;Classixz
+  1:32 ShutdownGame:
+  1:32 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:08 ShutdownGame:
+  0:08 ------------------------------------------------------------
+  0:08 ------------------------------------------------------------
+  0:08 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:08 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:08 J;0;0;Classixz
+  0:19 ExitLevel: executed
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:19 ------------------------------------------------------------
+  0:19 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:19 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snipe\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:20 J;0;0;Classixz
+  1:23 Weapon;0;0;Classixz;l96a1_mp
+  1:40 Weapon;0;0;Classixz;psg1_mp
+  3:19 Weapon;0;0;Classixz;msr_mp
+  3:47 Weapon;0;0;Classixz;l118a_mp
+  3:53 ShutdownGame:
+  3:53 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;0;Classixz
+  0:34 Weapon;0;0;Classixz;awp_mp
+  3:24 ShutdownGame:
+  3:24 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;0;Classixz
+  1:07 Weapon;0;0;Classixz;msr_mp
+  3:33 K;0;0;allies;Classixz;0;-1;allies;Classixz;destructible_car_mp;209;MOD_EXPLOSIVE;none
+  4:10 Weapon;0;0;Classixz;l96a1_mp
+  4:23 Weapon;0;0;Classixz;psg1_mp
+  4:44 Weapon;0;0;Classixz;dragonuv_mp
+  4:59 Weapon;0;0;Classixz;dragunov_mp
+  5:10 Weapon;0;0;Classixz;wa2000_mp
+  5:21 Weapon;0;0;Classixz;psg1_mp
+  6:30 Weapon;0;0;Classixz;l96a1_mp
+  7:31 D;0;0;allies;Classixz;;-1;world;;none;17;MOD_FALLING;none
+ 15:25 ShutdownGame:
+ 15:25 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:11 Q;0;1;Classixz
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:36 ShutdownGame:
+  0:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;0;Classixz
+  1:02 D;0;0;allies;Classixz;;-1;world;;none;4;MOD_FALLING;none
+  7:30 Weapon;0;0;Classixz;msr_mp
+  9:06 Weapon;0;0;Classixz;m40a3_mp
+ 10:09 ShutdownGame:
+ 10:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;Classixz
+  0:11 ExitLevel: executed
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:11 ------------------------------------------------------------
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:11 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;0;Classixz
+  1:21 Weapon;0;0;Classixz;msr_mp
+ 10:46 ShutdownGame:
+ 10:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;1;Classixz
+  0:05 J;0;0;[3arc]democlient
+  0:11 ExitLevel: executed
+  0:11 Q;0;0;[3arc]democlient
+  0:14 ShutdownGame:
+  0:14 ------------------------------------------------------------
+  0:14 ------------------------------------------------------------
+  0:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:14 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\koth_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\BlackOpsPrivate\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:15 J;0;1;Classixz
+  0:19 J;0;0;[3arc]democlient
+  0:30 Weapon;0;1;Classixz;r700_zam
+  0:42 D;0;1;axis;Classixz;;-1;world;;none;42;MOD_FALLING;none
+  5:16 ShutdownGame:
+  5:16 ------------------------------------------------------------
