@@ -1,0 +1,2 @@
+We need to set custom loadouts for the bots, for each gamemode.
+Rollon need to add his intervention model - Looks better

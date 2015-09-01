@@ -88,7 +88,7 @@ doDvars()
 	
 	setDvar("g_allowvote", 0); 
 	setDvar("scr_disable_cac", 1);
-	//setDvar("scr_disable_weapondrop", 1);
+	setDvar("scr_disable_weapondrop", 1);
 	setDvar("scr_showperksonspawn", 0);
 	setDvar("g_allow_teamchange", 0);
 	
@@ -122,7 +122,7 @@ onPlayerSpawned()
 		self takeAllWeapons();
 		self clearPerks();
 		self maps\mp\gametypes\_class::setKillstreaks( "none", "none", "none" );
-		//self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
+		self maps\mp\gametypes\_classixz_stuff::doClientDvars(); //Some client dvars, makes it look kinda cool
 		self thread maps\mp\snife\_vips::LoadOuts();
 
 		cur_gm = GetDvar("g_gametype");
