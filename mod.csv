@@ -34,6 +34,7 @@ weapon,snipers/msr_mp
 weapon,snipers/r700_zam
 weapon,other/five_seven_tactical_zam
 weapon,other/bowie_knife_zam
+weapon,other/knuckles_zam
 //Voting
 //menufile,ui_mp/scriptmenus/snife_vote.menu
 //menufile,ui_mp/scriptmenus/dukip_map_selection.menu
