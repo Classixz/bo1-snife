@@ -83,6 +83,14 @@ onMenuResponse()
 			self.primary = "awp_mp";
 			self OpenMenu(game["SnifeSelection2_Menu"]);
 		}
+		else if(response == "snife_dsr50")
+		{
+			self giveWeapon("dsr50_zam");
+			self giveMaxAmmo("dsr50_zam");
+			self switchToWeapon("dsr50_zam");
+			self.primary = "dsr50_zam";
+			self OpenMenu(game["SnifeSelection2_Menu"]);
+		}
 		else if(response == "snife_cheytac")
 		{
 			if(self.vip == 1)
@@ -91,6 +99,19 @@ onMenuResponse()
 				self giveMaxAmmo("intervention_3k_zam");
 				self switchToWeapon("intervention_3k_zam");
 				self.primary = "intervention_3k_zam";
+				self OpenMenu(game["SnifeSelection2_Menu"]);
+			}
+			else
+				self openMenu(game[ "SnifeSelection_Menu" ]);
+		}
+		else if(response == "snife_storm")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("storm_mp");
+				self giveMaxAmmo("storm_mp");
+				self switchToWeapon("storm_mp");
+				self.primary = "storm_mp";
 				self OpenMenu(game["SnifeSelection2_Menu"]);
 			}
 			else

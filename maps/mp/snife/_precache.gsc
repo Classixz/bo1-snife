@@ -8,4 +8,6 @@ precacheWeapons()
 	precacheItem("l118a_mp");
 	precacheItem("five_seven_tactical_zam");
 	precacheItem("r700_zam");
+	precacheItem("storm_mp");
+	precacheItem("dsr50_zam");
 }

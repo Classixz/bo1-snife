@@ -78,6 +78,13 @@ onMenuResponse()
 			self switchToWeapon("awp_mp");
 			self.primary = "awp_mp";
 		}
+		else if(response == "sniper_dsr50")
+		{
+			self giveWeapon("dsr50_zam");
+			self giveMaxAmmo("dsr50_zam");
+			self switchToWeapon("dsr50_zam");
+			self.primary = "dsr50_zam";
+		}
 		else if(response == "sniper_cheytac")
 		{
 			if(self.vip == 1)
@@ -86,6 +93,18 @@ onMenuResponse()
 				self giveMaxAmmo("intervention_3k_zam");
 				self switchToWeapon("intervention_3k_zam");
 				self.primary = "intervention_3k_zam";
+			}
+			else
+				self openMenu(game[ "SniperSelection_Menu" ]);
+		}
+		else if(response == "sniper_storm")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("storm_mp");
+				self giveMaxAmmo("storm_mp");
+				self switchToWeapon("storm_mp");
+				self.primary = "storm_mp";
 			}
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);
