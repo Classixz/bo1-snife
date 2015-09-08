@@ -118,6 +118,7 @@ onPlayerSpawned()
 	for(;;)
 	{
 		self waittill("spawned_player");
+		self.custom_killstreak = 0;
 		//iPrintLnBold("kek");
 		self takeAllWeapons();
 		self clearPerks();
@@ -184,6 +185,67 @@ onPlayerSpawned()
 
 		self thread tip();
 		self thread reset_class();
+	}
+}
+
+custom_killstreaks()
+{
+	self endon("disconnect");
+	self endon("death");
+
+	self.custom_killstreak++;
+	switch(self.custom_killstreak)
+	{
+		case 3:
+			self setPerk("specialty_movefaster");
+			self iPrintLnBold("^83 ^7Killstreak - ^5Lightweight");
+		break;
+		case 5:
+			self setPerk("specialty_bulletaccuracy");
+			self setPerk("specialty_sprintrecovery");
+			self setPerk("specialty_fastmeleerecovery");
+			self iPrintLnBold("^85 ^7Killstreak - ^5Steady Aim Pro");
+		break;
+		case 7:
+			self setPerk("specialty_scavenger");
+			self iPrintLnBold("^87 ^7Killstreak - ^5Scavenger");
+		break;
+		case 9:
+			self setPerk("specialty_bulletdamage");
+			self setPerk("specialty_bulletflinch");
+			self setPerk("specialty_shellshock");
+			self iPrintLnBold("^89 ^7Killstreak - ^5Hardened Pro");
+		break;
+		case 11:
+			self setPerk("specialty_fallheight");
+			self iPrintLnBold("^811 ^7Killstreak - ^5Lightweight Pro");
+		break;
+		case 13:
+			self setPerk("specialty_quieter");
+			self setPerk("specialty_loudenemies");
+			self iPrintLnBold("^813 ^7Killstreak - ^5Ninja Pro");
+		break;
+		case 15:
+			self setPerk("specialty_nottargetedbyai");
+			self setPerk("specialty_noname");
+			self iPrintLnBold("^815 ^7Killstreak - ^5Ghost Pro");
+		break;
+		case 17:
+			self setPerk("specialty_fastweaponswitch");
+			self iPrintLnBold("^817 ^7Killstreak - Scout Pro");
+		break;
+		case 20:
+			self iPrintLnBold("^520 kills? ^7Damn, stop hacking bruh.");
+		break;
+		case 30:
+			self iPrintLnBold("^530 kills? ^7Watafaq");
+		break;
+		case 40:
+			self iPrintLnBold("^540 kills? ^7FaZe on PC confirmed.");
+		break;
+		case 50:
+			self iPrintLnBold("^550 kills? ^7I'm done. I can't even...");
+		break;
 	}
 }
 
