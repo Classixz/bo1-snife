@@ -95,7 +95,7 @@ doDvars()
 	if(level.DevMode) {
 		setDvar("sv_cheats", 1);
 		setdvar("sv_vac", 0); 
-		setDvar( "g_password", "fuckaina" ); 
+		//setDvar( "g_password", "fuckaina" ); 
 	} else setDvar("sv_cheats", 0);	setdvar("sv_vac", 1);
 }
 
