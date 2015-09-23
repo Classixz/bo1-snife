@@ -24,7 +24,8 @@ rawfile,maps/mp/gametypes/sd_knife.txt
 menufile,ui_mp/hud_sd_knife.txt
 rawfile,maps/mp/gametypes/sd_snipe.txt
 menufile,ui_mp/hud_sd_snipe.txt
-weapon,snipers/intervention_3k_zam
+
+//weapon,snipers/intervention_3k_zam
 weapon,snipers/awp_mp
 weapon,snipers/barrett_mp
 weapon,snipers/l118a_mp
@@ -36,6 +37,7 @@ weapon,other/five_seven_tactical_zam
 weapon,other/bowie_knife_zam
 weapon,other/knuckles_zam
 weapon,snipers/dsr50_zam
+
 //Voting
 //menufile,ui_mp/scriptmenus/snife_vote.menu
 //menufile,ui_mp/scriptmenus/dukip_map_selection.menu
@@ -52,6 +54,15 @@ menufile,ui_mp/scriptmenus/KnifeSelection_Menu.menu
 menufile,ui_mp/scriptmenus/SnifeSelection_Menu.menu
 menufile,ui_mp/scriptmenus/SnifeSelection2_Menu.menu
 menufile,ui_mp/scriptmenus/SniperSelection_Menu.menu
+
+menufile,ui_mp/scriptmenus/vote_weapon.menu
+menufile,ui_mp/scriptmenus/vote_knife_gamemode.menu
+menufile,ui_mp/scriptmenus/vote_snife_gamemode.menu
+menufile,ui_mp/scriptmenus/vote_snipe_gamemode.menu
+menufile,ui_mp/scriptmenus/vote_knife_map.menu
+menufile,ui_mp/scriptmenus/vote_snife_map.menu
+menufile,ui_mp/scriptmenus/vote_snipe_map.menu
+
 //Sounds
 sound,default_snife
 //Rawfiles

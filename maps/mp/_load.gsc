@@ -90,6 +90,17 @@ main( bScriptgened, bCSVgened, bsgenabled )
 	thread maps\mp\snife\SnifeSelection_Menu::init();
 	thread maps\mp\snife\SnifeSelection2_Menu::init();
 	thread maps\mp\snife\SniperSelection_Menu::init();
+	
+	thread maps\mp\snife\vote\vote_weapon::init();
+	
+	thread maps\mp\snife\vote\vote_snife_map::init();
+	thread maps\mp\snife\vote\vote_snife_gamemode::init();
+	
+	thread maps\mp\snife\vote\vote_knife_map::init();
+	thread maps\mp\snife\vote\vote_knife_gamemode::init();
+	
+	thread maps\mp\snife\vote\vote_snipe_map::init();
+	thread maps\mp\snife\vote\vote_snipe_gamemode::init();
 
 
 	//thread maps\mp\gametypes\snife_vote::init();

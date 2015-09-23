@@ -587,8 +587,8 @@ displayRoundEnd( winner, endReasonText )
 			if ( !isDefined( player.pers["team"] ) || player.pers["team"] == "spectator" )
 			{
 				player [[level.spawnIntermission]]( true );
-				player closeMenu();
-				player closeInGameMenu();
+				// player closeMenu();
+				// player closeInGameMenu();
 				continue;
 			}
 			
@@ -663,8 +663,8 @@ displayRoundSwitch( winner, endReasonText )
 		if ( !isDefined( player.pers["team"] ) || player.pers["team"] == "spectator" )
 		{
 			player [[level.spawnIntermission]]( true );
-			player closeMenu();
-			player closeInGameMenu();
+			// player closeMenu();
+			// player closeInGameMenu();
 			continue;
 		}
 		
@@ -692,8 +692,8 @@ displayGameEnd( winner, endReasonText )
 		if ( !isDefined( player.pers["team"] ) || player.pers["team"] == "spectator" )
 		{
 			player [[level.spawnIntermission]]( true );
-			player closeMenu();
-			player closeInGameMenu();
+			// player closeMenu();
+			// player closeInGameMenu();
 			continue;
 		}
 		
@@ -1020,8 +1020,8 @@ endGame( winner, endReasonText )
 	{
 		player = players[index];
 		
-		player closeMenu();
-		player closeInGameMenu();
+		// player closeMenu();
+		// player closeInGameMenu();
 		player notify ( "reset_outcome" );
 		player thread [[level.spawnIntermission]]();
         player setClientUIVisibilityFlag( "hud_visible", 1 );
@@ -1066,8 +1066,8 @@ endGame( winner, endReasonText )
 	for ( index = 0; index < players.size; index++ )
 	{
 		player = players[index];
-		player closeMenu();
-		player closeInGameMenu();
+		// player closeMenu();
+		// player closeInGameMenu();
 	}
 	
 	exitLevel( false );

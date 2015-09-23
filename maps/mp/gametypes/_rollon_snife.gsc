@@ -6,7 +6,7 @@ init()
 {
 	
 	level.DevMode = true; //Cheats
-	
+	level.useRandomNextGame = false;
 	level thread maps\mp\snife\_precache::precacheWeapons();
 	
 	level thread checkGametype();
@@ -18,6 +18,41 @@ init()
 	level thread maps\mp\snife\_vips::PlayerList();
 	
 	level thread maps\mp\gametypes\_classixz_stuff::spawnBots(0);
+	
+	//Weapons
+	level.vote_weapon_snife = 0;
+	level.vote_weapon_snipers = 0;
+	level.vote_weapon_knifes = 0;
+	
+	//Knife
+	level.vote_map_knife_summit = 0;
+	level.vote_map_knife_firingrange = 0;
+	level.vote_map_knife_nuketown = 0;
+	level.vote_gamemode_knife_ffa = 0;
+	level.vote_gamemode_knife_ctf = 0;
+	level.vote_gamemode_knife_snd = 0;
+
+	//Snipe
+	level.vote_map_snipe_summit = 0;
+	level.vote_map_snipe_firingrange = 0;
+	level.vote_map_snipe_nuketown = 0;
+	level.vote_map_snipe_launch = 0;
+	level.vote_map_snipe_hanoi = 0;
+	level.vote_map_snipe_radiation = 0;
+	level.vote_gamemode_snipe_dem = 0;
+	level.vote_gamemode_snipe_ctf = 0;
+	level.vote_gamemode_snipe_koth = 0;
+	level.vote_gamemode_snipe_dom = 0;
+	level.vote_gamemode_snipe_snd = 0;
+
+	//Snife
+	level.vote_map_snife_summit = 0;
+	level.vote_map_snife_firingrange = 0;
+	level.vote_map_snife_nuketown = 0;
+	level.vote_gamemode_snife_dem = 0;
+	level.vote_gamemode_snife_ctf = 0;
+	level.vote_gamemode_snife_koth = 0;
+	
 }
 
 checkGametype()
@@ -284,6 +319,9 @@ tip()
 randomNextGame()
 {
 	level waittill("select_snife");
+	
+if(level.useRandomNextGame)
+{
 	iPrintLnBold("Selecting next weapon set...");
 	wait 3;
 	weapon = [];
@@ -469,4 +507,9 @@ randomNextGame()
 	}
 	wait 3;
 	level notify("new_map_selected");
+}
+else
+{
+	level thread maps\mp\snife\vote\_votemanger::startVote();
+}
 }
