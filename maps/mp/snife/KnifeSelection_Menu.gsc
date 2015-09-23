@@ -52,5 +52,21 @@ onMenuResponse()
 			self SetWeaponAmmoStock("five_seven_tactical_zam", 0);
 			self.primary = "five_seven_tactical_zam";
 		}
+		else if(response == "knife_b23rk")
+		{
+			self giveWeapon("b23r_tactical_zam");
+			self switchToWeapon("b23r_tactical_zam");
+			self SetWeaponAmmoClip("b23r_tactical_zam", 0);
+			self SetWeaponAmmoStock("b23r_tactical_zam", 0);
+			self.primary = "b23r_tactical_zam";
+		}
+		else if(response == "knife_b23rk")
+		{
+			self giveWeapon("deagle_tactical");
+			self switchToWeapon("deagle_tactical");
+			self SetWeaponAmmoClip("deagle_tactical", 0);
+			self SetWeaponAmmoStock("deagle_tactical", 0);
+			self.primary = "deagle_tactical";
+		}
 	}
 }

@@ -60,5 +60,12 @@ onMenuResponse()
 			self SetWeaponAmmoStock("b23r_tactical_zam", 0);
 			self.secondary = "b23r_tactical_zam";
 		}
+		else if(response == "snife_deaglek")
+		{
+			self giveWeapon("deagle_tactical");
+			self SetWeaponAmmoClip("deagle_tactical", 0);
+			self SetWeaponAmmoStock("deagle_tactical", 0);
+			self.secondary = "deagle_tactical";
+		}
 	}
 }
