@@ -53,5 +53,12 @@ onMenuResponse()
 			self SetWeaponAmmoStock("five_seven_tactical_zam", 0);
 			self.secondary = "five_seven_tactical_zam";
 		}
+		else if(response == "snife_b23rk")
+		{
+			self giveWeapon("b23r_tactical_zam");
+			self SetWeaponAmmoClip("b23r_tactical_zam", 0);
+			self SetWeaponAmmoStock("b23r_tactical_zam", 0);
+			self.secondary = "b23r_tactical_zam";
+		}
 	}
 }

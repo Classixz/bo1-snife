@@ -4,7 +4,7 @@
 
 startVote()
 {
-				level.voteMenu = "vote_weapon";
+			level.voteMenu = "vote_weapon";
 			level.WinningGameType = "";
 			voteCounter(3, 0, "Weapon vote ends in...", level.voteMenu);
 			
@@ -250,14 +250,15 @@ startVote()
 			
 			winnerDisplay(level.WinningMap+" Won!");
 			
-			nextGame(level.WinningGamemode, level.WinningMap, level.WinningGameType, level.voteMenu);
-			
+			nextGame(level.WinningGamemode, level.WinningMap, level.WinningGameType);
+			wait 2;
 			level notify("new_map_selected");
 }
 
 voteCounter(time2go, timePased, text, menu)
 {	
-		self OpenMenu(game[ menu ]);
+		for(i = 0; i < level.players.size; i++)
+			level.players[i] OpenMenu(game[ menu ]);
 		level.timerText = createServerFontString( "hudbig", 2 );
 		level.timerText setPoint( "CENTER", "CENTER", 0, -30 );
 		level.timerText.color = (0,1,1);
@@ -279,11 +280,12 @@ voteCounter(time2go, timePased, text, menu)
 		}
 			level.timerText destroy();
 			level.counter destroy();
-			// level thread onTimerEnd();
 }
 
 winnerDisplay(winner)
-{	
+{
+		for(i = 0; i < level.players.size; i++)
+			level.players[i] closemenu();
 		level.winnerText = createServerFontString( "hudbig", 3 );
 		level.winnerText setPoint( "CENTER", "CENTER", 0, 0 );
 		level.winnerText.color = (0,1,1);

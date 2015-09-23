@@ -233,53 +233,53 @@ custom_killstreaks()
 	{
 		case 3:
 			self setPerk("specialty_movefaster");
-			self iPrintLnBold("^83 ^7Killstreak - ^5Lightweight");
+			self iPrintLnBold("^=3 ^7Killstreak - ^=Lightweight");
 		break;
 		case 5:
 			self setPerk("specialty_bulletaccuracy");
 			self setPerk("specialty_sprintrecovery");
 			self setPerk("specialty_fastmeleerecovery");
-			self iPrintLnBold("^85 ^7Killstreak - ^5Steady Aim Pro");
+			self iPrintLnBold("^=5 ^7Killstreak - ^=Steady Aim Pro");
 		break;
 		case 7:
 			self setPerk("specialty_scavenger");
-			self iPrintLnBold("^87 ^7Killstreak - ^5Scavenger");
+			self iPrintLnBold("^=7 ^7Killstreak - ^=Scavenger");
 		break;
 		case 9:
 			self setPerk("specialty_bulletdamage");
 			self setPerk("specialty_bulletflinch");
 			self setPerk("specialty_shellshock");
-			self iPrintLnBold("^89 ^7Killstreak - ^5Hardened Pro");
+			self iPrintLnBold("^=9 ^7Killstreak - ^=Hardened Pro");
 		break;
 		case 11:
 			self setPerk("specialty_fallheight");
-			self iPrintLnBold("^811 ^7Killstreak - ^5Lightweight Pro");
+			self iPrintLnBold("^=11 ^7Killstreak - ^=Lightweight Pro");
 		break;
 		case 13:
 			self setPerk("specialty_quieter");
 			self setPerk("specialty_loudenemies");
-			self iPrintLnBold("^813 ^7Killstreak - ^5Ninja Pro");
+			self iPrintLnBold("^=13 ^7Killstreak - ^=Ninja Pro");
 		break;
 		case 15:
 			self setPerk("specialty_nottargetedbyai");
 			self setPerk("specialty_noname");
-			self iPrintLnBold("^815 ^7Killstreak - ^5Ghost Pro");
+			self iPrintLnBold("^=15 ^7Killstreak - ^=Ghost Pro");
 		break;
 		case 17:
 			self setPerk("specialty_fastweaponswitch");
-			self iPrintLnBold("^817 ^7Killstreak - Scout Pro");
+			self iPrintLnBold("^=17 ^7Killstreak - Scout Pro");
 		break;
 		case 20:
-			self iPrintLnBold("^520 kills? ^7Damn, stop hacking bruh.");
+			self iPrintLnBold("^=20 kills? ^7Damn, stop hacking bruh.");
 		break;
 		case 30:
-			self iPrintLnBold("^530 kills? ^7Watafaq");
+			self iPrintLnBold("^=30 kills? ^7Watafaq");
 		break;
 		case 40:
-			self iPrintLnBold("^540 kills? ^7FaZe on PC confirmed.");
+			self iPrintLnBold("^=40 kills? ^7FaZe on PC confirmed.");
 		break;
 		case 50:
-			self iPrintLnBold("^550 kills? ^7I'm done. I can't even...");
+			self iPrintLnBold("^=50 kills? ^7I'm done. I can't even...");
 		break;
 	}
 }
@@ -311,7 +311,7 @@ tip()
 	self.tip = createFontString( "objective", 1 );
 	self.tip setPoint( "TOP", "TOP", 0, 0 );
 	self.tip.sort = 1001;
-	self.tip setText("Press ^8[{+smoke}]^7 to Change Weapons");
+	self.tip setText("Press ^=[{+smoke}]^7 to Change Weapons");
 	wait 10;
 	self.tip destroy();
 }

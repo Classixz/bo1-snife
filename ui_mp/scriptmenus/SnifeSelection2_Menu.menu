@@ -26,6 +26,7 @@
         CHOICE_MENU_TITLE( Knife Selection )
         
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "Five-Seven Tactical", scriptMenuResponse "snife_fsk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Beretta 23R Tactical", scriptMenuResponse "snife_b23rk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
         //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Barrett .50 Cal", scriptMenuResponse "loadout_barrett"; close ClassSelection_Menu, ;, ;, 1, ; )
         //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Intervention", scriptMenuResponse "loadout_cheytac"; close ClassSelection_Menu, ;, ;, 1, ; )
         //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L96A1", scriptMenuResponse "loadout_l96a1"; close ClassSelection_Menu, ;, ;, 1, ; )   

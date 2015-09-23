@@ -40,21 +40,21 @@ onMenuResponse()
 		if(response == "vote_gamemode_snife_dem")
 		{
 			level.vote_gamemode_snife_dem++;
-			iprintln(self.name+" voted DEM "+level.vote_gamemode_snife_dem);
+			iprintln(self.name+" voted on Demolition");
 			self closemenu();
 			// self OpenMenu(game[ "vote_snife_map" ]);
 		}
 		else if(response == "vote_gamemode_snife_ctf")
 		{
 			level.vote_gamemode_snife_ctf++;
-			iprintln(self.name+" voted CTF "+level.vote_gamemode_snife_ctf);
+			iprintln(self.name+" voted on Capture the Flag");
 			self closemenu();
 			// self OpenMenu(game[ "vote_snife_map" ]);
 		}
 		else if(response == "vote_gamemode_snife_koth")
 		{
 			level.vote_gamemode_snife_koth++;
-			iprintln(self.name+" voted KOTH "+level.vote_gamemode_snife_koth);
+			iprintln(self.name+" voted on Headquaters");
 			self closemenu();
 			// self OpenMenu(game[ "vote_snife_map" ]);
 		}

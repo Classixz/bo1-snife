@@ -40,21 +40,21 @@ onMenuResponse()
 		if(response == "vote_weapon_snife")
 		{
 			level.vote_weapon_snife++;
-			iprintln(self.name+" voted snife");
+			iprintln(self.name+" voted on Snife");
 			self closemenu();
 			// self OpenMenu(game[ "vote_snife_gamemode" ]);
 		}
 		else if(response == "vote_weapon_snipers")
 		{
 			level.vote_weapon_snipers++;
-			iprintln(self.name+" voted snipe");
+			iprintln(self.name+" voted on Snipe");
 			self closemenu();
 			// self OpenMenu(game[ "vote_snipe_gamemode" ]);
 		}
 		else if(response == "vote_weapon_knifes")
 		{
 			level.vote_weapon_knifes++;
-			iprintln(self.name+" voted knife");
+			iprintln(self.name+" voted on Knife");
 			self closemenu();
 			// self OpenMenu(game[ "vote_knife_gamemode" ]);
 		}

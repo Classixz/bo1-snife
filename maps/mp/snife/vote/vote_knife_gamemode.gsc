@@ -40,21 +40,21 @@ onMenuResponse()
 		if(response == "vote_gamemode_knife_ffa")
 		{
 			level.vote_gamemode_knife_ffa++;
-			iprintln(self.name+" voted FFA");
+			iprintln(self.name+" voted Free-For-All");
 			self closemenu();
 			// self OpenMenu(game[ "vote_knife_map" ]);
 		}
 		else if(response == "vote_gamemode_knife_ctf")
 		{
 			level.vote_gamemode_knife_ctf++;
-			iprintln(self.name+" voted CTF");
+			iprintln(self.name+" voted Capture the Flag");
 			self closemenu();
 			// self OpenMenu(game[ "vote_knife_map" ]);
 		}
 		else if(response == "vote_gamemode_knife_snd")
 		{
 			level.vote_gamemode_knife_snd++;
-			iprintln(self.name+" voted SnD");
+			iprintln(self.name+" voted Search & Destroy");
 			self closemenu();
 			// self OpenMenu(game[ "vote_knife_map" ]);
 		}
