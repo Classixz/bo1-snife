@@ -26,19 +26,16 @@
         CHOICE_MENU_TITLE( Sniper Selection )
         
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "M40A3", scriptMenuResponse "snife_m40a3"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Barrett .50 Cal", scriptMenuResponse "snife_barrett"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L96A1", scriptMenuResponse "snife_l96a1"; close SnifeSelection_Menu, ;, ;, 1, ; )   
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "PSG-1", scriptMenuResponse "snife_psg1"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "L118A", scriptMenuResponse "snife_l118a"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "MSR", scriptMenuResponse "snife_msr"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "AWP", scriptMenuResponse "snife_awp"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "DSR-50", scriptMenuResponse "snife_dsr50"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "snife_cheytac"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "snife_storm"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "Ballista", scriptMenuResponse "snife_ballista"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "DSR-50", scriptMenuResponse "snife_dsr50"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "XPR-50", scriptMenuResponse "snife_xpr50"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "Credits", scriptMenuResponse "credits"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "R700", scriptMenuResponse "snife_r700"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Barrett .50 Cal", scriptMenuResponse "snife_barrett"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L118A", scriptMenuResponse "snife_l118a"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "L96A1", scriptMenuResponse "snife_l96a1"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "MSR", scriptMenuResponse "snife_msr"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "AWP", scriptMenuResponse "snife_awp"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "DSR-50", scriptMenuResponse "snife_dsr50"; close SnifeSelection_Menu, ;, ;, 1, ; )
+		
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "snife_cheytac"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 11, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "snife_storm"; close SnifeSelection_Menu, ;, ;, 1, ; )
 
 
         // gradient_top

@@ -11,4 +11,5 @@ precacheWeapons()
 	precacheItem("storm_mp");
 	precacheItem("dsr50_zam");
 	precacheItem("b23r_tactical_zam");
+	precacheItem("r700_zam");
 }

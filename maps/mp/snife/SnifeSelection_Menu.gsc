@@ -51,6 +51,14 @@ onMenuResponse()
 			self.primary = "m40a3_mp";
 			self OpenMenu(game["SnifeSelection2_Menu"]);
 		}
+		else if(response == "snife_r700")
+		{
+			self giveWeapon("r700_zam");
+			self giveMaxAmmo("r700_zam");
+			self switchToWeapon("r700_zam");
+			self.primary = "r700_zam";
+			self OpenMenu(game["SnifeSelection2_Menu"]);
+		}
 		else if(response == "snife_barrett")
 		{
 			self giveWeapon("barrett_mp");
@@ -65,6 +73,14 @@ onMenuResponse()
 			self giveMaxAmmo("l118a_mp");
 			self switchToWeapon("l118a_mp");
 			self.primary = "l118a_mp";
+			self OpenMenu(game["SnifeSelection2_Menu"]);
+		}
+		else if(response == "snife_l96a1")
+		{
+			self giveWeapon("l96a1_mp");
+			self giveMaxAmmo("l96a1_mp");
+			self switchToWeapon("l96a1_mp");
+			self.primary = "l96a1_mp";
 			self OpenMenu(game["SnifeSelection2_Menu"]);
 		}
 		else if(response == "snife_msr")

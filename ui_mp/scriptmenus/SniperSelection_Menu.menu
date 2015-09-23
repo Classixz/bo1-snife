@@ -24,21 +24,19 @@
         }
         
         CHOICE_MENU_TITLE( Sniper Selection )
-        
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "M40A3", scriptMenuResponse "sniper_m40a3"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Barrett .50 Cal", scriptMenuResponse "sniper_barrett"; close SniperSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L96A1", scriptMenuResponse "loadout_l96a1"; close SniperSelection_Menu, ;, ;, 1, ; )   
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "PSG-1", scriptMenuResponse "loadout_psg1"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "L118A", scriptMenuResponse "sniper_l118a"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "MSR", scriptMenuResponse "sniper_msr"; close SniperSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "Ballista", scriptMenuResponse "loadout_ballista"; close SniperSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "DSR-50", scriptMenuResponse "loadout_dsr50"; close SniperSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "XPR-50", scriptMenuResponse "loadout_xpr50"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "AWP", scriptMenuResponse "sniper_awp"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "DSR-50", scriptMenuResponse "sniper_dsr50"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "sniper_cheytac"; close SniperSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "sniper_storm"; close SniperSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "Credits", scriptMenuResponse "credits"; close SniperSelection_Menu, ;, ;, 1, ; )
+		
+		
+		FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "M40A3", scriptMenuResponse "snipe_m40a3"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "R700", scriptMenuResponse "snipe_r700"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Barrett .50 Cal", scriptMenuResponse "snipe_barrett"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L118A", scriptMenuResponse "snipe_l118a"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "L96A1", scriptMenuResponse "snipe_l96a1"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "MSR", scriptMenuResponse "snipe_msr"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "AWP", scriptMenuResponse "snipe_awp"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "DSR-50", scriptMenuResponse "snipe_dsr50"; close SniperSelection_Menu, ;, ;, 1, ; )
+		
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "snipe_cheytac"; close SniperSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 11, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "snipe_storm"; close SniperSelection_Menu, ;, ;, 1, ; )
 
 
         // gradient_top
