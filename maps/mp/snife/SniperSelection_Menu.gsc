@@ -25,12 +25,6 @@ onPlayerSpawned()
 	{
 		self waittill( "spawned_player" );
 		self thread onMenuResponse();
-		if(self is_bot()) 
-			{
-			self giveWeapon("intervention_3k_zam");
-			self switchToWeapon("intervention_3k_zam");
-			self giveMaxAmmo("intervention_3k_zam");
-			}
 	}	
 }
 
@@ -43,63 +37,63 @@ onMenuResponse()
 	{
 		self waittill("menuresponse", menu, response);
 
-		if(response == "sniper_m40a3")
+		if(response == "snipe_m40a3")
 		{
 			self giveWeapon("m40a3_mp");
 			self giveMaxAmmo("m40a3_mp");
 			self switchToWeapon("m40a3_mp");
 			self.primary = "m40a3_mp";
 		}
-		else if(response == "sniper_r700")
+		else if(response == "snipe_r700")
 		{
 			self giveWeapon("r700_zam");
 			self giveMaxAmmo("r700_zam");
 			self switchToWeapon("r700_zam");
 			self.primary = "r700_zam";
 		}
-		else if(response == "sniper_barrett")
+		else if(response == "snipe_barrett")
 		{
 			self giveWeapon("barrett_mp");
 			self giveMaxAmmo("barrett_mp");
 			self switchToWeapon("barrett_mp");
 			self.primary = "barrett_mp";
 		}
-		else if(response == "sniper_l118a")
+		else if(response == "snipe_l118a")
 		{
 			self giveWeapon("l118a_mp");
 			self giveMaxAmmo("l118a_mp");
 			self switchToWeapon("l118a_mp");
 			self.primary = "l118a_mp";
 		}
-		else if(response == "sniper_l96a1")
+		else if(response == "snipe_l96a1")
 		{
 			self giveWeapon("l96a1_mp");
 			self giveMaxAmmo("l96a1_mp");
 			self switchToWeapon("l96a1_mp");
 			self.primary = "l96a1_mp";
 		}
-		else if(response == "sniper_msr")
+		else if(response == "snipe_msr")
 		{
 			self giveWeapon("msr_mp");
 			self giveMaxAmmo("msr_mp");
 			self switchToWeapon("msr_mp");
 			self.primary = "msr_mp";
 		}
-		else if(response == "sniper_awp")
+		else if(response == "snipe_awp")
 		{
 			self giveWeapon("awp_mp");
 			self giveMaxAmmo("awp_mp");
 			self switchToWeapon("awp_mp");
 			self.primary = "awp_mp";
 		}
-		else if(response == "sniper_dsr50")
+		else if(response == "snipe_dsr50")
 		{
 			self giveWeapon("dsr50_zam");
 			self giveMaxAmmo("dsr50_zam");
 			self switchToWeapon("dsr50_zam");
 			self.primary = "dsr50_zam";
 		}
-		else if(response == "sniper_cheytac")
+		else if(response == "snipe_cheytac")
 		{
 			if(self.vip == 1)
 			{
@@ -111,7 +105,7 @@ onMenuResponse()
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
-		else if(response == "sniper_storm")
+		else if(response == "snipe_storm")
 		{
 			if(self.vip == 1)
 			{

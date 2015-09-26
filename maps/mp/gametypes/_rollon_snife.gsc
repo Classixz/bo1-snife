@@ -177,6 +177,14 @@ onPlayerSpawned()
 				self SetWeaponAmmoStock(self.primary, 0);
 				self SwitchToWeapon(self.primary);
 			}
+			if(self is_bot())
+			{
+				self TakeAllWeapons();
+				self GiveWeapon("deagle_tactical");
+				self SetWeaponAmmoClip("deagle_tactical", 0);
+				self SetWeaponAmmoStock("deagle_tactical", 0);
+				self SwitchToWeapon("deagle_tactical");
+			}
 			self giveWeapon("knife_mp");
 		}
 		else if(cur_gm == "sd_snipe" || cur_gm == "dem_snipe" || cur_gm == "dm_snipe" || cur_gm == "dom_snipe" || cur_gm == "koth_snipe")//snipe
@@ -189,6 +197,12 @@ onPlayerSpawned()
 				self GiveWeapon(self.primary);
 				self GiveMaxAmmo(self.primary);
 				self SwitchToWeapon(self.primary);
+			}
+			if(self is_bot())
+			{
+				self TakeAllWeapons();
+				self GiveWeapon("intervention_3k_zam");
+				self SwitchToWeapon("intervention_3k_zam");
 			}
 		}
 		else if(cur_gm == "ctf_snife" || cur_gm == "dem_snife" || cur_gm == "koth_snife")//snife
@@ -208,10 +222,20 @@ onPlayerSpawned()
 				self SetWeaponAmmoStock(self.secondary, 0);
 				self SwitchToWeapon(self.primary);
 			}
+			if(self is_bot())
+			{
+				self TakeAllWeapons();
+				self GiveWeapon("intervention_3k_zam");
+				self GiveWeapon("deagle_tactical");
+				self SetWeaponAmmoClip("deagle_tactical", 0);
+				self SetWeaponAmmoStock("deagle_tactical", 0);
+				self SwitchToWeapon("intervention_3k_zam");
+			}
 			self giveWeapon("knife_mp");
 		}
 
 		self giveWeapon("hatchet_mp");
+		self giveWeapon("tactical_insertion_mp");
 		self setPerk("specialty_sprintrecovery");
 		self setPerk("specialty_bulletpenetration");
 		//self setPerk("specialty_fastreload");
@@ -220,6 +244,7 @@ onPlayerSpawned()
 
 		self thread tip();
 		self thread reset_class();
+		self thread pistol_ammo();
 	}
 }
 
@@ -284,10 +309,25 @@ custom_killstreaks()
 	}
 }
 
-reset_class()
+pistol_ammo()
 {
 	self endon("disconnect");
 	self endon("death");
+	while(1)
+	{
+		cWeap = self GetCurrentWeapon();
+		if(cWeap == "five_seven_tactical_zam" || cWeap == "b23r_tactical_zam" || cWeap == "deagle_tactical")
+		{
+			self SetWeaponAmmoClip(cWeap, 0);
+			self SetWeaponAmmoStock(cWeap, 0);
+		}
+		wait .01;
+	}
+}
+reset_class()
+{
+	self endon("disconnect");
+	//self endon("death");
 	self endon("weaponResetDone");
 	while(1)
 	{

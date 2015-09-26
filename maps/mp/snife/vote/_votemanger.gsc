@@ -6,7 +6,7 @@ startVote()
 {
 			level.voteMenu = "vote_weapon";
 			level.WinningGameType = "";
-			voteCounter(3, 0, "Weapon vote ends in...", level.voteMenu);
+			voteCounter(5, 0, "Weapon vote ends in...", level.voteMenu);
 			
 			level.snife = level.vote_weapon_snife;
 			level.knife = level.vote_weapon_knifes;
@@ -50,7 +50,7 @@ startVote()
 	
 			winnerDisplay(level.WinningGamemode+" Won!");
 	
-			voteCounter(3, 0, "Gamemode vote ends in...", level.voteMenu);
+			voteCounter(5, 0, "Gamemode vote ends in...", level.voteMenu);
 			
 			level.VoteGametypeFFA = level.vote_gamemode_knife_ffa;
 			level.VoteGametypeCTF = level.vote_gamemode_knife_ctf+level.vote_gamemode_snife_ctf+level.vote_gamemode_snipe_ctf;
@@ -200,7 +200,7 @@ startVote()
 
 			
 			winnerDisplay(level.WinningGameType+" Won!");
-			voteCounter(3, 0, "Map vote ends in...", level.voteMenu);
+			voteCounter(5, 0, "Map vote ends in...", level.voteMenu);
 			
 			level.summit = level.vote_map_snife_summit;
 			level.firingrange = level.vote_map_snife_firingrange;
@@ -251,7 +251,7 @@ startVote()
 			winnerDisplay(level.WinningMap+" Won!");
 			
 			nextGame(level.WinningGamemode, level.WinningMap, level.WinningGameType);
-			wait 2;
+			wait 5;
 			level notify("new_map_selected");
 }
 
