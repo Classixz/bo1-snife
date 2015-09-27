@@ -127,5 +127,18 @@ onMenuResponse()
 			else
 				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
+		else if(response == "snife_locus")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("locus_mp");
+				self giveMaxAmmo("locus_mp");
+				self switchToWeapon("locus_mp");
+				self.primary = "locus_mp";
+				self OpenMenu(game["SnifeSelection2_Menu"]);
+			}
+			else
+				self openMenu(game[ "SnifeSelection_Menu" ]);
+		}
 	}
 }

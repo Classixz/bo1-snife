@@ -25391,3 +25391,214 @@
   4:03 K;0;4;axis;[3arc]iamindy33;0;11;allies;[3arc]ENVYUS.KennyS;intervention_3k_zam;666;MOD_RIFLE_BULLET;neck
   4:04 ShutdownGame:
   4:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]3aGl3
+  0:03 J;0;2;[3arc]TheRealCanadianP
+  0:03 J;0;3;[3arc]DizzyEditing
+  0:03 J;0;4;[3arc]Swaggot
+  0:04 J;0;5;[3arc]Camila
+  0:04 J;0;6;[3arc]-MUFN-CornDoge
+  0:04 J;0;7;[3arc]ChucK
+  0:04 J;0;8;[3arc]PrestigeisKey
+  0:05 J;0;9;[3arc][ZM] Matt Damon
+  0:05 J;0;10;[3arc]Big poker
+  0:05 J;0;11;[3arc]Lord Bordi
+  0:18 Weapon;0;0;Rollon;locus_mp
+  0:28 D;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;left_leg_lower
+  0:28 D;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  0:29 D;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:30 K;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:32 K;0;5;allies;[3arc]Camila;;-1;world;;none;3000;MOD_FALLING;none
+  0:34 Weapon;0;11;Lord Bordi;scavenger_item_mp
+  0:38 D;0;0;axis;Rollon;;-1;world;;none;4;MOD_FALLING;none
+  0:42 D;0;8;axis;[3arc]PrestigeisKey;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+  0:42 D;0;8;axis;[3arc]PrestigeisKey;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+  0:43 D;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  0:43 D;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;right_arm_upper
+  0:43 D;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  0:43 D;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:44 D;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  0:44 K;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;aug_extclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:44 D;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:44 D;0;10;axis;[3arc]Big poker;0;2;allies;[3arc]TheRealCanadianP;aug_extclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:44 K;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:47 D;0;1;allies;[3arc]3aGl3;0;9;axis;[3arc][ZM] Matt Damon;pm63_extclip_mp;30;MOD_PISTOL_BULLET;torso_upper
+  0:47 D;0;1;allies;[3arc]3aGl3;0;9;axis;[3arc][ZM] Matt Damon;pm63_extclip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:47 D;0;1;allies;[3arc]3aGl3;0;9;axis;[3arc][ZM] Matt Damon;pm63_extclip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:47 D;0;0;axis;Rollon;0;2;allies;[3arc]TheRealCanadianP;aug_extclip_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  0:47 K;0;1;allies;[3arc]3aGl3;0;9;axis;[3arc][ZM] Matt Damon;pm63_extclip_mp;27;MOD_PISTOL_BULLET;torso_lower
+  0:47 D;0;0;axis;Rollon;0;2;allies;[3arc]TheRealCanadianP;aug_extclip_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  0:47 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;locus_mp;147;MOD_HEAD_SHOT;head
+  0:50 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;locus_mp;147;MOD_HEAD_SHOT;head
+  0:58 K;0;5;allies;[3arc]Camila;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_lower
+  1:00 K;0;2;allies;[3arc]TheRealCanadianP;0;10;axis;[3arc]Big poker;l96a1_ir_mp;105;MOD_RIFLE_BULLET;torso_upper
+  1:03 K;0;10;axis;[3arc]Big poker;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  1:05 D;0;11;axis;[3arc]Lord Bordi;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  1:05 D;0;11;axis;[3arc]Lord Bordi;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  1:05 K;0;11;axis;[3arc]Lord Bordi;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  1:10 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;locus_mp;137;MOD_RIFLE_BULLET;neck
+  1:11 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;locus_mp;127;MOD_RIFLE_BULLET;torso_upper
+  1:14 K;0;5;allies;[3arc]Camila;0;0;axis;Rollon;locus_mp;127;MOD_RIFLE_BULLET;torso_upper
+  1:16 K;0;3;allies;[3arc]DizzyEditing;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  1:17 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;locus_mp;147;MOD_HEAD_SHOT;head
+  1:19 D;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;torso_lower
+  1:19 D;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:19 K;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;left_arm_lower
+  1:30 K;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  1:32 K;0;4;allies;[3arc]Swaggot;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  1:37 D;0;1;allies;[3arc]3aGl3;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  1:37 D;0;1;allies;[3arc]3aGl3;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  1:37 D;0;1;allies;[3arc]3aGl3;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  1:37 K;0;1;allies;[3arc]3aGl3;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:39 K;0;2;allies;[3arc]TheRealCanadianP;;-1;world;;none;3000;MOD_FALLING;none
+  1:40 K;0;10;axis;[3arc]Big poker;0;5;allies;[3arc]Camila;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  1:51 K;0;3;allies;[3arc]DizzyEditing;;-1;world;;none;3000;MOD_FALLING;none
+  1:51 K;0;9;axis;[3arc][ZM] Matt Damon;0;1;allies;[3arc]3aGl3;knife_mp;136;MOD_MELEE;right_arm_upper
+  1:53 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;locus_mp;147;MOD_RIFLE_BULLET;torso_lower
+  1:54 D;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:55 D;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:55 K;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]-MUFN-CornDoge;famas_dualclip_mp;48;MOD_HEAD_SHOT;head
+  1:55 D;0;6;allies;[3arc]-MUFN-CornDoge;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:55 D;0;6;allies;[3arc]-MUFN-CornDoge;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:55 D;0;6;allies;[3arc]-MUFN-CornDoge;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:56 K;0;6;allies;[3arc]-MUFN-CornDoge;0;7;axis;[3arc]ChucK;spectre_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  2:01 K;0;0;axis;Rollon;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  2:07 K;0;11;axis;[3arc]Lord Bordi;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  2:10 K;0;2;allies;[3arc]TheRealCanadianP;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  2:10 K;0;5;allies;[3arc]Camila;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  2:24 ShutdownGame:
+  2:24 ------------------------------------------------------------
+  2:24 ------------------------------------------------------------
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:24 J;0;11;[3arc]Lord Bordi
+  2:24 J;0;10;[3arc]Big poker
+  2:24 J;0;9;[3arc]ZM] Matt Damon
+  2:24 J;0;8;[3arc]PrestigeisKey
+  2:24 J;0;7;[3arc]ChucK
+  2:24 J;0;6;[3arc]MUFN-CornDoge
+  2:24 J;0;5;[3arc]Camila
+  2:24 J;0;4;[3arc]Swaggot
+  2:24 J;0;3;[3arc]DizzyEditing
+  2:24 J;0;2;[3arc]TheRealCanadianP
+  2:24 J;0;1;[3arc]3aGl3
+  2:24 J;0;0;Rollon
+  2:40 K;0;10;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+  2:40 K;0;7;axis;[3arc]ChucK;0;2;allies;[3arc]TheRealCanadianP;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  2:44 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_arm_upper
+  2:45 K;0;9;axis;[3arc]ZM] Matt Damon;;-1;world;;none;3000;MOD_FALLING;none
+  2:47 K;0;8;axis;[3arc]PrestigeisKey;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  2:48 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  2:48 K;0;7;axis;[3arc]ChucK;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  2:50 K;0;11;axis;[3arc]Lord Bordi;0;2;allies;[3arc]TheRealCanadianP;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  2:50 K;0;5;allies;[3arc]Camila;0;0;axis;Rollon;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  2:52 K;0;10;axis;[3arc]Big poker;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  2:59 K;0;0;axis;Rollon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  3:05 K;0;2;allies;[3arc]TheRealCanadianP;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  3:05 K;0;6;allies;[3arc]MUFN-CornDoge;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  3:06 K;0;4;allies;[3arc]Swaggot;;-1;world;;none;3000;MOD_FALLING;none
+  3:10 K;0;7;axis;[3arc]ChucK;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  3:11 K;0;10;axis;[3arc]Big poker;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  3:15 K;0;1;allies;[3arc]3aGl3;0;11;axis;[3arc]Lord Bordi;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  3:26 K;0;0;axis;Rollon;;-1;world;;none;3000;MOD_FALLING;none
+  3:28 K;0;7;axis;[3arc]ChucK;0;5;allies;[3arc]Camila;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  3:36 D;0;0;axis;Rollon;;-1;world;;none;26;MOD_FALLING;none
+  3:37 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_upper
+  3:41 D;0;0;axis;Rollon;;-1;world;;none;58;MOD_FALLING;none
+  3:44 K;0;3;allies;[3arc]DizzyEditing;0;9;axis;[3arc]ZM] Matt Damon;knife_mp;136;MOD_MELEE;left_hand
+  3:45 K;0;5;allies;[3arc]Camila;0;11;axis;[3arc]Lord Bordi;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  3:53 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;l118a_mp;666;MOD_RIFLE_BULLET;torso_upper
+  3:54 K;0;9;axis;[3arc]ZM] Matt Damon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  3:55 K;0;4;allies;[3arc]Swaggot;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  3:59 K;0;10;axis;[3arc]Big poker;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:00 K;0;3;allies;[3arc]DizzyEditing;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:06 K;0;7;axis;[3arc]ChucK;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_arm_lower
+  4:09 D;0;0;axis;Rollon;;-1;world;;none;26;MOD_FALLING;none
+  4:11 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_upper
+  4:12 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_upper
+  4:15 K;0;8;axis;[3arc]PrestigeisKey;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  4:15 K;0;0;axis;Rollon;0;5;allies;[3arc]Camila;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  4:23 K;0;2;allies;[3arc]TheRealCanadianP;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:25 K;0;10;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+  4:31 K;0;3;allies;[3arc]DizzyEditing;0;0;axis;Rollon;l118a_mp;666;MOD_RIFLE_BULLET;right_arm_lower
+  4:33 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;briefcase_bomb_mp;111;MOD_EXPLOSIVE;none
+  4:34 K;0;9;axis;[3arc]ZM] Matt Damon;;-1;world;;none;3000;MOD_FALLING;none
+  4:40 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;torso_lower
+  4:42 K;0;6;allies;[3arc]MUFN-CornDoge;0;11;axis;[3arc]Lord Bordi;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:43 K;0;9;axis;[3arc]ZM] Matt Damon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:43 K;0;4;allies;[3arc]Swaggot;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  4:44 K;0;3;allies;[3arc]DizzyEditing;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  4:53 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_upper
+  4:54 K;0;7;axis;[3arc]ChucK;;-1;world;;none;3000;MOD_FALLING;none
+  4:55 K;0;4;allies;[3arc]Swaggot;;-1;world;;none;3000;MOD_FALLING;none
+  4:56 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;right_arm_upper
+  4:58 K;0;10;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+  5:00 K;0;3;allies;[3arc]DizzyEditing;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_lower
+  5:08 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  5:08 Weapon;0;0;Rollon;scavenger_item_mp
+  5:09 K;0;5;allies;[3arc]Camila;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  5:13 K;0;0;axis;Rollon;0;2;allies;[3arc]TheRealCanadianP;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  5:20 K;0;3;allies;[3arc]DizzyEditing;0;0;axis;Rollon;l118a_mp;666;MOD_RIFLE_BULLET;torso_lower
+  5:24 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;l118a_mp;666;MOD_RIFLE_BULLET;left_arm_upper
+  5:27 K;0;0;axis;Rollon;0;6;allies;[3arc]MUFN-CornDoge;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  5:31 K;0;6;allies;[3arc]MUFN-CornDoge;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;neck
+  5:34 K;0;9;axis;[3arc]ZM] Matt Damon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  5:35 K;0;3;allies;[3arc]DizzyEditing;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  5:41 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;torso_upper
+  5:43 K;0;2;allies;[3arc]TheRealCanadianP;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  5:46 K;0;8;axis;[3arc]PrestigeisKey;0;6;allies;[3arc]MUFN-CornDoge;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  5:46 K;0;6;allies;[3arc]MUFN-CornDoge;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_arm_lower
+  5:46 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_upper
+  5:47 K;0;5;allies;[3arc]Camila;0;9;axis;[3arc]ZM] Matt Damon;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  5:50 K;0;7;axis;[3arc]ChucK;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  5:51 K;0;10;axis;[3arc]Big poker;;-1;world;;none;3000;MOD_FALLING;none
+  5:56 K;0;3;allies;[3arc]DizzyEditing;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;left_arm_lower
+  5:57 K;0;11;axis;[3arc]Lord Bordi;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  6:00 K;0;5;allies;[3arc]Camila;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;neck
+  6:06 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;right_arm_upper
+  6:08 K;0;2;allies;[3arc]TheRealCanadianP;0;9;axis;[3arc]ZM] Matt Damon;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  6:13 K;0;6;allies;[3arc]MUFN-CornDoge;;-1;world;;none;3000;MOD_FALLING;none
+  6:18 K;0;5;allies;[3arc]Camila;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;torso_lower
+  6:20 K;0;7;axis;[3arc]ChucK;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  6:26 K;0;0;axis;Rollon;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  6:27 K;0;4;allies;[3arc]Swaggot;0;11;axis;[3arc]Lord Bordi;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  6:35 K;0;3;allies;[3arc]DizzyEditing;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  6:36 K;0;0;axis;Rollon;;-1;world;;none;3000;MOD_FALLING;none
+  6:38 K;0;11;axis;[3arc]Lord Bordi;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  6:43 K;0;5;allies;[3arc]Camila;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  6:47 K;0;7;axis;[3arc]ChucK;0;1;allies;[3arc]3aGl3;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_lower
+  6:47 K;0;6;allies;[3arc]MUFN-CornDoge;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  6:49 K;0;9;axis;[3arc]ZM] Matt Damon;0;2;allies;[3arc]TheRealCanadianP;intervention_3k_zam;666;MOD_RIFLE_BULLET;left_leg_upper
+  6:51 K;0;2;allies;[3arc]TheRealCanadianP;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  6:56 K;0;1;allies;[3arc]3aGl3;0;0;axis;Rollon;r700_zam;666;MOD_RIFLE_BULLET;torso_upper
+  7:02 K;0;5;allies;[3arc]Camila;0;10;axis;[3arc]Big poker;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:04 D;0;0;axis;Rollon;;-1;world;;none;4;MOD_FALLING;none
+  7:04 K;0;6;allies;[3arc]MUFN-CornDoge;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  7:08 K;0;3;allies;[3arc]DizzyEditing;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  7:09 K;0;4;allies;[3arc]Swaggot;0;11;axis;[3arc]Lord Bordi;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:12 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  7:16 K;0;6;allies;[3arc]MUFN-CornDoge;;-1;world;;none;3000;MOD_FALLING;none
+  7:20 K;0;5;allies;[3arc]Camila;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:29 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;r700_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:30 K;0;1;allies;[3arc]3aGl3;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:31 K;0;11;axis;[3arc]Lord Bordi;0;6;allies;[3arc]MUFN-CornDoge;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:34 K;0;4;allies;[3arc]Swaggot;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  7:37 K;0;6;allies;[3arc]MUFN-CornDoge;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_arm_lower
+  7:42 K;0;5;allies;[3arc]Camila;0;9;axis;[3arc]ZM] Matt Damon;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:43 K;0;2;allies;[3arc]TheRealCanadianP;0;0;axis;Rollon;r700_zam;666;MOD_RIFLE_BULLET;neck
+  7:43 K;0;0;axis;Rollon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  7:50 K;0;1;allies;[3arc]3aGl3;0;7;axis;[3arc]ChucK;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  7:52 K;0;6;allies;[3arc]MUFN-CornDoge;;-1;world;;none;3000;MOD_FALLING;none
+  7:55 K;0;9;axis;[3arc]ZM] Matt Damon;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  7:57 K;0;2;allies;[3arc]TheRealCanadianP;0;8;axis;[3arc]PrestigeisKey;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  7:57 K;0;7;axis;[3arc]ChucK;0;4;allies;[3arc]Swaggot;intervention_3k_zam;666;MOD_RIFLE_BULLET;right_leg_upper
+  7:58 K;0;8;axis;[3arc]PrestigeisKey;0;3;allies;[3arc]DizzyEditing;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  8:02 K;0;4;allies;[3arc]Swaggot;0;0;axis;Rollon;r700_zam;666;MOD_RIFLE_BULLET;torso_upper
+  8:03 K;0;0;axis;Rollon;0;5;allies;[3arc]Camila;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_upper
+  8:07 K;0;11;axis;[3arc]Lord Bordi;;-1;world;;none;3000;MOD_FALLING;none
+  8:08 K;0;0;axis;Rollon;;-1;world;;none;3000;MOD_FALLING;none
+  8:13 ShutdownGame:
+  8:13 ------------------------------------------------------------

@@ -117,5 +117,17 @@ onMenuResponse()
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
+		else if(response == "snipe_locus")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("locus_mp");
+				self giveMaxAmmo("locus_mp");
+				self switchToWeapon("locus_mp");
+				self.primary = "locus_mp";
+			}
+			else
+				self openMenu(game[ "SniperSelection_Menu" ]);
+		}
 	}
 }

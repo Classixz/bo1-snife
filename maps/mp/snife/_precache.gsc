@@ -13,4 +13,5 @@ precacheWeapons()
 	precacheItem("b23r_tactical_zam");
 	precacheItem("r700_zam");
 	precacheItem("deagle_tactical");
+	precacheItem("locus_mp");
 }
