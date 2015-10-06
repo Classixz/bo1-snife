@@ -61,5 +61,23 @@ onMenuResponse()
 			self SetWeaponAmmoStock("deagle_tactical", 0);
 			self.primary = "deagle_tactical";
 		}
+		else if(response == "knife_sog")
+		{
+			self giveWeapon("creek_knife_mp");
+			self switchToWeapon("creek_knife_mp");
+			self.primary = "creek_knife_mp";
+		}
+		else if(response == "knife_karambit")
+		{
+			self giveWeapon("karambit_knife_mp");
+			self switchToWeapon("karambit_knife_mp");
+			self.primary = "karambit_knife_mp";
+		}
+		else if(response == "knife_vorkuta")
+		{
+			self giveWeapon("vorkuta_knife_mp");
+			self switchToWeapon("vorkuta_knife_mp");
+			self.primary = "vorkuta_knife_mp";
+		}
 	}
 }

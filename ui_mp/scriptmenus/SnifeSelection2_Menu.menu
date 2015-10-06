@@ -28,17 +28,9 @@
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "Five-Seven Tactical", scriptMenuResponse "snife_fsk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Beretta 23R Tactical", scriptMenuResponse "snife_b23rk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Desert Eagle Tactical", scriptMenuResponse "snife_deaglek"; close SnifeSelection2_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Barrett .50 Cal", scriptMenuResponse "loadout_barrett"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Intervention", scriptMenuResponse "loadout_cheytac"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "L96A1", scriptMenuResponse "loadout_l96a1"; close ClassSelection_Menu, ;, ;, 1, ; )   
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "PSG-1", scriptMenuResponse "loadout_psg1"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "L118A", scriptMenuResponse "loadout_l118a"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "MSR", scriptMenuResponse "loadout_msr"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "Ballista", scriptMenuResponse "loadout_ballista"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "DSR-50", scriptMenuResponse "loadout_dsr50"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "XPR-50", scriptMenuResponse "loadout_xpr50"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "AWP", scriptMenuResponse "loadout_awp"; close ClassSelection_Menu, ;, ;, 1, ; )
-        //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 9, "Credits", scriptMenuResponse "credits"; close ClassSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "SOG", scriptMenuResponse "snife_sog"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "Karambit", scriptMenuResponse "snife_karambit"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "Vorkuta", scriptMenuResponse "snife_vorkuta"; close SnifeSelection2_Menu, ;, ;, 1, ; )
 
 
         // gradient_top
