@@ -25630,3 +25630,59 @@
   3:01 D;0;0;allies;Rollon;;-1;world;;none;29;MOD_FALLING;none
   3:14 ShutdownGame:
   3:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]TheRelaxingEnd
+  0:03 J;0;2;[3arc]RM Slykuiper
+  0:03 J;0;3;[3arc]TheSinEater
+  0:03 J;0;4;[3arc]Instakill115
+  0:04 J;0;5;[3arc]RiotSurfer
+  0:04 J;0;6;[3arc]GreyhounD
+  0:04 J;0;7;[3arc]gtlad
+  0:04 J;0;8;[3arc]Xmonkey154X
+  0:05 J;0;9;[3arc]+ EterNal + Dark
+  0:05 J;0;10;[3arc]Mayor Cocko
+  0:05 J;0;11;[3arc]Ulamog, Monster 
+  0:24 D;0;9;axis;[3arc]+ EterNal + Dark;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:24 D;0;3;allies;[3arc]TheSinEater;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;20;MOD_PISTOL_BULLET;left_hand
+  0:25 D;0;3;allies;[3arc]TheSinEater;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;24;MOD_PISTOL_BULLET;torso_upper
+  0:25 D;0;9;axis;[3arc]+ EterNal + Dark;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:25 D;0;3;allies;[3arc]TheSinEater;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;29;MOD_PISTOL_BULLET;torso_upper
+  0:25 K;0;9;axis;[3arc]+ EterNal + Dark;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:25 K;0;3;allies;[3arc]TheSinEater;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;34;MOD_PISTOL_BULLET;torso_upper
+  0:25 D;0;7;axis;[3arc]gtlad;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:25 D;0;7;axis;[3arc]gtlad;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:25 K;0;7;axis;[3arc]gtlad;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:28 D;0;5;allies;[3arc]RiotSurfer;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;20;MOD_PISTOL_BULLET;left_hand
+  0:28 D;0;8;axis;[3arc]Xmonkey154X;0;6;allies;[3arc]GreyhounD;m60_acog_mp;50;MOD_RIFLE_BULLET;torso_lower
+  0:29 D;0;8;axis;[3arc]Xmonkey154X;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;torso_upper
+  0:29 D;0;5;allies;[3arc]RiotSurfer;0;8;axis;[3arc]Xmonkey154X;skorpion_grip_mp;27;MOD_HEAD_SHOT;head
+  0:29 K;0;8;axis;[3arc]Xmonkey154X;0;6;allies;[3arc]GreyhounD;m60_acog_mp;50;MOD_RIFLE_BULLET;torso_upper
+  0:39 D;0;0;axis;Rollon;0;6;allies;[3arc]GreyhounD;m60_acog_mp;50;MOD_RIFLE_BULLET;torso_lower
+  0:39 K;0;0;axis;Rollon;0;6;allies;[3arc]GreyhounD;m60_acog_mp;50;MOD_RIFLE_BULLET;torso_upper
+  0:40 Weapon;0;11;Ulamog, Monster ;scavenger_item_mp
+  0:40 D;0;2;allies;[3arc]RM Slykuiper;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;40;MOD_HEAD_SHOT;head
+  0:40 D;0;2;allies;[3arc]RM Slykuiper;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  0:41 K;0;2;allies;[3arc]RM Slykuiper;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_upper
+  0:41 D;0;1;allies;[3arc]TheRelaxingEnd;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;38;MOD_PISTOL_BULLET;left_hand
+  0:41 D;0;1;allies;[3arc]TheRelaxingEnd;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;37;MOD_PISTOL_BULLET;right_hand
+  0:41 K;0;1;allies;[3arc]TheRelaxingEnd;0;11;axis;[3arc]Ulamog, Monster ;rottweil72_mp;35;MOD_PISTOL_BULLET;left_arm_lower
+  0:42 D;0;6;allies;[3arc]GreyhounD;0;10;axis;[3arc]Mayor Cocko;dragunov_extclip_mp;70;MOD_RIFLE_BULLET;right_leg_lower
+  0:43 Weapon;0;11;Ulamog, Monster ;scavenger_item_mp
+  0:44 Weapon;0;6;GreyhounD;scavenger_item_mp
+  0:45 D;0;6;allies;[3arc]GreyhounD;0;10;axis;[3arc]Mayor Cocko;dragunov_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  0:45 Weapon;0;11;Ulamog, Monster ;scavenger_item_mp
+  0:46 D;0;11;axis;[3arc]Ulamog, Monster ;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:46 D;0;11;axis;[3arc]Ulamog, Monster ;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:46 K;0;11;axis;[3arc]Ulamog, Monster ;0;4;allies;[3arc]Instakill115;commando_acog_mp;40;MOD_RIFLE_BULLET;torso_upper
+  0:46 K;0;4;allies;[3arc]Instakill115;0;9;axis;[3arc]+ EterNal + Dark;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  0:46 K;0;6;allies;[3arc]GreyhounD;0;10;axis;[3arc]Mayor Cocko;dragunov_extclip_mp;105;MOD_RIFLE_BULLET;torso_upper
+  0:54 K;0;1;allies;[3arc]TheRelaxingEnd;0;0;axis;Rollon;five_seven_tactical_zam;1002;MOD_MELEE;torso_upper
+  0:56 K;0;4;allies;[3arc]Instakill115;0;0;axis;Rollon;five_seven_tactical_zam;1004;MOD_MELEE;right_arm_upper
+  0:57 K;0;6;allies;[3arc]GreyhounD;0;0;axis;Rollon;five_seven_tactical_zam;1001;MOD_MELEE;left_arm_upper
+  0:59 D;0;10;axis;[3arc]Mayor Cocko;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  0:59 D;0;10;axis;[3arc]Mayor Cocko;0;5;allies;[3arc]RiotSurfer;galil_ft_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+  0:59 ShutdownGame:
+  0:59 ------------------------------------------------------------
