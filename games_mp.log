@@ -25602,3 +25602,31 @@
   8:08 K;0;0;axis;Rollon;;-1;world;;none;3000;MOD_FALLING;none
   8:13 ShutdownGame:
   8:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:41 K;0;0;allies;Rollon;0;-1;allies;Rollon;destructible_car_mp;232;MOD_EXPLOSIVE;none
+  1:12 D;0;0;allies;Rollon;;-1;world;;none;25;MOD_FALLING;none
+  1:37 K;0;0;allies;Rollon;0;-1;allies;Rollon;destructible_car_mp;210;MOD_EXPLOSIVE;none
+  1:53 D;0;0;allies;Rollon;;-1;world;;none;6;MOD_FALLING;none
+  2:09 K;0;0;allies;Rollon;0;-1;allies;Rollon;destructible_car_mp;205;MOD_EXPLOSIVE;none
+  2:23 ShutdownGame:
+  2:23 ------------------------------------------------------------
+  2:23 ------------------------------------------------------------
+  2:23 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:23 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\1\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:23 J;0;0;Rollon
+  3:01 D;0;0;allies;Rollon;;-1;world;;none;29;MOD_FALLING;none
+  3:14 ShutdownGame:
+  3:14 ------------------------------------------------------------
