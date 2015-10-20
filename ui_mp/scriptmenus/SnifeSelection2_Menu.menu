@@ -27,10 +27,10 @@
         
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "Five-Seven Tactical", scriptMenuResponse "snife_fsk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Beretta 23R Tactical", scriptMenuResponse "snife_b23rk"; close SnifeSelection2_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Desert Eagle Tactical", scriptMenuResponse "snife_deaglek"; close SnifeSelection2_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "SOG", scriptMenuResponse "snife_sog"; close SnifeSelection2_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "Karambit", scriptMenuResponse "snife_karambit"; close SnifeSelection2_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "Vorkuta", scriptMenuResponse "snife_vorkuta"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "SOG", scriptMenuResponse "snife_sog"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "Karambit", scriptMenuResponse "snife_karambit"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "^=[^7VIP^=]^7 Vorkuta", scriptMenuResponse "snife_vorkuta"; close SnifeSelection2_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "^=[^7VIP^=]^7 Desert Eagle Tactical", scriptMenuResponse "snife_deaglek"; close SnifeSelection2_Menu, ;, ;, 1, ; )
 
 
         // gradient_top

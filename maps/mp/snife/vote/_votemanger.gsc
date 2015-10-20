@@ -154,39 +154,39 @@ startVote()
 	else if(level.WinningGamemode == "Snipe" )		
 	{
 			/* ======= DOM =======*/
-			if(level.VoteGametypeDOM > level.VoteGametypeCTF && level.VoteGametypeDOM > level.VoteGametypeSnD )	
+			if(level.VoteGametypeDOM > level.VoteGametypeKOTH && level.VoteGametypeDOM > level.VoteGametypeSnD )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Domination";
 				setDvar("g_gametype", "dom_snipe");
 			}
-			else if(level.VoteGametypeCTF == level.VoteGametypeSnD || level.VoteGametypeSnD == level.VoteGametypeCTF )	
+			else if(level.VoteGametypeKOTH == level.VoteGametypeSnD || level.VoteGametypeSnD == level.VoteGametypeKOTH )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Domination";
 				setDvar("g_gametype", "dom_snipe");
 			}
 			/* ======= CTF =======*/
-			else if(level.VoteGametypeCTF > level.VoteGametypeDOM && level.VoteGametypeCTF > level.VoteGametypeSnD )	
+			else if(level.VoteGametypeKOTH > level.VoteGametypeDOM && level.VoteGametypeKOTH > level.VoteGametypeSnD )	
 			{
 				level.voteMenu = "vote_snife_map";
-				level.WinningGameType = "Capture the Flag";
-				setDvar("g_gametype", "ctf_snipe");
+				level.WinningGameType = "Headquarters";
+				setDvar("g_gametype", "koth_snipe");
 			}
 			else if(level.VoteGametypeDOM == level.VoteGametypeSnD || level.VoteGametypeSnD == level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
-				level.WinningGameType = "Capture the Flag";
-				setDvar("g_gametype", "ctf_snipe");
+				level.WinningGameType = "Headquarters";
+				setDvar("g_gametype", "koth_snipe");
 			}
 			/* ======= SnD =======*/
-			else if(level.VoteGametypeSnD > level.VoteGametypeCTF && level.VoteGametypeSnD > level.VoteGametypeDOM )	
+			else if(level.VoteGametypeSnD > level.VoteGametypeKOTH && level.VoteGametypeSnD > level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Search & Destroy";
 				setDvar("g_gametype", "sd_snipe");
 			}
-			else if(level.VoteGametypeCTF == level.VoteGametypeDOM || level.VoteGametypeCTF == level.VoteGametypeDOM )	
+			else if(level.VoteGametypeKOTH == level.VoteGametypeDOM || level.VoteGametypeKOTH == level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Search & Destroy";

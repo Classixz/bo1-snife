@@ -4,7 +4,9 @@
 PlayerList()
 {
 	addXUID("11000010a347d4e", "vip"); //Classixz
-	addXUID("110000105b2226a", "vip"); //Rollonmath42
+	addXUID("110000105b2226a", "vip"); //Rollon
+	addXUID("110000106a6db4c", "vip"); //Indy
+	addXUID("11000010168afb4", "vip"); //Joker
 }
 
 isVip(special)

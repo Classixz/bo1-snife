@@ -43,6 +43,7 @@ onMenuResponse()
 			self giveMaxAmmo("m40a3_mp");
 			self switchToWeapon("m40a3_mp");
 			self.primary = "m40a3_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_r700")
 		{
@@ -50,6 +51,7 @@ onMenuResponse()
 			self giveMaxAmmo("r700_zam");
 			self switchToWeapon("r700_zam");
 			self.primary = "r700_zam";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_barrett")
 		{
@@ -57,6 +59,7 @@ onMenuResponse()
 			self giveMaxAmmo("barrett_mp");
 			self switchToWeapon("barrett_mp");
 			self.primary = "barrett_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_l118a")
 		{
@@ -64,6 +67,7 @@ onMenuResponse()
 			self giveMaxAmmo("l118a_mp");
 			self switchToWeapon("l118a_mp");
 			self.primary = "l118a_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_l96a1")
 		{
@@ -71,6 +75,7 @@ onMenuResponse()
 			self giveMaxAmmo("l96a1_mp");
 			self switchToWeapon("l96a1_mp");
 			self.primary = "l96a1_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_msr")
 		{
@@ -78,6 +83,7 @@ onMenuResponse()
 			self giveMaxAmmo("msr_mp");
 			self switchToWeapon("msr_mp");
 			self.primary = "msr_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_awp")
 		{
@@ -85,6 +91,7 @@ onMenuResponse()
 			self giveMaxAmmo("awp_mp");
 			self switchToWeapon("awp_mp");
 			self.primary = "awp_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_dsr50")
 		{
@@ -92,6 +99,7 @@ onMenuResponse()
 			self giveMaxAmmo("dsr50_zam");
 			self switchToWeapon("dsr50_zam");
 			self.primary = "dsr50_zam";
+			self DisableInvulnerability();
 		}
 		else if(response == "snipe_cheytac")
 		{
@@ -101,6 +109,7 @@ onMenuResponse()
 				self giveMaxAmmo("intervention_3k_zam");
 				self switchToWeapon("intervention_3k_zam");
 				self.primary = "intervention_3k_zam";
+				self DisableInvulnerability();
 			}
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);
@@ -113,6 +122,7 @@ onMenuResponse()
 				self giveMaxAmmo("storm_mp");
 				self switchToWeapon("storm_mp");
 				self.primary = "storm_mp";
+				self DisableInvulnerability();
 			}
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);
@@ -125,6 +135,20 @@ onMenuResponse()
 				self giveMaxAmmo("locus_mp");
 				self switchToWeapon("locus_mp");
 				self.primary = "locus_mp";
+				self DisableInvulnerability();
+			}
+			else
+				self openMenu(game[ "SniperSelection_Menu" ]);
+		}
+		else if(response == "snipe_usr")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("usr_mp");
+				self giveMaxAmmo("usr_mp");
+				self switchToWeapon("usr_mp");
+				self.primary = "usr_mp";
+				self DisableInvulnerability();
 			}
 			else
 				self openMenu(game[ "SniperSelection_Menu" ]);

@@ -17,4 +17,5 @@ precacheWeapons()
 	precacheItem("creek_knife_mp");
 	precacheItem("vorkuta_knife_mp");
 	precacheItem("karambit_knife_mp");
+	precacheItem("usr_mp");
 }

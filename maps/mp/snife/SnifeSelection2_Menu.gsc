@@ -43,6 +43,7 @@ onMenuResponse()
 			self SetWeaponAmmoClip("five_seven_tactical_zam", 0);
 			self SetWeaponAmmoStock("five_seven_tactical_zam", 0);
 			self.secondary = "five_seven_tactical_zam";
+			self DisableInvulnerability();
 		}
 		else if(response == "snife_b23rk")
 		{
@@ -50,31 +51,43 @@ onMenuResponse()
 			self SetWeaponAmmoClip("b23r_tactical_zam", 0);
 			self SetWeaponAmmoStock("b23r_tactical_zam", 0);
 			self.secondary = "b23r_tactical_zam";
+			self DisableInvulnerability();
 		}
 		else if(response == "snife_deaglek")
 		{
-			self giveWeapon("deagle_tactical");
-			self SetWeaponAmmoClip("deagle_tactical", 0);
-			self SetWeaponAmmoStock("deagle_tactical", 0);
-			self.secondary = "deagle_tactical";
+			if(self.vip == 1)
+			{
+				self giveWeapon("deagle_tactical");
+				self SetWeaponAmmoClip("deagle_tactical", 0);
+				self SetWeaponAmmoStock("deagle_tactical", 0);
+				self.secondary = "deagle_tactical";
+				self DisableInvulnerability();
+			}
+			else
+				self openMenu(game[ "SnifeSelection2_Menu" ]);
 		}
 		else if(response == "snife_sog")
 		{
 			self giveWeapon("creek_knife_mp");
-			self switchToWeapon("creek_knife_mp");
 			self.secondary = "creek_knife_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snife_karambit")
 		{
 			self giveWeapon("karambit_knife_mp");
-			self switchToWeapon("karambit_knife_mp");
 			self.secondary = "karambit_knife_mp";
+			self DisableInvulnerability();
 		}
 		else if(response == "snife_vorkuta")
 		{
-			self giveWeapon("vorkuta_knife_mp");
-			self switchToWeapon("vorkuta_knife_mp");
-			self.secondary = "vorkuta_knife_mp";
+			if(self.vip == 1)
+			{
+				self giveWeapon("vorkuta_knife_mp");
+				self.secondary = "vorkuta_knife_mp";
+				self DisableInvulnerability();
+			}
+			else
+				self openMenu(game[ "SnifeSelection2_Menu" ]);
 		}
 	}
 }

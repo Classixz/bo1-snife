@@ -49,7 +49,7 @@ onMenuResponse()
 			level.vote_gamemode_snipe_ctf++;
 			iprintln(self.name+" voted on Capture the Flag");
 			self closemenu();
-			self OpenMenu(game[ "vote_snipe_map" ]);
+			//self OpenMenu(game[ "vote_snipe_map" ]);
 		}
 		else if(response == "vote_gamemode_snipe_koth")
 		{

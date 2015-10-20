@@ -140,5 +140,18 @@ onMenuResponse()
 			else
 				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
+		else if(response == "snife_usr")
+		{
+			if(self.vip == 1)
+			{
+				self giveWeapon("usr_mp");
+				self giveMaxAmmo("usr_mp");
+				self switchToWeapon("usr_mp");
+				self.primary = "usr_mp";
+				self OpenMenu(game["SnifeSelection2_Menu"]);
+			}
+			else
+				self openMenu(game[ "SnifeSelection_Menu" ]);
+		}
 	}
 }

@@ -121,7 +121,7 @@
 			text            "^=1. ^7Domination" 
 			decoration
 		}
-		execKey "1" { scriptMenuResponse "vote_gamemode_snipe_dem"; close None; }
+		execKey "1" { scriptMenuResponse "vote_gamemode_snipe_dom"; close vote_snipe_gamemode }
 	
 		itemDef
 		{
@@ -135,10 +135,10 @@
 			textfont		UI_FONT_NORMAL
 			textscale		.24
 			textaligny		8
-			text            "^=2. ^7Capture the Flag" 
+			text            "^=2. ^7Headquaters" 
 			decoration
 		}
-		execKey "2" { scriptMenuResponse "vote_gamemode_snipe_ctf"; close None }
+		execKey "2" { scriptMenuResponse "vote_gamemode_snipe_koth"; close vote_snipe_gamemode }
 	
 		itemDef
 		{
@@ -155,7 +155,6 @@
 			text            "^=3. ^7Search & Destroy" 
 			decoration
 		}
-		execKey "3" { scriptMenuResponse "vote_gamemode_snipe_snd"; close None }
-
+		execKey "3" { scriptMenuResponse "vote_gamemode_snipe_snd"; close vote_snipe_gamemode }
 	}
 }

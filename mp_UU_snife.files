@@ -1,3 +1,14 @@
+images\~~-gi_wpn_t7_sniper_locus_bip~0b1fac95.iwi
+images\~~-gi_wpn_t7_sniper_locus_bit~49a28629.iwi
+images\~~-gi_wpn_t7_sniper_locus_han~4d31c1e4.iwi
+images\~~-gi_wpn_t7_sniper_locus_mag~847d9223.iwi
+images\~~-gi_wpn_t7_sniper_locus_met~034c086c.iwi
+images\~~-gi_wpn_t7_sniper_locus_sco~26e8679f.iwi
+images\~~-gi_wpn_t7_sniper_locus_sco~87aab4ab.iwi
+images\~~-gi_wpn_t7_sniper_locus_sco~acbea632.iwi
+images\~~-gi_wpn_t7_sniper_locus_sco~ba2740c0.iwi
+images\~~-gi_wpn_t7_sniper_locus_sco~fe4b203d.iwi
+images\~~-gi_wpn_t7_sniper_locus_sto~5a23f682.iwi
 images\~~-gm14_scope_lens_col2-rgb&~~3f428523.iwi
 images\~~-gm14_scope_lens_col2-rgb&~~e0c6c1e3.iwi
 images\~~-gm14_scope_lens_col-rgb&~-~29a49ef5.iwi
@@ -27,6 +38,7 @@ images\~~-gweapon_bullet_cos-rgb&~-r~cc706541.iwi
 images\~~-gweapon_cheytac_new_cos-rg~fb664682.iwi
 images\~~-gweapon_cheytac_new_scope_~11c96759.iwi
 images\~~-gweapon_desert_eagle_iw5_s~7b0781c3.iwi
+images\~~-gweapon_l115a3_rangefinder~3266ac73.iwi
 images\~~-gweapon_l118a_cos-rgb&~-rw~2ac9a98b.iwi
 images\~~-gweapon_laser_point_new_co~cd2428c3.iwi
 images\~~-gweapon_m14ebr_iw5_scope_c~30ebd094.iwi
@@ -35,6 +47,9 @@ images\~~-gweapon_m82_scope_lens_col~b3db5212.iwi
 images\~~-gweapon_remington_msr_bipo~505b6480.iwi
 images\~~-gweapon_remington_msr_cos-~35c72326.iwi
 images\~~-gweapon_remington_msr_scop~1a74e72b.iwi
+images\~~-gweapon_usr_bipod_spec-rgb~1110161a.iwi
+images\~~-gweapon_usr_scope_spec-rgb~0756a839.iwi
+images\~~-gweapon_usr_spec-rgb&~-rwe~4246869b.iwi
 images\~-g_-gmtl_t6_attach_bullet_col.iwi
 images\~-g_-gmtl_t6_wpn_taser_knuckles_col.iwi
 images\~-gacog_lens2_col.iwi
@@ -60,6 +75,7 @@ images\~-gmtl_weapon_remington700_col.iwi
 images\~-gmtl_weapon_rollon_acog_lens_green_c.iwi
 images\~-gmtl_weapon_scope_lens_col.iwi
 images\~-grifle_scope_lens_col.iwi
+images\~-gscope_reticle_milldot.iwi
 images\~-gthermal_lens2_col.iwi
 images\~-gweapon_acog_2_lens_col.iwi
 images\~-gweapon_acog_alpha_col.iwi
@@ -78,6 +94,8 @@ images\~-gweapon_cheytac_new_col.iwi
 images\~-gweapon_cheytac_new_scope_col.iwi
 images\~-gweapon_desert_eagle_iw5_col.iwi
 images\~-gweapon_knife_base_col.iwi
+images\~-gweapon_l115a3_rangefinder_col.iwi
+images\~-gweapon_l115a3_rangefinder_mult.iwi
 images\~-gweapon_l118a_col.iwi
 images\~-gweapon_laser_point_new_col.iwi
 images\~-gweapon_m14ebr_iw5_scope_col.iwi
@@ -86,6 +104,9 @@ images\~-gweapon_pistol_b2023r_col.iwi
 images\~-gweapon_remington_msr_bipod_col.iwi
 images\~-gweapon_remington_msr_col.iwi
 images\~-gweapon_remington_msr_scope_col.iwi
+images\~-gweapon_usr_bipod_col.iwi
+images\~-gweapon_usr_col.iwi
+images\~-gweapon_usr_scope_col.iwi
 images\b23r_killfeed.iwi
 images\detail_kaki_paint_02.iwi
 images\detail_tanned.iwi
@@ -135,9 +156,14 @@ images\weapon_bullet_nml.iwi
 images\weapon_cheytac_new_nml.iwi
 images\weapon_cheytac_new_scope_nml.iwi
 images\weapon_desert_eagle_iw5_nml.iwi
+images\weapon_l115a3_rangefinder_col.iwi
+images\weapon_l115a3_rangefinder_nml.iwi
 images\weapon_l118a_nml.iwi
 images\weapon_laser_point_new_nml.iwi
 images\weapon_m14ebr_iw5_scope_nml.iwi
 images\weapon_remington_msr_bipod_nml.iwi
 images\weapon_remington_msr_nml.iwi
 images\weapon_remington_msr_scope_nml.iwi
+images\weapon_usr_bipod_nml.iwi
+images\weapon_usr_nml.iwi
+images\weapon_usr_scope_nml.iwi

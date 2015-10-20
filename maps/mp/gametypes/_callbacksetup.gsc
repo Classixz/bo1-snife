@@ -51,7 +51,8 @@ CodeCallback_PlayerDamage(eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath
 		if(sWeapon == "m40a3_mp" ) { iDamage = 666; }	
 		if(sWeapon == "msr_mp" ) { iDamage = 666; }	
 		if(sWeapon == "storm_mp" ) { iDamage = 666; }	
-		if(sWeapon == "r700_zam" ) { iDamage = 666; }	
+		if(sWeapon == "r700_zam" ) { iDamage = 666; }
+		if(sWeapon == "usr_mp")	{iDamage = 200;}
 	
 	[[level.callbackPlayerDamage]](eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, timeOffset);
 }

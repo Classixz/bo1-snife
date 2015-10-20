@@ -5,11 +5,11 @@
 init()
 {
 	
-	level.DevMode = true; //Cheats
+	level.DevMode = false; //Cheats
 	level.useRandomNextGame = false;
 	level thread maps\mp\snife\_precache::precacheWeapons();
 	
-	level thread checkGametype();
+	//level thread checkGametype();
 	
 	
 	level thread onPlayerConnect();
@@ -125,13 +125,15 @@ doDvars()
 	setDvar("scr_disable_cac", 1);
 	setDvar("scr_disable_weapondrop", 1);
 	setDvar("scr_showperksonspawn", 0);
-	setDvar("g_allow_teamchange", 0);
+	setDvar("g_allow_teamchange", 1);
 	
-	if(level.DevMode) {
+	/*if(level.DevMode) {
 		setDvar("sv_cheats", 1);
 		setdvar("sv_vac", 0); 
 		//setDvar( "g_password", "fuckaina" ); 
-	} else setDvar("sv_cheats", 0);	setdvar("sv_vac", 1);
+	} else */
+	setDvar("sv_cheats", 0);	
+	setdvar("sv_vac", 1);
 }
 
 onPlayerConnect()
@@ -169,7 +171,10 @@ onPlayerSpawned()
 			//self SetWeaponAmmoClip("m1911_mp", 0);
 			//self SetWeaponAmmoStock("m1911_mp", 0);
 			if(self.primary == "none")
+			{
 				self OpenMenu(game[ "KnifeSelection_Menu" ]);
+				self EnableInvulnerability();
+			}
 			else
 			{
 				self GiveWeapon(self.primary);
@@ -191,7 +196,10 @@ onPlayerSpawned()
 		{
 			//self giveWeapon("psg1_mp");
 			if(self.primary == "none")
+			{
 				self OpenMenu(game[ "SniperSelection_Menu" ]);
+				self EnableInvulnerability();
+			}
 			else
 			{
 				self GiveWeapon(self.primary);
@@ -204,6 +212,9 @@ onPlayerSpawned()
 				self GiveWeapon("intervention_3k_zam");
 				self SwitchToWeapon("intervention_3k_zam");
 			}
+			self giveWeapon("m1911_mp");
+			self SetWeaponAmmoClip("m1911_mp", 0);
+			self SetWeaponAmmoStock("m1911_mp", 0);
 		}
 		else if(cur_gm == "ctf_snife" || cur_gm == "dem_snife" || cur_gm == "koth_snife")//snife
 		{
@@ -212,7 +223,10 @@ onPlayerSpawned()
 			//self SetWeaponAmmoClip("m1911_mp", 0);
 			//self SetWeaponAmmoStock("m1911_mp", 0);
 			if(self.primary == "none" && self.secondary == "none")
+			{
 				self OpenMenu(game[ "SnifeSelection_Menu" ]);
+				self EnableInvulnerability();
+			}
 			else
 			{
 				self GiveWeapon(self.primary);
@@ -235,16 +249,48 @@ onPlayerSpawned()
 		}
 
 		self giveWeapon("hatchet_mp");
-		self giveWeapon("tactical_insertion_mp");
 		self setPerk("specialty_sprintrecovery");
 		self setPerk("specialty_bulletpenetration");
 		//self setPerk("specialty_fastreload");
 		self setPerk("specialty_unlimitedsprint");
+		self setPerk("specialty_fastreload");
+		self setPerk("specialty_movefaster");
 		setDvar("perk_bulletPenetrationMultiplier", 4);
 
 		self thread tip();
 		self thread reset_class();
 		self thread pistol_ammo();
+		self thread QuickScope();
+	}
+}
+
+QuickScope(time)
+{
+	self endon( "disconnect" );
+
+    if( !isDefined( time ) || time < 0.03 ) 
+        time = 0.2;
+
+    adsTime = 0;
+
+    for( ;; )
+    {
+        if( self playerAds() == 1 )
+            adsTime ++;
+        else
+            adsTime = 0;
+
+        if( adsTime >= int( time / 0.03 ) )
+        {
+            adsTime = 0;
+            self allowAds( false );
+
+            while( self playerAds() > 0 ) 
+                wait( 0.05 );
+
+            self allowAds( true );
+        }
+        wait( 0.03 );		
 	}
 }
 
@@ -257,18 +303,20 @@ custom_killstreaks()
 	switch(self.custom_killstreak)
 	{
 		case 3:
-			self setPerk("specialty_movefaster");
-			self iPrintLnBold("^=3 ^7Killstreak - ^=Lightweight");
+			self setPerk("specialty_fallheight");
+			self iPrintLnBold("^=3 ^7Killstreak - ^=Lightweight Pro");
 		break;
 		case 5:
 			self setPerk("specialty_bulletaccuracy");
-			self setPerk("specialty_sprintrecovery");
 			self setPerk("specialty_fastmeleerecovery");
 			self iPrintLnBold("^=5 ^7Killstreak - ^=Steady Aim Pro");
 		break;
 		case 7:
-			self setPerk("specialty_scavenger");
-			self iPrintLnBold("^=7 ^7Killstreak - ^=Scavenger");
+			cur_gm = GetDvar("g_gametype");
+			if(cur_gm != "dm_knife" && cur_gm != "ctf_knife" && cur_gm != "sd_knife")
+				self GiveMaxAmmo(self.primary);
+			self GiveMaxAmmo("hatchet_mp");
+			self iPrintLnBold("^=7 ^7Killstreak - ^=Max Ammo");
 		break;
 		case 9:
 			self setPerk("specialty_bulletdamage");
@@ -277,8 +325,8 @@ custom_killstreaks()
 			self iPrintLnBold("^=9 ^7Killstreak - ^=Hardened Pro");
 		break;
 		case 11:
-			self setPerk("specialty_fallheight");
-			self iPrintLnBold("^=11 ^7Killstreak - ^=Lightweight Pro");
+			self setPerk("specialty_scavenger");
+			self iPrintLnBold("^=11 ^7Killstreak - ^=Scavenger");
 		break;
 		case 13:
 			self setPerk("specialty_quieter");
@@ -295,13 +343,16 @@ custom_killstreaks()
 			self iPrintLnBold("^=17 ^7Killstreak - Scout Pro");
 		break;
 		case 20:
-			self iPrintLnBold("^=20 kills? ^7Damn, stop hacking bruh.");
+			self iPrintLnBold("^=20 kills? ^7Damn, stop hacking bruh");
+		break;
+		case 25:
+			self iPrintLnBold("^=25 ^7Killstreak - Tactical Nuke... Just Kidding");
 		break;
 		case 30:
 			self iPrintLnBold("^=30 kills? ^7Watafaq");
 		break;
 		case 40:
-			self iPrintLnBold("^=40 kills? ^7FaZe on PC confirmed.");
+			self iPrintLnBold("^=40 kills? ^7FaZe on PC confirmed");
 		break;
 		case 50:
 			self iPrintLnBold("^=50 kills? ^7I'm done. I can't even...");
@@ -316,7 +367,7 @@ pistol_ammo()
 	while(1)
 	{
 		cWeap = self GetCurrentWeapon();
-		if(cWeap == "five_seven_tactical_zam" || cWeap == "b23r_tactical_zam" || cWeap == "deagle_tactical")
+		if(cWeap == "five_seven_tactical_zam" || cWeap == "b23r_tactical_zam" || cWeap == "deagle_tactical" || cWeap == "m1911_mp")
 		{
 			self SetWeaponAmmoClip(cWeap, 0);
 			self SetWeaponAmmoStock(cWeap, 0);
@@ -359,7 +410,8 @@ tip()
 randomNextGame()
 {
 	level waittill("select_snife");
-	
+	level thread maps\mp\snife\vote\_votemanger::startVote();
+	/*
 if(level.useRandomNextGame)
 {
 	iPrintLnBold("Selecting next weapon set...");
@@ -551,5 +603,5 @@ if(level.useRandomNextGame)
 else
 {
 	level thread maps\mp\snife\vote\_votemanger::startVote();
-}
+}*/
 }

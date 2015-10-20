@@ -22,7 +22,8 @@ main()
 	maps\mp\gametypes\_weapons::registerThrownGrenadeDudDvar( level.gameType, 0, 0, 1440 );
 	maps\mp\gametypes\_weapons::registerKillstreakDelay( level.gameType, 0, 0, 1440 );
 	maps\mp\gametypes\_globallogic::registerFriendlyFireDelay( level.gameType, 15, 0, 1440 );
-	
+	setDvar("scr_ctf_waverespawndelay", 10);
+
 	if ( IsDefined( game["ctf_overtime"] ) && game["ctf_overtime"] == 1 )
 	{
 		level.scorelimitMin = 1;

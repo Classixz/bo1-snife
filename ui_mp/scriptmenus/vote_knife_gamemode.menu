@@ -121,7 +121,7 @@
 			text            "^=1. ^7Free-For-All" 
 			decoration
 		}
-		execKey "1" { scriptMenuResponse "vote_gamemode_knife_ffa"; close None; }
+		execKey "1" { scriptMenuResponse "vote_gamemode_knife_ffa"; close vote_knife_gamemode }
 	
 		itemDef
 		{
@@ -138,7 +138,7 @@
 			text            "^=2. ^7Capture the Flag" 
 			decoration
 		}
-		execKey "2" { scriptMenuResponse "vote_gamemode_knife_ctf"; close None }
+		execKey "2" { scriptMenuResponse "vote_gamemode_knife_ctf"; close vote_knife_gamemode }
 	
 		itemDef
 		{
@@ -155,6 +155,6 @@
 			text            "^=3. ^7Search & Destroy" 
 			decoration
 		}
-		execKey "3" { scriptMenuResponse "vote_gamemode_knife_snd"; close None }
+		execKey "3" { scriptMenuResponse "vote_gamemode_knife_snd"; close vote_knife_gamemode }
 	}
 }

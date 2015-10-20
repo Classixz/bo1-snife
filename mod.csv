@@ -43,6 +43,7 @@ weapon,other/deagle_tactical
 weapon,other/creek_knife_mp
 weapon,other/karambit_knife_mp
 weapon,other/vorkuta_knife_mp
+weapon,snipers/usr_mp
 
 //Voting
 //menufile,ui_mp/scriptmenus/snife_vote.menu
