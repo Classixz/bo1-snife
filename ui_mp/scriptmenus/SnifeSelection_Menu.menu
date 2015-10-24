@@ -34,9 +34,9 @@
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "AWP", scriptMenuResponse "snife_awp"; close SnifeSelection_Menu, ;, ;, 1, ; )
         FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "DSR-50", scriptMenuResponse "snife_dsr50"; close SnifeSelection_Menu, ;, ;, 1, ; )
 		
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "snife_cheytac"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 11, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "snife_storm"; close SnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 12, "^=[^7VIP^=]^7 USR", scriptMenuResponse "snife_usr"; close SnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 10, "^=[^7VIP^=]^7 Intervention", scriptMenuResponse "snife_cheytac"; , ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 11, "^=[^7VIP^=]^7 Storm PSR", scriptMenuResponse "snife_storm"; , ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 12, "^=[^7VIP^=]^7 USR", scriptMenuResponse "snife_usr"; , ;, ;, 1, ; )
         //FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 12, "^=[^7VIP^=]^7 Locus", scriptMenuResponse "snife_locus"; close SnifeSelection_Menu, ;, ;, 1, ; )
 
 

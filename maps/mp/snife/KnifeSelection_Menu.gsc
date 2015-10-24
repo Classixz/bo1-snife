@@ -60,14 +60,13 @@ onMenuResponse()
 			if(self.vip == 1)
 			{
 				self giveWeapon("deagle_tactical");
-				self switchToWeapon("deagle_tactical");
 				self SetWeaponAmmoClip("deagle_tactical", 0);
 				self SetWeaponAmmoStock("deagle_tactical", 0);
+				self switchToWeapon("deagle_tactical");
 				self.primary = "deagle_tactical";
 				self DisableInvulnerability();
+				self CloseMenu();
 			}
-			else
-				self openMenu(game[ "KnifeSelection_Menu" ]);
 		}
 		else if(response == "knife_sog")
 		{
@@ -78,22 +77,30 @@ onMenuResponse()
 		}
 		else if(response == "knife_karambit")
 		{
-			self giveWeapon("karambit_knife_mp");
-			self switchToWeapon("karambit_knife_mp");
-			self.primary = "karambit_knife_mp";
-			self DisableInvulnerability();
+			if(self.vip == 1)
+			{
+				self giveWeapon("karambit_knife_mp");
+				self switchToWeapon("karambit_knife_mp");
+				self.primary = "karambit_knife_mp";
+				self DisableInvulnerability();
+				self CloseMenu();
+			}
 		}
 		else if(response == "knife_vorkuta")
 		{
-			if(self.vip == 1)
-			{
-				self giveWeapon("vorkuta_knife_mp");
-				self switchToWeapon("vorkuta_knife_mp");
-				self.primary = "vorkuta_knife_mp";
-				self DisableInvulnerability();
-			}
-			else
-				self openMenu(game[ "KnifeSelection_Menu" ]);
+			self giveWeapon("vorkuta_knife_mp");
+			self switchToWeapon("vorkuta_knife_mp");
+			self.primary = "vorkuta_knife_mp";
+			self DisableInvulnerability();
+		}
+		else if(response == "knife_reg")
+		{
+			self giveWeapon("m1911_mp");
+			self SetWeaponAmmoClip("m1911_mp", 0);
+			self SetWeaponAmmoStock("m1911_mp", 0);
+			self SwitchToWeapon("m1911_mp");
+			self.primary = "m1911_mp";
+			self DisableInvulnerability();
 		}
 	}
 }

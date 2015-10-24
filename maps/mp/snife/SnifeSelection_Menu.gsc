@@ -109,10 +109,9 @@ onMenuResponse()
 				self giveMaxAmmo("intervention_3k_zam");
 				self switchToWeapon("intervention_3k_zam");
 				self.primary = "intervention_3k_zam";
+				self CloseMenu();
 				self OpenMenu(game["SnifeSelection2_Menu"]);
 			}
-			else
-				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
 		else if(response == "snife_storm")
 		{
@@ -122,10 +121,9 @@ onMenuResponse()
 				self giveMaxAmmo("storm_mp");
 				self switchToWeapon("storm_mp");
 				self.primary = "storm_mp";
+				self CloseMenu();
 				self OpenMenu(game["SnifeSelection2_Menu"]);
 			}
-			else
-				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
 		else if(response == "snife_locus")
 		{
@@ -135,10 +133,9 @@ onMenuResponse()
 				self giveMaxAmmo("locus_mp");
 				self switchToWeapon("locus_mp");
 				self.primary = "locus_mp";
+				self CloseMenu();
 				self OpenMenu(game["SnifeSelection2_Menu"]);
 			}
-			else
-				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
 		else if(response == "snife_usr")
 		{
@@ -148,10 +145,9 @@ onMenuResponse()
 				self giveMaxAmmo("usr_mp");
 				self switchToWeapon("usr_mp");
 				self.primary = "usr_mp";
+				self CloseMenu();
 				self OpenMenu(game["SnifeSelection2_Menu"]);
 			}
-			else
-				self openMenu(game[ "SnifeSelection_Menu" ]);
 		}
 	}
 }

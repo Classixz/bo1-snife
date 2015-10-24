@@ -152,9 +152,9 @@
 			textfont		UI_FONT_NORMAL
 			textscale		.24
 			textaligny		8
-			text            "^=3. ^7Search & Destroy" 
+			text            "^=3. ^7Demolition" 
 			decoration
 		}
-		execKey "3" { scriptMenuResponse "vote_gamemode_snipe_snd"; close vote_snipe_gamemode }
+		execKey "3" { scriptMenuResponse "vote_gamemode_snipe_dem"; close vote_snipe_gamemode }
 	}
 }

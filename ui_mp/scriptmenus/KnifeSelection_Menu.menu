@@ -25,12 +25,13 @@
         
         CHOICE_MENU_TITLE( Knife Selection )
         
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "Five-Seven Tactical", scriptMenuResponse "knife_fsk"; close KnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Beretta 23R Tactical", scriptMenuResponse "knife_b23rk"; close KnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "SOG", scriptMenuResponse "knife_sog"; close KnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "Karambit", scriptMenuResponse "knife_karambit"; close KnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 6, "^=[^7VIP^=]^7 Vorkuta", scriptMenuResponse "knife_vorkuta"; close KnifeSelection_Menu, ;, ;, 1, ; )
-        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "^=[^7VIP^=]^7 Desert Eagle Tactical", scriptMenuResponse "knife_deaglek"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 1, "M1911", scriptMenuResponse "knife_reg"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 2, "Five-Seven Tactical", scriptMenuResponse "knife_fsk"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 3, "Beretta 23R Tactical", scriptMenuResponse "knife_b23rk"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 4, "SOG", scriptMenuResponse "knife_sog"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 5, "Vorkuta", scriptMenuResponse "knife_vorkuta"; close KnifeSelection_Menu, ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 7, "^=[^7VIP^=]^7 Karambit", scriptMenuResponse "knife_karambit"; , ;, ;, 1, ; )
+        FRAME_CHOICE_BUTTON_FOCUS_VIS_EX( 8, "^=[^7VIP^=]^7 Desert Eagle Tactical", scriptMenuResponse "knife_deaglek"; , ;, ;, 1, ; )
 
 
         // gradient_top

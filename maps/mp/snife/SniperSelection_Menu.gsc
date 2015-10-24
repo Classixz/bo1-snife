@@ -110,9 +110,8 @@ onMenuResponse()
 				self switchToWeapon("intervention_3k_zam");
 				self.primary = "intervention_3k_zam";
 				self DisableInvulnerability();
+				self CloseMenu();
 			}
-			else
-				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
 		else if(response == "snipe_storm")
 		{
@@ -123,9 +122,8 @@ onMenuResponse()
 				self switchToWeapon("storm_mp");
 				self.primary = "storm_mp";
 				self DisableInvulnerability();
+				self CloseMenu();
 			}
-			else
-				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
 		else if(response == "snipe_locus")
 		{
@@ -136,9 +134,8 @@ onMenuResponse()
 				self switchToWeapon("locus_mp");
 				self.primary = "locus_mp";
 				self DisableInvulnerability();
+				self CloseMenu();
 			}
-			else
-				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
 		else if(response == "snipe_usr")
 		{
@@ -149,9 +146,8 @@ onMenuResponse()
 				self switchToWeapon("usr_mp");
 				self.primary = "usr_mp";
 				self DisableInvulnerability();
+				self CloseMenu();
 			}
-			else
-				self openMenu(game[ "SniperSelection_Menu" ]);
 		}
 	}
 }

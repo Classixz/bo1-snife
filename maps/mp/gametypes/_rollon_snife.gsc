@@ -173,7 +173,7 @@ onPlayerSpawned()
 			if(self.primary == "none")
 			{
 				self OpenMenu(game[ "KnifeSelection_Menu" ]);
-				self EnableInvulnerability();
+				self thread testEnableInvulnerability();
 			}
 			else
 			{
@@ -189,6 +189,7 @@ onPlayerSpawned()
 				self SetWeaponAmmoClip("deagle_tactical", 0);
 				self SetWeaponAmmoStock("deagle_tactical", 0);
 				self SwitchToWeapon("deagle_tactical");
+				self DisableInvulnerability();
 			}
 			self giveWeapon("knife_mp");
 		}
@@ -198,7 +199,7 @@ onPlayerSpawned()
 			if(self.primary == "none")
 			{
 				self OpenMenu(game[ "SniperSelection_Menu" ]);
-				self EnableInvulnerability();
+				self thread testEnableInvulnerability();
 			}
 			else
 			{
@@ -211,6 +212,7 @@ onPlayerSpawned()
 				self TakeAllWeapons();
 				self GiveWeapon("intervention_3k_zam");
 				self SwitchToWeapon("intervention_3k_zam");
+				self DisableInvulnerability();
 			}
 			self giveWeapon("m1911_mp");
 			self SetWeaponAmmoClip("m1911_mp", 0);
@@ -225,7 +227,7 @@ onPlayerSpawned()
 			if(self.primary == "none" && self.secondary == "none")
 			{
 				self OpenMenu(game[ "SnifeSelection_Menu" ]);
-				self EnableInvulnerability();
+				self thread testEnableInvulnerability();
 			}
 			else
 			{
@@ -244,6 +246,7 @@ onPlayerSpawned()
 				self SetWeaponAmmoClip("deagle_tactical", 0);
 				self SetWeaponAmmoStock("deagle_tactical", 0);
 				self SwitchToWeapon("intervention_3k_zam");
+				self DisableInvulnerability();
 			}
 			self giveWeapon("knife_mp");
 		}
@@ -263,13 +266,21 @@ onPlayerSpawned()
 		self thread QuickScope();
 	}
 }
+testEnableInvulnerability()
+{
+	self EnableInvulnerability();
+	wait 3;
+	self DisableInvulnerability();
+	self DisableInvulnerability();
+	self DisableInvulnerability();
+}
 
 QuickScope(time)
 {
 	self endon( "disconnect" );
 
     if( !isDefined( time ) || time < 0.03 ) 
-        time = 0.2;
+        time = 0.375;
 
     adsTime = 0;
 

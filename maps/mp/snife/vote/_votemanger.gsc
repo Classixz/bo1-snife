@@ -154,43 +154,43 @@ startVote()
 	else if(level.WinningGamemode == "Snipe" )		
 	{
 			/* ======= DOM =======*/
-			if(level.VoteGametypeDOM > level.VoteGametypeKOTH && level.VoteGametypeDOM > level.VoteGametypeSnD )	
+			if(level.VoteGametypeDOM > level.VoteGametypeKOTH && level.VoteGametypeDOM > level.VoteGametypeDEM )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Domination";
 				setDvar("g_gametype", "dom_snipe");
 			}
-			else if(level.VoteGametypeKOTH == level.VoteGametypeSnD || level.VoteGametypeSnD == level.VoteGametypeKOTH )	
+			else if(level.VoteGametypeKOTH == level.VoteGametypeDEM || level.VoteGametypeDEM == level.VoteGametypeKOTH )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Domination";
 				setDvar("g_gametype", "dom_snipe");
 			}
 			/* ======= CTF =======*/
-			else if(level.VoteGametypeKOTH > level.VoteGametypeDOM && level.VoteGametypeKOTH > level.VoteGametypeSnD )	
+			else if(level.VoteGametypeKOTH > level.VoteGametypeDOM && level.VoteGametypeKOTH > level.VoteGametypeDEM )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Headquarters";
 				setDvar("g_gametype", "koth_snipe");
 			}
-			else if(level.VoteGametypeDOM == level.VoteGametypeSnD || level.VoteGametypeSnD == level.VoteGametypeDOM )	
+			else if(level.VoteGametypeDOM == level.VoteGametypeDEM || level.VoteGametypeDEM == level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
 				level.WinningGameType = "Headquarters";
 				setDvar("g_gametype", "koth_snipe");
 			}
 			/* ======= SnD =======*/
-			else if(level.VoteGametypeSnD > level.VoteGametypeKOTH && level.VoteGametypeSnD > level.VoteGametypeDOM )	
+			else if(level.VoteGametypeDEM > level.VoteGametypeKOTH && level.VoteGametypeDEM > level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
-				level.WinningGameType = "Search & Destroy";
-				setDvar("g_gametype", "sd_snipe");
+				level.WinningGameType = "Demolition";
+				setDvar("g_gametype", "dem_snipe");
 			}
 			else if(level.VoteGametypeKOTH == level.VoteGametypeDOM || level.VoteGametypeKOTH == level.VoteGametypeDOM )	
 			{
 				level.voteMenu = "vote_snife_map";
-				level.WinningGameType = "Search & Destroy";
-				setDvar("g_gametype", "sd_snipe");
+				level.WinningGameType = "Demolition";
+				setDvar("g_gametype", "dem_snipe");
 			}
 			/* ======= FAIL =======*/
 			else winnerDisplay("SYSTEM ERROR! 404");
@@ -363,7 +363,7 @@ nextGame(weapons,mapName,gameType)
 	level.nextgame_voteshow_gamemode.fontScale = 1;
 		
 	if(level.WinningGamemode == "Snife") level.nextgame_voteshow_gamemode SetText("Demolition: "+level.VoteGametypeDEM+", Capture the Flag: "+level.VoteGametypeCTF+" & Headquarters: "+level.VoteGametypeKOTH); //Snife
-	else if(level.WinningGamemode == "Snipe") level.nextgame_voteshow_gamemode SetText("Demolition: "+level.VoteGametypeDEM+", Capture the Flag: "+level.VoteGametypeCTF+" & Headquarters: "+level.VoteGametypeKOTH); //Snipe
+	else if(level.WinningGamemode == "Snipe") level.nextgame_voteshow_gamemode SetText("Demolition: "+level.VoteGametypeDEM+", Domination: "+level.VoteGametypeDOM+" & Headquarters: "+level.VoteGametypeKOTH); //Snipe
 	else if(level.WinningGamemode == "Knife") level.nextgame_voteshow_gamemode SetText("Free-For-All: "+level.VoteGametypeFFA+", Capture the Flag: "+level.VoteGametypeCTF+" & Search & Destroy: "+level.VoteGametypeSnD); //Knife
 	
 	level.nextgame_voteshow_gamemode.alignX = "center";

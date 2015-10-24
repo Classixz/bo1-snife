@@ -28427,3 +28427,886 @@
   1:13 J;0;11;[3arc]NoWay*
   1:53 ShutdownGame:
   1:53 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc] Lemon-sama 
+  0:03 J;0;2;[3arc]✪TheyCan'tEven
+  0:03 J;0;3;[3arc]x_x-Mayhem-x_x
+  0:03 J;0;4;[3arc]GreyhounD
+  0:04 J;0;5;[3arc]iliketarik
+  0:04 J;0;6;[3arc]RadimaX
+  0:04 J;0;7;[3arc]Camila
+  0:04 J;0;8;[3arc]Utamia56
+  0:05 J;0;9;[3arc]RM Slykuiper
+  0:05 J;0;10;[3arc]Moffy
+  0:05 J;0;11;[3arc]Startune
+  0:32 D;0;0;allies;Rollon;0;6;axis;[3arc]RadimaX;mpl_elbit_mp;41;MOD_HEAD_SHOT;head
+  0:33 D;0;0;allies;Rollon;0;6;axis;[3arc]RadimaX;mpl_elbit_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  0:33 K;0;0;allies;Rollon;0;6;axis;[3arc]RadimaX;mpl_elbit_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  0:53 D;0;0;allies;Rollon;0;4;axis;[3arc]GreyhounD;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+  0:54 D;0;0;allies;Rollon;0;6;axis;[3arc]RadimaX;mpl_elbit_mp;30;MOD_PISTOL_BULLET;torso_upper
+  1:11 K;0;0;allies;Rollon;0;4;axis;[3arc]GreyhounD;knife_mp;137;MOD_MELEE;torso_lower
+  1:15 D;0;0;allies;Rollon;0;4;axis;[3arc]GreyhounD;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;torso_lower
+  1:18 K;0;0;allies;Rollon;0;4;axis;[3arc]GreyhounD;fnfal_extclip_mp;50;MOD_RIFLE_BULLET;left_arm_upper
+  1:44 K;0;0;allies;Rollon;0;4;axis;[3arc]GreyhounD;knife_mp;135;MOD_MELEE;right_hand
+  2:17 ShutdownGame:
+  2:17 ------------------------------------------------------------
+  2:17 ------------------------------------------------------------
+  2:17 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:17 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:17 J;0;11;[3arc]Startune
+  2:17 J;0;10;[3arc]Moffy
+  2:17 J;0;9;[3arc]RM Slykuiper
+  2:17 J;0;8;[3arc]Utamia56
+  2:17 J;0;7;[3arc]Camila
+  2:17 J;0;6;[3arc]RadimaX
+  2:17 J;0;5;[3arc]iliketarik
+  2:17 J;0;4;[3arc]GreyhounD
+  2:17 J;0;3;[3arc]x_x-Mayhem-x_x
+  2:17 J;0;2;[3arc]TheyCan'tEven
+  2:17 J;0;1;[3arc]100 Lemon-sama 
+  2:17 J;0;0;Rollon
+  2:27 K;0;0;allies;Rollon;0;5;axis;[3arc]iliketarik;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  3:27 D;0;0;allies;Rollon;;-1;world;;none;6;MOD_FALLING;none
+  4:30 ExitLevel: executed
+  4:30 ShutdownGame:
+  4:30 ------------------------------------------------------------
+  4:30 ------------------------------------------------------------
+  4:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:30 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dom_snipe\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:32 J;0;0;Rollon
+  4:32 J;0;1;[3arc]HitmanVere
+  4:32 J;0;2;[3arc]ᴾᴮ Mystify
+  4:33 J;0;3;[3arc]chromastone10
+  4:33 J;0;4;[3arc][ALM]Rambo42088
+  4:33 J;0;5;[3arc]Rexy
+  4:33 J;0;6;[3arc]BlackBird
+  4:34 J;0;7;[3arc]MonkeyMatt
+  4:34 J;0;8;[3arc]a cool name
+  4:34 J;0;9;[3arc][ZM]45grand47
+  4:34 J;0;10;[3arc]darkflamingpyro
+  4:35 J;0;11;[3arc]rayyyyyyyy
+  7:12 ShutdownGame:
+  7:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]xRadaRx00
+  0:03 J;0;2;[3arc]CAMPERASS
+  0:03 J;0;3;[3arc]✪TheyCan'tEven
+  0:03 J;0;4;[3arc]x_x-Mayhem-x_x
+  0:04 J;0;5;[3arc]nightmare9022
+  0:04 J;0;6;[3arc]iliketarik
+  0:04 J;0;7;[3arc]RADAUSTIN27
+  0:04 J;0;8;[3arc]Camila
+  0:05 J;0;9;[3arc]Utamia56
+  0:05 J;0;10;[3arc]frozen.LiQuid @E
+  0:05 J;0;11;[3arc]nnb23czthunder
+  0:29 ShutdownGame:
+  0:29 ------------------------------------------------------------
+  0:29 ------------------------------------------------------------
+  0:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:29 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:30 J;0;0;Rollon
+  0:31 J;0;1;[3arc]gart3
+  0:31 J;0;2;[3arc]iKinG Ü
+  0:31 J;0;3;[3arc]»ÐøG«CO3Leff
+  0:31 J;0;4;[3arc]AghChew
+  0:32 J;0;5;[3arc]Dashie
+  0:32 J;0;6;[3arc]wutz it 2 yew
+  0:32 J;0;7;[3arc]TheApadayo
+  0:32 J;0;8;[3arc]NoahJ456
+  0:33 J;0;9;[3arc]Case
+  0:33 J;0;10;[3arc]ZCTxCHAOSx
+  0:33 J;0;11;[3arc]nnb23czthunder
+  0:56 D;0;1;allies;[3arc]gart3;0;11;axis;[3arc]nnb23czthunder;rpk_reflex_mp;55;MOD_HEAD_SHOT;head
+  0:56 K;0;1;allies;[3arc]gart3;0;11;axis;[3arc]nnb23czthunder;rpk_reflex_mp;55;MOD_HEAD_SHOT;head
+  1:03 D;0;7;axis;[3arc]TheApadayo;0;5;allies;[3arc]Dashie;mac11_elbit_mp;41;MOD_HEAD_SHOT;head
+  1:03 D;0;7;axis;[3arc]TheApadayo;0;5;allies;[3arc]Dashie;mac11_elbit_mp;30;MOD_PISTOL_BULLET;left_hand
+  1:03 K;0;7;axis;[3arc]TheApadayo;0;5;allies;[3arc]Dashie;mac11_elbit_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  1:05 D;0;9;axis;[3arc]Case;0;4;allies;[3arc]AghChew;aug_ir_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:05 D;0;9;axis;[3arc]Case;0;4;allies;[3arc]AghChew;aug_ir_mp;35;MOD_RIFLE_BULLET;torso_lower
+  1:05 K;0;9;axis;[3arc]Case;0;4;allies;[3arc]AghChew;aug_ir_mp;35;MOD_RIFLE_BULLET;torso_lower
+  1:05 Weapon;0;4;AghChew;scavenger_item_mp
+  1:06 Weapon;0;5;Dashie;scavenger_item_mp
+  1:06 D;0;0;axis;Rollon;0;5;allies;[3arc]Dashie;mac11_elbit_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:07 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_upper
+  1:08 D;0;1;allies;[3arc]gart3;0;11;axis;[3arc]nnb23czthunder;rpk_reflex_mp;40;MOD_RIFLE_BULLET;torso_upper
+  1:08 D;0;1;allies;[3arc]gart3;0;11;axis;[3arc]nnb23czthunder;rpk_reflex_mp;40;MOD_RIFLE_BULLET;torso_lower
+  1:09 D;0;11;axis;[3arc]nnb23czthunder;0;6;allies;[3arc]wutz it 2 yew;hs10dw_mp;25;MOD_PISTOL_BULLET;torso_lower
+  1:09 D;0;11;axis;[3arc]nnb23czthunder;0;6;allies;[3arc]wutz it 2 yew;hs10dw_mp;25;MOD_PISTOL_BULLET;torso_lower
+  1:09 D;0;11;axis;[3arc]nnb23czthunder;0;6;allies;[3arc]wutz it 2 yew;hs10dw_mp;24;MOD_PISTOL_BULLET;torso_lower
+  1:09 D;0;11;axis;[3arc]nnb23czthunder;0;6;allies;[3arc]wutz it 2 yew;hs10dw_mp;25;MOD_PISTOL_BULLET;torso_lower
+  1:09 K;0;11;axis;[3arc]nnb23czthunder;0;6;allies;[3arc]wutz it 2 yew;hs10dw_mp;25;MOD_PISTOL_BULLET;torso_lower
+  1:10 K;0;1;allies;[3arc]gart3;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+  1:11 Weapon;0;6;wutz it 2 yew;scavenger_item_mp
+  1:13 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;right_arm_lower
+  1:14 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;head
+  1:14 K;0;0;axis;Rollon;0;2;allies;[3arc]iKinG Ü;l96a1_acog_mp;105;MOD_RIFLE_BULLET;torso_lower
+  1:16 K;0;9;axis;[3arc]Case;0;2;allies;[3arc]iKinG Ü;knife_mp;138;MOD_MELEE;head
+  1:20 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;head
+  1:23 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_lower
+  1:25 D;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;left_arm_upper
+  1:25 D;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;torso_lower
+  1:25 D;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+  1:25 D;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+  1:29 K;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;kiparis_mp;30;MOD_RIFLE_BULLET;torso_upper
+  1:31 Weapon;0;10;ZCTxCHAOSx;scavenger_item_mp
+  1:33 K;0;6;allies;[3arc]wutz it 2 yew;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1004;MOD_MELEE;head
+  1:42 K;0;11;axis;[3arc]nnb23czthunder;0;1;allies;[3arc]gart3;deagle_tactical;1004;MOD_MELEE;head
+  1:43 D;0;6;allies;[3arc]wutz it 2 yew;0;8;axis;[3arc]NoahJ456;mp5k_extclip_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:43 D;0;6;allies;[3arc]wutz it 2 yew;0;8;axis;[3arc]NoahJ456;mp5k_extclip_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:43 K;0;6;allies;[3arc]wutz it 2 yew;0;8;axis;[3arc]NoahJ456;mp5k_extclip_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:47 K;0;7;axis;[3arc]TheApadayo;0;5;allies;[3arc]Dashie;deagle_tactical;1003;MOD_MELEE;right_hand
+  1:49 K;0;10;axis;[3arc]ZCTxCHAOSx;0;4;allies;[3arc]AghChew;deagle_tactical;1004;MOD_MELEE;neck
+  1:53 K;0;3;allies;[3arc]G«CO3Leff;0;8;axis;[3arc]NoahJ456;knife_mp;137;MOD_MELEE;neck
+  1:54 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_lower
+  1:55 K;0;6;allies;[3arc]wutz it 2 yew;0;8;axis;[3arc]NoahJ456;knife_mp;136;MOD_MELEE;head
+  1:56 K;0;9;axis;[3arc]Case;0;4;allies;[3arc]AghChew;deagle_tactical;1002;MOD_MELEE;torso_upper
+  1:56 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  1:58 K;0;11;axis;[3arc]nnb23czthunder;0;5;allies;[3arc]Dashie;deagle_tactical;1001;MOD_MELEE;torso_lower
+  1:59 K;0;7;axis;[3arc]TheApadayo;0;5;allies;[3arc]Dashie;deagle_tactical;1000;MOD_MELEE;right_hand
+  2:03 D;0;3;allies;[3arc]G«CO3Leff;0;8;axis;[3arc]NoahJ456;mp5k_extclip_mp;40;MOD_PISTOL_BULLET;torso_upper
+  2:04 D;0;3;allies;[3arc]G«CO3Leff;0;8;axis;[3arc]NoahJ456;mp5k_extclip_mp;55;MOD_HEAD_SHOT;head
+  2:06 K;0;5;allies;[3arc]Dashie;0;8;axis;[3arc]NoahJ456;knife_mp;135;MOD_MELEE;left_arm_upper
+  2:07 K;0;8;axis;[3arc]NoahJ456;0;1;allies;[3arc]gart3;deagle_tactical;1002;MOD_MELEE;head
+  2:08 K;0;11;axis;[3arc]nnb23czthunder;0;2;allies;[3arc]iKinG Ü;deagle_tactical;1004;MOD_MELEE;torso_lower
+  2:09 K;0;3;allies;[3arc]G«CO3Leff;0;9;axis;[3arc]Case;deagle_tactical;1003;MOD_MELEE;left_arm_upper
+  2:13 K;0;2;allies;[3arc]iKinG Ü;0;10;axis;[3arc]ZCTxCHAOSx;deagle_tactical;1004;MOD_MELEE;head
+  2:16 K;0;7;axis;[3arc]TheApadayo;0;1;allies;[3arc]gart3;deagle_tactical;1000;MOD_MELEE;right_arm_lower
+  2:21 K;0;3;allies;[3arc]G«CO3Leff;0;8;axis;[3arc]NoahJ456;deagle_tactical;1000;MOD_MELEE;head
+  2:22 K;0;8;axis;[3arc]NoahJ456;0;5;allies;[3arc]Dashie;deagle_tactical;1002;MOD_MELEE;right_arm_lower
+  2:26 K;0;11;axis;[3arc]nnb23czthunder;0;4;allies;[3arc]AghChew;deagle_tactical;1002;MOD_MELEE;torso_lower
+  2:28 K;0;4;allies;[3arc]AghChew;0;10;axis;[3arc]ZCTxCHAOSx;deagle_tactical;1003;MOD_MELEE;head
+  2:29 K;0;10;axis;[3arc]ZCTxCHAOSx;0;6;allies;[3arc]wutz it 2 yew;deagle_tactical;1001;MOD_MELEE;head
+  2:35 K;0;9;axis;[3arc]Case;0;1;allies;[3arc]gart3;deagle_tactical;1004;MOD_MELEE;torso_lower
+  2:36 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_lower
+  2:42 K;0;2;allies;[3arc]iKinG Ü;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1002;MOD_MELEE;left_hand
+  2:43 K;0;3;allies;[3arc]G«CO3Leff;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  2:44 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_upper
+  2:44 K;0;8;axis;[3arc]NoahJ456;0;4;allies;[3arc]AghChew;deagle_tactical;1004;MOD_MELEE;torso_lower
+  2:46 K;0;10;axis;[3arc]ZCTxCHAOSx;0;4;allies;[3arc]AghChew;deagle_tactical;1001;MOD_MELEE;torso_lower
+  2:58 ShutdownGame:
+  2:58 ------------------------------------------------------------
+  2:58 ------------------------------------------------------------
+  2:58 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:58 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:58 J;0;11;[3arc]nnb23czthunder
+  2:58 J;0;10;[3arc]ZCTxCHAOSx
+  2:58 J;0;9;[3arc]Case
+  2:58 J;0;8;[3arc]NoahJ456
+  2:58 J;0;7;[3arc]TheApadayo
+  2:58 J;0;6;[3arc]wutz it 2 yew
+  2:58 J;0;5;[3arc]Dashie
+  2:58 J;0;4;[3arc]AghChew
+  2:58 J;0;3;[3arc]G«CO3Leff
+  2:58 J;0;2;[3arc]iKinG Ü
+  2:58 J;0;1;[3arc]gart3
+  2:58 J;0;0;Rollon
+  3:06 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:07 K;0;3;allies;[3arc]G«CO3Leff;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;left_hand
+  3:08 K;0;1;allies;[3arc]gart3;0;8;axis;[3arc]NoahJ456;deagle_tactical;1004;MOD_MELEE;head
+  3:13 K;0;7;axis;[3arc]TheApadayo;0;6;allies;[3arc]wutz it 2 yew;deagle_tactical;1001;MOD_MELEE;head
+  3:17 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_lower
+  3:27 K;0;3;allies;[3arc]G«CO3Leff;0;10;axis;[3arc]ZCTxCHAOSx;deagle_tactical;1002;MOD_MELEE;right_arm_upper
+  3:29 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  3:29 K;0;8;axis;[3arc]NoahJ456;0;2;allies;[3arc]iKinG Ü;deagle_tactical;1003;MOD_MELEE;right_hand
+  3:30 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:32 K;0;6;allies;[3arc]wutz it 2 yew;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:35 K;0;10;axis;[3arc]ZCTxCHAOSx;0;1;allies;[3arc]gart3;deagle_tactical;1001;MOD_MELEE;left_arm_upper
+  3:36 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_lower
+  3:41 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:42 K;0;11;axis;[3arc]nnb23czthunder;0;5;allies;[3arc]Dashie;deagle_tactical;1000;MOD_MELEE;right_arm_upper
+  3:45 K;0;3;allies;[3arc]G«CO3Leff;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;right_arm_upper
+  3:50 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;left_arm_upper
+  3:51 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_lower
+  3:52 K;0;4;allies;[3arc]AghChew;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1001;MOD_MELEE;left_arm_lower
+  3:53 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;head
+  3:53 Weapon;0;0;Rollon;scavenger_item_mp
+  3:55 K;0;11;axis;[3arc]nnb23czthunder;0;5;allies;[3arc]Dashie;deagle_tactical;1001;MOD_MELEE;torso_upper
+  3:59 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_upper
+  3:59 Weapon;0;0;Rollon;scavenger_item_mp
+  4:00 Weapon;0;0;Rollon;scavenger_item_mp
+  4:04 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_lower
+  4:04 Weapon;0;0;Rollon;scavenger_item_mp
+  4:04 Weapon;0;0;Rollon;scavenger_item_mp
+  4:06 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  4:06 Weapon;0;0;Rollon;scavenger_item_mp
+  4:06 K;0;11;axis;[3arc]nnb23czthunder;0;3;allies;[3arc]G«CO3Leff;deagle_tactical;1001;MOD_MELEE;head
+  4:07 Weapon;0;0;Rollon;scavenger_item_mp
+  4:07 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_lower
+  4:08 Weapon;0;0;Rollon;scavenger_item_mp
+  4:15 K;0;3;allies;[3arc]G«CO3Leff;0;7;axis;[3arc]TheApadayo;deagle_tactical;1002;MOD_MELEE;right_hand
+  4:17 Weapon;0;0;Rollon;scavenger_item_mp
+  4:17 Weapon;0;0;Rollon;scavenger_item_mp
+  4:17 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_lower
+  4:17 Weapon;0;0;Rollon;scavenger_item_mp
+  4:22 K;0;2;allies;[3arc]iKinG Ü;0;8;axis;[3arc]NoahJ456;deagle_tactical;1004;MOD_MELEE;head
+  4:22 Weapon;0;0;Rollon;scavenger_item_mp
+  4:23 Weapon;0;0;Rollon;scavenger_item_mp
+  4:24 Weapon;0;0;Rollon;scavenger_item_mp
+  4:25 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_lower
+  4:25 Weapon;0;0;Rollon;scavenger_item_mp
+  4:26 K;0;3;allies;[3arc]G«CO3Leff;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;right_arm_upper
+  4:26 Weapon;0;0;Rollon;scavenger_item_mp
+  4:27 K;0;8;axis;[3arc]NoahJ456;0;1;allies;[3arc]gart3;deagle_tactical;1002;MOD_MELEE;torso_upper
+  4:32 K;0;4;allies;[3arc]AghChew;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1002;MOD_MELEE;head
+  4:33 Weapon;0;0;Rollon;scavenger_item_mp
+  4:33 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  4:34 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  4:34 Weapon;0;0;Rollon;scavenger_item_mp
+  4:37 K;0;2;allies;[3arc]iKinG Ü;0;11;axis;[3arc]nnb23czthunder;deagle_tactical;1002;MOD_MELEE;head
+  4:38 Weapon;0;0;Rollon;scavenger_item_mp
+  4:38 K;0;5;allies;[3arc]Dashie;0;7;axis;[3arc]TheApadayo;deagle_tactical;1000;MOD_MELEE;head
+  4:43 K;0;9;axis;[3arc]Case;0;3;allies;[3arc]G«CO3Leff;deagle_tactical;1000;MOD_MELEE;left_arm_lower
+  4:44 K;0;1;allies;[3arc]gart3;0;0;axis;Rollon;deagle_tactical;1003;MOD_MELEE;torso_lower
+  4:44 Weapon;0;0;Rollon;scavenger_item_mp
+  4:45 Weapon;0;0;Rollon;scavenger_item_mp
+  4:45 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;torso_upper
+  4:45 Weapon;0;0;Rollon;scavenger_item_mp
+  4:51 K;0;3;allies;[3arc]G«CO3Leff;0;0;axis;Rollon;deagle_tactical;1001;MOD_MELEE;torso_upper
+  4:51 Weapon;0;0;Rollon;scavenger_item_mp
+  4:53 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_upper
+  4:53 Weapon;0;0;Rollon;scavenger_item_mp
+  4:54 Weapon;0;0;Rollon;scavenger_item_mp
+  4:55 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;right_arm_upper
+  4:59 K;0;11;axis;[3arc]nnb23czthunder;0;4;allies;[3arc]AghChew;deagle_tactical;1000;MOD_MELEE;left_arm_lower
+  5:04 K;0;5;allies;[3arc]Dashie;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_upper
+  5:04 Weapon;0;0;Rollon;scavenger_item_mp
+  5:04 Weapon;0;0;Rollon;scavenger_item_mp
+  5:06 K;0;4;allies;[3arc]AghChew;0;0;axis;Rollon;deagle_tactical;1000;MOD_MELEE;torso_lower
+  5:06 Weapon;0;0;Rollon;scavenger_item_mp
+  5:08 K;0;6;allies;[3arc]wutz it 2 yew;0;0;axis;Rollon;deagle_tactical;1002;MOD_MELEE;torso_lower
+  5:08 Weapon;0;0;Rollon;scavenger_item_mp
+  5:10 K;0;2;allies;[3arc]iKinG Ü;0;0;axis;Rollon;deagle_tactical;1004;MOD_MELEE;right_arm_upper
+  5:10 Weapon;0;0;Rollon;scavenger_item_mp
+  5:12 K;0;3;allies;[3arc]G«CO3Leff;0;8;axis;[3arc]NoahJ456;deagle_tactical;1003;MOD_MELEE;torso_lower
+  5:13 K;0;10;axis;[3arc]ZCTxCHAOSx;0;1;allies;[3arc]gart3;deagle_tactical;1004;MOD_MELEE;left_arm_lower
+  6:14 ShutdownGame:
+  6:14 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]codru|Sanya
+  0:03 J;0;2;[3arc]javilabra2
+  0:03 J;0;3;[3arc]WTFAREMODZ
+  0:03 J;0;4;[3arc]shabba
+  0:04 J;0;5;[3arc]Christianr1987
+  0:04 J;0;6;[3arc]Fast
+  0:04 J;0;7;[3arc]RichGaming
+  0:04 J;0;8;[3arc]x_x-Mayhem-x_x
+  0:05 J;0;9;[3arc]HGN | Rich-7
+  0:05 J;0;10;[3arc]S6 Wast
+  0:05 J;0;11;[3arc]Utamia56
+  0:39 D;0;0;axis;Rollon;0;6;allies;[3arc]Fast;pm63_extclip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:41 D;0;0;axis;Rollon;0;6;allies;[3arc]Fast;pm63_extclip_mp;30;MOD_PISTOL_BULLET;neck
+  0:41 D;0;0;axis;Rollon;0;4;allies;[3arc]shabba;galil_silencer_mp;36;MOD_RIFLE_BULLET;neck
+  0:41 K;0;0;axis;Rollon;0;4;allies;[3arc]shabba;galil_silencer_mp;48;MOD_HEAD_SHOT;head
+  1:04 Weapon;0;8;x_x-Mayhem-x_x;scavenger_item_mp
+  1:10 ShutdownGame:
+  1:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Vonderhaar
+  0:03 J;0;1;[3arc]vKudster
+  0:03 J;0;2;[3arc]CAMPERASS
+  0:03 J;0;3;[3arc]spiderman500p
+  0:03 J;0;4;[3arc]SammyCustom
+  0:04 J;0;5;[3arc]420BLAZeit quiks
+  0:04 J;0;6;[3arc]CRICCO
+  0:04 J;0;7;[3arc]Xmonkey154X
+  0:04 J;0;8;[3arc]LeveleR
+  0:05 J;0;9;[3arc]Akuma2099
+  0:05 J;0;10;[3arc]frozen.LiQuid
+  0:05 J;0;11;[3arc]wzlr.ma
+  0:25 D;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:30 D;0;0;axis;Vonderhaar;0;1;allies;[3arc]vKudster;pm63_grip_mp;41;MOD_HEAD_SHOT;head
+  0:30 K;0;0;axis;Vonderhaar;0;1;allies;[3arc]vKudster;knife_mp;138;MOD_MELEE;torso_upper
+  0:44 D;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;40;MOD_RIFLE_BULLET;torso_upper
+  0:44 D;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;40;MOD_RIFLE_BULLET;torso_upper
+  0:44 K;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;40;MOD_RIFLE_BULLET;torso_lower
+  1:12 D;0;0;axis;Vonderhaar;0;5;allies;[3arc]420BLAZeit quiks;mp5k_acog_mp;10;MOD_PISTOL_BULLET;torso_lower
+  1:14 D;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;55;MOD_HEAD_SHOT;head
+  1:14 K;0;0;axis;Vonderhaar;0;4;allies;[3arc]SammyCustom;commando_mp;40;MOD_RIFLE_BULLET;neck
+  1:30 K;0;0;axis;Vonderhaar;0;1;allies;[3arc]vKudster;knife_mp;135;MOD_MELEE;torso_upper
+  1:36 Weapon;0;10;frozen.LiQuid;scavenger_item_mp
+  1:43 Weapon;0;10;frozen.LiQuid;scavenger_item_mp
+  1:47 K;0;0;axis;Vonderhaar;0;-1;axis;Vonderhaar;destructible_car_mp;205;MOD_EXPLOSIVE;none
+  2:05 ShutdownGame:
+  2:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]ZFF-Skullcrusher
+  0:03 J;0;2;[3arc]wutz it 2 yew
+  0:03 J;0;3;[3arc]FiveSevenHD
+  0:03 J;0;4;[3arc]Kill 'Em All!
+  0:04 J;0;5;[3arc]What game is thi
+  0:04 J;0;6;[3arc]tg.ramsy':....:'
+  0:04 J;0;7;[3arc]Raptor
+  0:04 J;0;8;[3arc]mkramrt
+  0:05 J;0;9;[3arc]Balanced Agie_
+  0:05 J;0;10;[3arc]frozen.zinpszn
+  0:05 J;0;11;[3arc]TheApadayo
+  0:32 D;0;0;axis;Rollon;0;3;allies;[3arc]FiveSevenHD;mp5k_reflex_mp;55;MOD_HEAD_SHOT;head
+  0:32 D;0;0;axis;Rollon;0;3;allies;[3arc]FiveSevenHD;mp5k_reflex_mp;40;MOD_PISTOL_BULLET;torso_upper
+  0:32 K;0;0;axis;Rollon;0;3;allies;[3arc]FiveSevenHD;mp5k_reflex_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:35 ShutdownGame:
+  0:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]wutz it 2 yew
+  0:03 J;0;2;[3arc]FiveSevenHD
+  0:03 J;0;3;[3arc]Kill 'Em All!
+  0:03 J;0;4;[3arc]What game is thi
+  0:04 J;0;5;[3arc]tg.ramsy':....:'
+  0:04 J;0;6;[3arc]Raptor
+  0:04 J;0;7;[3arc]mkramrt
+  0:04 J;0;8;[3arc]Balanced Agie_
+  0:05 J;0;9;[3arc]frozen.zinpszn
+  0:05 J;0;10;[3arc]TheApadayo
+  0:05 J;0;11;[3arc]Classixz
+  0:24 D;0;1;axis;[3arc]wutz it 2 yew;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_HEAD_SHOT;head
+  0:24 D;0;1;axis;[3arc]wutz it 2 yew;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:24 K;0;1;axis;[3arc]wutz it 2 yew;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_upper
+  0:25 D;0;3;axis;[3arc]Kill 'Em All!;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+  0:25 D;0;3;axis;[3arc]Kill 'Em All!;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;20;MOD_PISTOL_BULLET;left_leg_lower
+  0:26 D;0;3;axis;[3arc]Kill 'Em All!;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_upper
+  0:26 K;0;3;axis;[3arc]Kill 'Em All!;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:30 D;0;5;axis;[3arc]tg.ramsy':....:';0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:30 D;0;5;axis;[3arc]tg.ramsy':....:';0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:32 D;0;10;allies;[3arc]TheApadayo;0;6;axis;[3arc]Raptor;mpl_acog_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:34 D;0;5;axis;[3arc]tg.ramsy':....:';0;7;allies;[3arc]mkramrt;hs10_mp;26;MOD_HEAD_SHOT;head
+  0:34 K;0;5;axis;[3arc]tg.ramsy':....:';0;7;allies;[3arc]mkramrt;hs10_mp;23;MOD_PISTOL_BULLET;torso_lower
+  0:34 D;0;2;axis;[3arc]FiveSevenHD;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  0:34 D;0;2;axis;[3arc]FiveSevenHD;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  0:34 K;0;2;axis;[3arc]FiveSevenHD;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_upper
+  0:34 D;0;0;allies;Rollon;;-1;world;;none;33;MOD_FALLING;none
+  0:38 D;0;6;axis;[3arc]Raptor;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:38 D;0;6;axis;[3arc]Raptor;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:38 K;0;1;axis;[3arc]wutz it 2 yew;0;8;allies;[3arc]Balanced Agie_;knife_mp;138;MOD_MELEE;left_arm_upper
+  0:38 Weapon;0;8;Balanced Agie_;scavenger_item_mp
+  0:38 D;0;6;axis;[3arc]Raptor;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:38 K;0;6;axis;[3arc]Raptor;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:39 D;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;left_leg_upper
+  0:39 D;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:39 K;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:42 D;0;3;axis;[3arc]Kill 'Em All!;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  0:42 D;0;3;axis;[3arc]Kill 'Em All!;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:42 D;0;3;axis;[3arc]Kill 'Em All!;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:42 K;0;3;axis;[3arc]Kill 'Em All!;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_HEAD_SHOT;head
+  0:45 D;0;2;axis;[3arc]FiveSevenHD;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  0:45 D;0;2;axis;[3arc]FiveSevenHD;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  0:45 D;0;2;axis;[3arc]FiveSevenHD;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  0:45 K;0;2;axis;[3arc]FiveSevenHD;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:00 D;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;41;MOD_HEAD_SHOT;head
+  1:00 D;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;41;MOD_HEAD_SHOT;head
+  1:05 K;0;8;allies;[3arc]Balanced Agie_;0;3;axis;[3arc]Kill 'Em All!;deagle_tactical;1003;MOD_MELEE;torso_lower
+  1:05 D;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_upper
+  1:06 D;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  1:06 D;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:07 K;0;1;axis;[3arc]wutz it 2 yew;0;9;allies;[3arc]frozen.zinpszn;kiparisdw_mp;30;MOD_PISTOL_BULLET;right_hand
+  1:07 K;0;9;allies;[3arc]frozen.zinpszn;0;6;axis;[3arc]Raptor;deagle_tactical;1001;MOD_MELEE;torso_upper
+  1:12 D;0;6;axis;[3arc]Raptor;0;11;allies;[3arc]Classixz;rottweil72_mp;29;MOD_PISTOL_BULLET;right_leg_upper
+  1:12 D;0;6;axis;[3arc]Raptor;0;11;allies;[3arc]Classixz;rottweil72_mp;29;MOD_PISTOL_BULLET;right_leg_upper
+  1:12 D;0;6;axis;[3arc]Raptor;0;11;allies;[3arc]Classixz;rottweil72_mp;29;MOD_PISTOL_BULLET;torso_lower
+  1:12 K;0;6;axis;[3arc]Raptor;0;11;allies;[3arc]Classixz;rottweil72_mp;29;MOD_PISTOL_BULLET;torso_lower
+  1:12 D;0;4;axis;[3arc]What game is thi;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:12 D;0;4;axis;[3arc]What game is thi;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:12 D;0;4;axis;[3arc]What game is thi;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:12 K;0;4;axis;[3arc]What game is thi;0;7;allies;[3arc]mkramrt;hs10_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:15 K;0;2;axis;[3arc]FiveSevenHD;0;7;allies;[3arc]mkramrt;knife_mp;135;MOD_MELEE;head
+  1:18 K;0;5;axis;[3arc]tg.ramsy':....:';0;8;allies;[3arc]Balanced Agie_;deagle_tactical;1004;MOD_MELEE;right_arm_lower
+  1:24 D;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;left_hand
+  1:24 D;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_arm_lower
+  1:24 K;0;4;axis;[3arc]What game is thi;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:27 K;0;2;axis;[3arc]FiveSevenHD;0;8;allies;[3arc]Balanced Agie_;deagle_tactical;1000;MOD_MELEE;torso_lower
+  1:33 K;0;5;axis;[3arc]tg.ramsy':....:';0;10;allies;[3arc]TheApadayo;knife_mp;135;MOD_MELEE;neck
+  1:33 Weapon;0;10;TheApadayo;scavenger_item_mp
+  1:35 K;0;8;allies;[3arc]Balanced Agie_;0;4;axis;[3arc]What game is thi;deagle_tactical;1000;MOD_MELEE;head
+  1:36 K;0;10;allies;[3arc]TheApadayo;0;3;axis;[3arc]Kill 'Em All!;deagle_tactical;1001;MOD_MELEE;head
+  1:37 D;0;3;axis;[3arc]Kill 'Em All!;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_hand
+  1:37 D;0;3;axis;[3arc]Kill 'Em All!;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_hand
+  1:37 K;0;3;axis;[3arc]Kill 'Em All!;0;11;allies;[3arc]Classixz;rottweil72_mp;40;MOD_PISTOL_BULLET;right_hand
+  1:45 K;0;11;allies;[3arc]Classixz;0;4;axis;[3arc]What game is thi;deagle_tactical;1003;MOD_MELEE;left_arm_upper
+  1:46 K;0;9;allies;[3arc]frozen.zinpszn;0;6;axis;[3arc]Raptor;deagle_tactical;1004;MOD_MELEE;torso_lower
+  1:46 ShutdownGame:
+  1:46 ------------------------------------------------------------
+  1:46 ------------------------------------------------------------
+  1:46 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:46 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:48 J;0;0;Rollon
+  1:48 J;0;1;[3arc]Nigerian Prince
+  1:49 J;0;2;[3arc]Big poker
+  1:49 J;0;3;[3arc]S1ippery Jim
+  1:49 J;0;4;[3arc]ElTitoPricus
+  1:49 J;0;5;[3arc]JustAPrank™
+  1:50 J;0;6;[3arc]x_x-Mayhem-x_x
+  1:50 J;0;7;[3arc]BEAsty
+  1:50 J;0;8;[3arc]GreyhounD
+  1:50 J;0;9;[3arc]Fast
+  1:51 J;0;10;[3arc]Blue Eyes White 
+  1:51 J;0;11;[3arc]Once
+  2:17 D;0;10;axis;[3arc]Blue Eyes White ;0;4;allies;[3arc]ElTitoPricus;commando_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:17 D;0;4;allies;[3arc]ElTitoPricus;0;10;axis;[3arc]Blue Eyes White ;spas_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  2:17 D;0;4;allies;[3arc]ElTitoPricus;0;10;axis;[3arc]Blue Eyes White ;spas_silencer_mp;30;MOD_PISTOL_BULLET;torso_lower
+  2:17 D;0;4;allies;[3arc]ElTitoPricus;0;10;axis;[3arc]Blue Eyes White ;spas_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  2:17 K;0;4;allies;[3arc]ElTitoPricus;0;10;axis;[3arc]Blue Eyes White ;spas_silencer_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  2:18 D;0;10;axis;[3arc]Blue Eyes White ;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  2:18 D;0;10;axis;[3arc]Blue Eyes White ;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;torso_lower
+  2:18 K;0;10;axis;[3arc]Blue Eyes White ;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;torso_lower
+  2:27 D;0;8;axis;[3arc]GreyhounD;0;2;allies;[3arc]Big poker;aug_silencer_mp;26;MOD_RIFLE_BULLET;left_leg_upper
+  2:31 D;0;4;allies;[3arc]ElTitoPricus;0;8;axis;[3arc]GreyhounD;m16_gl_mp;40;MOD_RIFLE_BULLET;torso_upper
+  2:32 D;0;4;allies;[3arc]ElTitoPricus;0;8;axis;[3arc]GreyhounD;m16_gl_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:32 K;0;4;allies;[3arc]ElTitoPricus;0;8;axis;[3arc]GreyhounD;m16_gl_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:33 D;0;11;axis;[3arc]Once;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+  2:34 D;0;11;axis;[3arc]Once;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  2:34 D;0;11;axis;[3arc]Once;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  2:34 D;0;8;axis;[3arc]GreyhounD;0;5;allies;[3arc]JustAPrank™;ak74u_gl_mp;35;MOD_PISTOL_BULLET;torso_upper
+  2:35 K;0;11;axis;[3arc]Once;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  2:35 D;0;8;axis;[3arc]GreyhounD;0;5;allies;[3arc]JustAPrank™;ak74u_gl_mp;35;MOD_PISTOL_BULLET;torso_upper
+  2:35 K;0;8;axis;[3arc]GreyhounD;0;5;allies;[3arc]JustAPrank™;ak74u_gl_mp;48;MOD_HEAD_SHOT;head
+  2:40 D;0;2;allies;[3arc]Big poker;0;7;axis;[3arc]BEAsty;fnfal_silencer_mp;50;MOD_RIFLE_BULLET;torso_lower
+  2:41 D;0;7;axis;[3arc]BEAsty;0;2;allies;[3arc]Big poker;aug_silencer_mp;31;MOD_RIFLE_BULLET;torso_lower
+  2:41 D;0;7;axis;[3arc]BEAsty;0;2;allies;[3arc]Big poker;aug_silencer_mp;35;MOD_RIFLE_BULLET;torso_lower
+  2:41 K;0;2;allies;[3arc]Big poker;0;7;axis;[3arc]BEAsty;fnfal_silencer_mp;50;MOD_RIFLE_BULLET;torso_lower
+  2:42 K;0;7;axis;[3arc]BEAsty;0;6;allies;[3arc]x_x-Mayhem-x_x;knife_mp;137;MOD_MELEE;left_arm_upper
+  2:48 D;0;5;allies;[3arc]JustAPrank™;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;torso_lower
+  2:51 D;0;5;allies;[3arc]JustAPrank™;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;torso_upper
+  2:51 K;0;5;allies;[3arc]JustAPrank™;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;torso_lower
+  2:51 D;0;10;axis;[3arc]Blue Eyes White ;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;torso_upper
+  2:51 D;0;10;axis;[3arc]Blue Eyes White ;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;torso_upper
+  2:52 K;0;10;axis;[3arc]Blue Eyes White ;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;48;MOD_HEAD_SHOT;head
+  2:55 K;0;6;allies;[3arc]x_x-Mayhem-x_x;0;11;axis;[3arc]Once;deagle_tactical;1003;MOD_MELEE;left_arm_lower
+  2:58 K;0;11;axis;[3arc]Once;0;2;allies;[3arc]Big poker;deagle_tactical;1001;MOD_MELEE;head
+  3:03 D;0;7;axis;[3arc]BEAsty;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;40;MOD_RIFLE_BULLET;torso_lower
+  3:03 D;0;7;axis;[3arc]BEAsty;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;40;MOD_RIFLE_BULLET;torso_lower
+  3:03 K;0;7;axis;[3arc]BEAsty;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;55;MOD_HEAD_SHOT;head
+  3:05 K;0;10;axis;[3arc]Blue Eyes White ;0;3;allies;[3arc]S1ippery Jim;knife_mp;137;MOD_MELEE;head
+  3:07 K;0;2;allies;[3arc]Big poker;0;8;axis;[3arc]GreyhounD;deagle_tactical;1001;MOD_MELEE;head
+  3:12 K;0;8;axis;[3arc]GreyhounD;0;1;allies;[3arc]Nigerian Prince;knife_mp;135;MOD_MELEE;head
+  3:13 D;0;11;axis;[3arc]Once;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:14 D;0;11;axis;[3arc]Once;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  3:14 K;0;11;axis;[3arc]Once;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;right_leg_lower
+  3:16 K;0;5;allies;[3arc]JustAPrank™;0;7;axis;[3arc]BEAsty;deagle_tactical;1000;MOD_MELEE;torso_upper
+  3:17 D;0;7;axis;[3arc]BEAsty;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;34;MOD_RIFLE_BULLET;left_leg_upper
+  3:17 D;0;7;axis;[3arc]BEAsty;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:17 K;0;7;axis;[3arc]BEAsty;0;1;allies;[3arc]Nigerian Prince;enfield_reflex_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:19 D;0;1;allies;[3arc]Nigerian Prince;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;torso_upper
+  3:19 D;0;1;allies;[3arc]Nigerian Prince;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;right_arm_upper
+  3:19 D;0;4;allies;[3arc]ElTitoPricus;0;9;axis;[3arc]Fast;famas_mp;33;MOD_RIFLE_BULLET;left_leg_upper
+  3:19 K;0;1;allies;[3arc]Nigerian Prince;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;neck
+  3:19 D;0;4;allies;[3arc]ElTitoPricus;0;9;axis;[3arc]Fast;famas_mp;29;MOD_RIFLE_BULLET;torso_lower
+  3:19 K;0;10;axis;[3arc]Blue Eyes White ;0;6;allies;[3arc]x_x-Mayhem-x_x;deagle_tactical;1004;MOD_MELEE;torso_lower
+  3:20 D;0;4;allies;[3arc]ElTitoPricus;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+  3:20 K;0;4;allies;[3arc]ElTitoPricus;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:22 D;0;6;allies;[3arc]x_x-Mayhem-x_x;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+  3:22 D;0;6;allies;[3arc]x_x-Mayhem-x_x;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;right_hand
+  3:22 K;0;6;allies;[3arc]x_x-Mayhem-x_x;0;9;axis;[3arc]Fast;famas_mp;35;MOD_RIFLE_BULLET;right_hand
+  3:24 K;0;2;allies;[3arc]Big poker;0;9;axis;[3arc]Fast;knife_mp;137;MOD_MELEE;head
+  3:31 D;0;11;axis;[3arc]Once;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  3:31 D;0;11;axis;[3arc]Once;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  3:31 K;0;11;axis;[3arc]Once;0;3;allies;[3arc]S1ippery Jim;m16_ir_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  3:32 K;0;7;axis;[3arc]BEAsty;0;4;allies;[3arc]ElTitoPricus;deagle_tactical;1003;MOD_MELEE;head
+  3:34 K;0;10;axis;[3arc]Blue Eyes White ;0;5;allies;[3arc]JustAPrank™;deagle_tactical;1004;MOD_MELEE;head
+  3:35 K;0;3;allies;[3arc]S1ippery Jim;0;8;axis;[3arc]GreyhounD;deagle_tactical;1003;MOD_MELEE;head
+  3:36 K;0;1;allies;[3arc]Nigerian Prince;0;9;axis;[3arc]Fast;knife_mp;139;MOD_MELEE;head
+  3:40 K;0;0;axis;Rollon;0;4;allies;[3arc]ElTitoPricus;deagle_tactical;1001;MOD_MELEE;head
+  3:41 K;0;8;axis;[3arc]GreyhounD;0;5;allies;[3arc]JustAPrank™;deagle_tactical;1001;MOD_MELEE;head
+  3:44 K;0;5;allies;[3arc]JustAPrank™;0;7;axis;[3arc]BEAsty;deagle_tactical;1001;MOD_MELEE;torso_lower
+  3:47 K;0;10;axis;[3arc]Blue Eyes White ;0;1;allies;[3arc]Nigerian Prince;deagle_tactical;1000;MOD_MELEE;head
+  3:47 K;0;9;axis;[3arc]Fast;0;2;allies;[3arc]Big poker;deagle_tactical;1002;MOD_MELEE;head
+  3:47 ShutdownGame:
+  3:47 ------------------------------------------------------------
+  3:47 ------------------------------------------------------------
+  3:47 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:47 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:49 J;0;0;Rollon
+  3:49 J;0;1;[3arc]TempShrimp
+  3:49 J;0;2;[3arc]Camila
+  3:49 J;0;3;[3arc]GreyhounD
+  3:50 J;0;4;[3arc]Balanced Agie_
+  3:50 J;0;5;[3arc]iNnFeR
+  3:50 J;0;6;[3arc]JustAPrank™
+  3:50 J;0;7;[3arc]JJ
+  3:51 J;0;8;[3arc]RichGaming
+  3:51 J;0;9;[3arc]Case
+  3:51 J;0;10;[3arc]ILovePotatoes
+  3:51 J;0;11;[3arc]Optimus
+  4:13 D;0;6;axis;[3arc]JustAPrank™;0;8;allies;[3arc]RichGaming;stoner63_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:13 D;0;6;axis;[3arc]JustAPrank™;0;8;allies;[3arc]RichGaming;stoner63_mp;55;MOD_HEAD_SHOT;head
+  4:14 K;0;6;axis;[3arc]JustAPrank™;0;8;allies;[3arc]RichGaming;stoner63_mp;55;MOD_HEAD_SHOT;head
+  4:17 D;0;7;allies;[3arc]Unknown Soldier 7;0;3;axis;[3arc]GreyhounD;ithaca_grip_mp;40;MOD_PISTOL_BULLET;torso_lower
+  4:17 D;0;7;allies;[3arc]Unknown Soldier 7;0;3;axis;[3arc]GreyhounD;ithaca_grip_mp;40;MOD_PISTOL_BULLET;left_arm_upper
+  4:17 K;0;7;allies;[3arc]Unknown Soldier 7;0;3;axis;[3arc]GreyhounD;ithaca_grip_mp;40;MOD_PISTOL_BULLET;torso_lower
+  4:17 D;0;3;axis;[3arc]GreyhounD;0;11;allies;[3arc]Optimus;enfield_dualclip_mp;35;MOD_RIFLE_BULLET;neck
+  4:17 D;0;3;axis;[3arc]GreyhounD;0;11;allies;[3arc]Optimus;enfield_dualclip_mp;48;MOD_HEAD_SHOT;head
+  4:17 K;0;3;axis;[3arc]GreyhounD;0;10;allies;[3arc]ILovePotatoes;m16_silencer_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:20 D;0;4;axis;[3arc]Balanced Agie_;0;9;allies;[3arc]Case;mpl_dualclip_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  4:20 D;0;9;allies;[3arc]Case;0;4;axis;[3arc]Balanced Agie_;pm63_rf_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  4:20 D;0;9;allies;[3arc]Case;0;4;axis;[3arc]Balanced Agie_;pm63_rf_mp;30;MOD_PISTOL_BULLET;torso_lower
+  4:20 D;0;9;allies;[3arc]Case;0;4;axis;[3arc]Balanced Agie_;pm63_rf_mp;30;MOD_PISTOL_BULLET;left_hand
+  4:20 K;0;9;allies;[3arc]Case;0;4;axis;[3arc]Balanced Agie_;pm63_rf_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  4:21 ShutdownGame:
+  4:21 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\dem_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]Bloody
+  0:03 J;0;2;[3arc]Dashie
+  0:03 J;0;3;[3arc]wutz it 2 yew
+  0:03 J;0;4;[3arc]Zeref Dragneel
+  0:04 J;0;5;[3arc]Case
+  0:04 J;0;6;[3arc]RiotSurfer
+  0:04 J;0;7;[3arc]ErrorZz*
+  0:04 J;0;8;[3arc]mkramrt
+  0:05 J;0;9;[3arc]Octobus
+  0:05 J;0;10;[3arc]Zander
+  0:05 J;0;11;[3arc]Dust
+  0:26 K;0;0;allies;Rollon;0;3;axis;[3arc]wutz it 2 yew;knife_mp;136;MOD_MELEE;torso_upper
+  0:40 ShutdownGame:
+  0:40 ------------------------------------------------------------
+  0:40 ------------------------------------------------------------
+  0:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:40 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:41 J;0;0;Rollon
+  0:42 J;0;1;[3arc][ZM] BigDave
+  0:42 J;0;2;[3arc]Zander
+  0:42 J;0;3;[3arc]iamindy33
+  0:43 J;0;4;[3arc]Estima'
+  0:43 J;0;5;[3arc]420BLAZeit quiks
+  0:43 J;0;6;[3arc]iKill
+  0:43 J;0;7;[3arc]iNnFeR
+  0:44 J;0;8;[3arc]shabba
+  0:44 J;0;9;[3arc]WRATH
+  0:44 J;0;10;[3arc]a cool name
+  0:44 J;0;11;[3arc]Utamia56
+  1:03 D;0;8;axis;[3arc]shabba;0;3;allies;[3arc]iamindy33;mac11_rf_mp;22;MOD_PISTOL_BULLET;left_leg_upper
+  1:03 D;0;8;axis;[3arc]shabba;0;3;allies;[3arc]iamindy33;mac11_rf_mp;23;MOD_PISTOL_BULLET;left_leg_upper
+  1:03 D;0;8;axis;[3arc]shabba;0;3;allies;[3arc]iamindy33;mac11_rf_mp;24;MOD_PISTOL_BULLET;left_leg_upper
+  1:05 K;0;3;allies;[3arc]iamindy33;0;0;axis;Rollon;vorkuta_knife_mp;1001;MOD_MELEE;right_arm_upper
+  1:06 D;0;1;allies;[3arc]ZM] BigDave;0;11;axis;[3arc]Utamia56;m60_acog_mp;50;MOD_RIFLE_BULLET;right_hand
+  1:06 K;0;2;allies;[3arc]Zander;0;0;axis;Rollon;vorkuta_knife_mp;1004;MOD_MELEE;torso_lower
+  1:06 K;0;11;axis;[3arc]Utamia56;0;1;allies;[3arc]ZM] BigDave;knife_mp;136;MOD_MELEE;torso_lower
+  1:09 K;0;6;allies;[3arc]iKill;0;0;axis;Rollon;vorkuta_knife_mp;1003;MOD_MELEE;head
+  1:09 D;0;4;allies;[3arc]Estima';0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  1:09 D;0;4;allies;[3arc]Estima';0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  1:10 K;0;4;allies;[3arc]Estima';0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;right_hand
+  1:19 D;0;5;allies;[3arc]420BLAZeit quiks;0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_upper
+  1:19 D;0;5;allies;[3arc]420BLAZeit quiks;0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:19 K;0;5;allies;[3arc]420BLAZeit quiks;0;8;axis;[3arc]shabba;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:21 K;0;8;axis;[3arc]shabba;0;3;allies;[3arc]iamindy33;deagle_tactical;1001;MOD_MELEE;right_arm_upper
+  1:22 K;0;1;allies;[3arc]ZM] BigDave;0;0;axis;Rollon;vorkuta_knife_mp;1000;MOD_MELEE;torso_upper
+  1:28 Weapon;0;10;a cool name;scavenger_item_mp
+  1:30 K;0;10;axis;[3arc]a cool name;0;3;allies;[3arc]iamindy33;deagle_tactical;1002;MOD_MELEE;head
+  1:31 K;0;6;allies;[3arc]iKill;0;0;axis;Rollon;vorkuta_knife_mp;1002;MOD_MELEE;torso_upper
+  1:33 K;0;2;allies;[3arc]Zander;0;0;axis;Rollon;vorkuta_knife_mp;1001;MOD_MELEE;torso_lower
+  1:34 K;0;11;axis;[3arc]Utamia56;0;4;allies;[3arc]Estima';deagle_tactical;1000;MOD_MELEE;head
+  1:34 K;0;5;allies;[3arc]420BLAZeit quiks;0;0;axis;Rollon;vorkuta_knife_mp;1003;MOD_MELEE;right_arm_lower
+  1:35 D;0;1;allies;[3arc]ZM] BigDave;0;7;axis;[3arc]iNnFeR;aug_elbit_mp;48;MOD_HEAD_SHOT;head
+  1:35 K;0;7;axis;[3arc]iNnFeR;0;1;allies;[3arc]ZM] BigDave;deagle_tactical;1001;MOD_MELEE;torso_upper
+  1:36 K;0;4;allies;[3arc]Estima';0;0;axis;Rollon;vorkuta_knife_mp;1001;MOD_MELEE;right_arm_upper
+  1:38 K;0;3;allies;[3arc]iamindy33;0;0;axis;Rollon;vorkuta_knife_mp;1004;MOD_MELEE;right_arm_upper
+  1:42 K;0;1;allies;[3arc]ZM] BigDave;0;0;axis;Rollon;hatchet_mp;340;MOD_IMPACT;left_leg_upper
+  1:48 K;0;4;allies;[3arc]Estima';0;0;axis;Rollon;vorkuta_knife_mp;1001;MOD_MELEE;torso_upper
+  1:48 Weapon;0;0;Rollon;scavenger_item_mp
+  1:52 K;0;8;axis;[3arc]shabba;0;2;allies;[3arc]Zander;deagle_tactical;1004;MOD_MELEE;left_arm_upper
+  1:53 Weapon;0;0;Rollon;scavenger_item_mp
+  1:55 K;0;9;axis;[3arc]WRATH;0;5;allies;[3arc]420BLAZeit quiks;deagle_tactical;1001;MOD_MELEE;head
+  1:55 K;0;2;allies;[3arc]Zander;0;10;axis;[3arc]a cool name;deagle_tactical;1003;MOD_MELEE;head
+  1:57 Weapon;0;0;Rollon;scavenger_item_mp
+  1:57 K;0;5;allies;[3arc]420BLAZeit quiks;0;0;axis;Rollon;vorkuta_knife_mp;1002;MOD_MELEE;torso_upper
+  1:57 Weapon;0;0;Rollon;scavenger_item_mp
+  2:02 K;0;11;axis;[3arc]Utamia56;0;1;allies;[3arc]ZM] BigDave;deagle_tactical;1000;MOD_MELEE;left_hand
+  2:09 K;0;7;axis;[3arc]iNnFeR;0;6;allies;[3arc]iKill;deagle_tactical;1004;MOD_MELEE;right_arm_upper
+  2:13 K;0;0;axis;Rollon;0;2;allies;[3arc]Zander;deagle_tactical;1000;MOD_MELEE;left_hand
+  2:18 K;0;1;allies;[3arc]ZM] BigDave;0;9;axis;[3arc]WRATH;deagle_tactical;1002;MOD_MELEE;right_hand
+  2:20 K;0;0;axis;Rollon;0;4;allies;[3arc]Estima';deagle_tactical;1003;MOD_MELEE;torso_lower
+  2:22 ShutdownGame:
+  2:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:03 J;0;0;Rollon
+  0:03 J;0;1;[3arc]★MeReTriX★
+  0:04 J;0;2;[3arc]-MUFN-CornDoge
+  0:04 J;0;3;[3arc]Kaisar #Retired
+  0:04 J;0;4;[3arc]Startune
+  0:04 J;0;5;[3arc]RiotSurfer
+  0:05 J;0;6;[3arc]Cock
+  0:05 J;0;7;[3arc]Lord Bordi
+  0:05 J;0;8;[3arc]TheZombieProject
+  0:05 J;0;9;[3arc]frozen.zinpszn
+  0:06 J;0;10;[3arc]AghChew
+  0:06 J;0;11;[3arc]Utamia56
+  0:22 K;0;1;axis;[3arc]MeReTriX★;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_lower
+  0:23 K;0;6;axis;[3arc]Cock;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_lower
+  0:30 K;0;4;axis;[3arc]Startune;0;0;allies;Rollon;awp_mp;666;MOD_HEAD_SHOT;head
+  0:31 D;0;5;axis;[3arc]RiotSurfer;0;9;allies;[3arc]frozen.zinpszn;mac11_reflex_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  0:31 D;0;5;axis;[3arc]RiotSurfer;0;9;allies;[3arc]frozen.zinpszn;mac11_reflex_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:31 D;0;5;axis;[3arc]RiotSurfer;0;9;allies;[3arc]frozen.zinpszn;mac11_reflex_mp;30;MOD_PISTOL_BULLET;torso_lower
+  0:31 K;0;5;axis;[3arc]RiotSurfer;0;9;allies;[3arc]frozen.zinpszn;mac11_reflex_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  0:31 K;0;1;axis;[3arc]MeReTriX★;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_upper
+  0:34 K;0;6;axis;[3arc]Cock;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_lower
+  0:35 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;25;MOD_PISTOL_BULLET;torso_upper
+  0:35 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;25;MOD_PISTOL_BULLET;torso_upper
+  0:36 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;22;MOD_PISTOL_BULLET;torso_upper
+  0:36 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;22;MOD_PISTOL_BULLET;torso_upper
+  0:37 K;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;27;MOD_PISTOL_BULLET;left_hand
+  0:37 K;0;2;axis;[3arc]MUFN-CornDoge;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_lower
+  0:39 Weapon;0;9;frozen.zinpszn;scavenger_item_mp
+  0:40 K;0;4;axis;[3arc]Startune;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;neck
+  0:42 K;0;1;axis;[3arc]MeReTriX★;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_upper
+  0:46 Weapon;0;9;frozen.zinpszn;scavenger_item_mp
+  0:48 Weapon;0;9;frozen.zinpszn;scavenger_item_mp
+  0:48 D;0;6;axis;[3arc]Cock;0;8;allies;[3arc]TheZombieProject;pm63_grip_mp;30;MOD_PISTOL_BULLET;torso_upper
+  0:48 D;0;6;axis;[3arc]Cock;0;8;allies;[3arc]TheZombieProject;pm63_grip_mp;41;MOD_HEAD_SHOT;head
+  0:48 K;0;6;axis;[3arc]Cock;0;8;allies;[3arc]TheZombieProject;pm63_grip_mp;41;MOD_HEAD_SHOT;head
+  0:48 K;0;2;axis;[3arc]MUFN-CornDoge;0;0;allies;Rollon;awp_mp;666;MOD_RIFLE_BULLET;torso_lower
+  0:53 Weapon;0;7;Lord Bordi;scavenger_item_mp
+  0:53 Weapon;0;7;Lord Bordi;scavenger_item_mp
+  1:00 D;0;1;axis;[3arc]MeReTriX★;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  1:00 D;0;1;axis;[3arc]MeReTriX★;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+  1:00 D;0;1;axis;[3arc]MeReTriX★;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  1:00 K;0;1;axis;[3arc]MeReTriX★;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  1:02 Weapon;0;7;Lord Bordi;scavenger_item_mp
+  1:04 K;0;0;allies;Rollon;0;6;axis;[3arc]Cock;intervention_3k_zam;666;MOD_HEAD_SHOT;head
+  1:10 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  1:10 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  1:10 D;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  1:10 K;0;3;axis;[3arc]Kaisar #Retired;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  1:15 K;0;10;allies;[3arc]AghChew;0;5;axis;[3arc]RiotSurfer;intervention_3k_zam;666;MOD_RIFLE_BULLET;torso_lower
+  1:17 D;0;6;axis;[3arc]Cock;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_hand
+  1:17 D;0;6;axis;[3arc]Cock;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;left_hand
+  1:17 D;0;6;axis;[3arc]Cock;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:17 K;0;6;axis;[3arc]Cock;0;7;allies;[3arc]Lord Bordi;pm63dw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:18 ShutdownGame:
+  1:18 ------------------------------------------------------------
+  1:18 ------------------------------------------------------------
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:18 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:20 J;0;0;Rollon
+  1:20 J;0;1;[3arc]ZiiC<3
+  1:21 J;0;2;[3arc]gtlad
+  1:21 J;0;3;[3arc]Scubatroopa
+  1:21 J;0;4;[3arc]-MUFN-CornDoge
+  1:21 J;0;5;[3arc]Bluebird
+  1:22 J;0;6;[3arc](GLI) Kyota Craf
+  1:22 J;0;7;[3arc]WhiteDevil
+  1:22 J;0;8;[3arc]ChucK
+  1:22 J;0;9;[3arc]Raptor
+  1:23 J;0;10;[3arc]Neko.cpp
+  1:23 J;0;11;[3arc]PrestigeisKey
+  1:46 ShutdownGame:
+  1:46 ------------------------------------------------------------
+  1:46 ------------------------------------------------------------
+  1:46 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:46 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_snife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:48 J;0;0;Rollon
+  1:48 J;0;1;[3arc][ZM] Darkflame
+  1:48 J;0;2;[3arc]DerrickV
+  1:49 J;0;3;[3arc]lilrifa
+  1:49 J;0;4;[3arc]#AlphaWolf14
+  1:49 J;0;5;[3arc](ZM) Vonderhaar
+  1:49 J;0;6;[3arc]✪Diirty
+  1:50 J;0;7;[3arc]TheSinEater
+  1:50 J;0;8;[3arc]BladeDoesntFail
+  1:50 J;0;9;[3arc]420BLAZeit quiks
+  1:50 J;0;10;[3arc][ZM]holty007
+  1:51 J;0;11;[3arc]Xmonkey154X
+  2:03 ShutdownGame:
+  2:03 ------------------------------------------------------------
+  2:03 ------------------------------------------------------------
+  2:03 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:03 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:05 J;0;0;Rollon
+  2:05 J;0;1;[3arc]nnb23czthunder
+  2:06 J;0;2;[3arc]+ EterNal + Dark
+  2:06 J;0;3;[3arc]iamindy33
+  2:06 J;0;4;[3arc]iliketarik
+  2:06 J;0;5;[3arc]Once
+  2:07 J;0;6;[3arc]Erneld
+  2:07 J;0;7;[3arc]UU-S horky*
+  2:07 J;0;8;[3arc]Bloody
+  2:07 J;0;9;[3arc]darkflamingpyro
+  2:08 J;0;10;[3arc]Dashie
+  2:08 J;0;11;[3arc]TimeToEliminate
+  2:30 D;0;10;allies;[3arc]Dashie;0;5;axis;[3arc]Once;pm63_rf_mp;25;MOD_PISTOL_BULLET;right_arm_lower
+  2:33 D;0;5;axis;[3arc]Once;0;7;allies;[3arc]UU-S horky*;m60_acog_mp;50;MOD_RIFLE_BULLET;torso_lower
+  2:33 D;0;1;axis;[3arc]nnb23czthunder;0;7;allies;[3arc]UU-S horky*;m60_acog_mp;31;MOD_RIFLE_BULLET;torso_lower
+  2:33 D;0;7;allies;[3arc]UU-S horky*;0;3;axis;[3arc]iamindy33;rottweil72_mp;40;MOD_PISTOL_BULLET;left_arm_lower
+  2:33 D;0;7;allies;[3arc]UU-S horky*;0;3;axis;[3arc]iamindy33;rottweil72_mp;40;MOD_PISTOL_BULLET;right_arm_lower
+  2:33 K;0;7;allies;[3arc]UU-S horky*;0;3;axis;[3arc]iamindy33;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  2:34 D;0;3;axis;[3arc]iamindy33;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_foot
+  2:34 D;0;3;axis;[3arc]iamindy33;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_lower
+  2:35 K;0;3;axis;[3arc]iamindy33;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  2:47 D;0;3;axis;[3arc]iamindy33;0;9;allies;[3arc]darkflamingpyro;pm63_rf_mp;41;MOD_HEAD_SHOT;head
+  2:47 K;0;3;axis;[3arc]iamindy33;0;9;allies;[3arc]darkflamingpyro;knife_mp;136;MOD_MELEE;torso_upper
+  2:48 D;0;7;allies;[3arc]UU-S horky*;0;1;axis;[3arc]nnb23czthunder;hk21_elbit_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:48 D;0;7;allies;[3arc]UU-S horky*;0;1;axis;[3arc]nnb23czthunder;hk21_elbit_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:48 D;0;1;axis;[3arc]nnb23czthunder;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  2:48 K;0;7;allies;[3arc]UU-S horky*;0;1;axis;[3arc]nnb23czthunder;hk21_elbit_mp;40;MOD_RIFLE_BULLET;left_arm_lower
+  2:49 D;0;1;axis;[3arc]nnb23czthunder;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_leg_upper
+  2:49 K;0;1;axis;[3arc]nnb23czthunder;0;8;allies;[3arc]Bloody;hk21_elbit_mp;40;MOD_RIFLE_BULLET;left_leg_upper
+  3:00 D;0;11;allies;[3arc]TimeToEliminate;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  3:01 D;0;10;allies;[3arc]Dashie;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;41;MOD_HEAD_SHOT;head
+  3:01 D;0;10;allies;[3arc]Dashie;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;41;MOD_HEAD_SHOT;head
+  3:01 K;0;10;allies;[3arc]Dashie;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  3:05 D;0;9;allies;[3arc]darkflamingpyro;0;6;axis;[3arc]Erneld;aug_mk_mp;35;MOD_RIFLE_BULLET;torso_upper
+  3:06 D;0;9;allies;[3arc]darkflamingpyro;0;6;axis;[3arc]Erneld;aug_mk_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:06 K;0;9;allies;[3arc]darkflamingpyro;0;6;axis;[3arc]Erneld;aug_mk_mp;35;MOD_RIFLE_BULLET;torso_lower
+  3:09 K;0;6;axis;[3arc]Erneld;0;0;allies;Rollon;vorkuta_knife_mp;1003;MOD_MELEE;torso_lower
+  3:10 D;0;7;allies;[3arc]UU-S horky*;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:10 D;0;7;allies;[3arc]UU-S horky*;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:10 K;0;0;allies;Rollon;0;3;axis;[3arc]iamindy33;deagle_tactical;1001;MOD_MELEE;head
+  3:10 D;0;7;allies;[3arc]UU-S horky*;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;torso_lower
+  3:11 K;0;7;allies;[3arc]UU-S horky*;0;2;axis;[3arc]EterNal + Dark;mpl_grip_mp;30;MOD_PISTOL_BULLET;right_arm_upper
+  3:11 Weapon;0;5;Once;scavenger_item_mp
+  3:13 Weapon;0;4;iliketarik;scavenger_item_mp
+  3:15 ShutdownGame:
+  3:15 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_UU_snife\g_gametype\ctf_knife\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\Rollon's Sniping\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_pure\1\sv_ranked\0\sv_security\1\sv_voice\1\xblive_basictraining\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;Rollon
+  0:03 J;0;1;[3arc]Nebotezatu'
+  0:03 J;0;2;[3arc]Utamia56
+  0:03 J;0;3;[3arc]LuNatiC' Equinox
+  0:03 J;0;4;[3arc]Gunoftruth
+  0:04 J;0;5;[3arc](GLI) Kyota Craf
+  0:04 J;0;6;[3arc]RiotSurfer
+  0:04 J;0;7;[3arc]javilabra2
+  0:04 J;0;8;[3arc]Warhawk
+  0:05 J;0;9;[3arc]Spacecraftz
+  0:05 J;0;10;[3arc]NoWay*
+  0:05 J;0;11;[3arc]vKudster
+  0:25 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  0:26 D;0;0;allies;Rollon;;-1;world;;none;24;MOD_FALLING;none
+  0:28 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;left_arm_upper
+  0:28 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_lower
+  0:29 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_lower
+  0:35 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_upper
+  0:36 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_lower
+  0:38 D;0;0;allies;Rollon;0;3;axis;[3arc]LuNatiC' Equinox;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:38 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_lower
+  0:38 D;0;0;allies;Rollon;0;3;axis;[3arc]LuNatiC' Equinox;rpk_extclip_mp;40;MOD_RIFLE_BULLET;right_arm_lower
+  0:38 K;0;0;allies;Rollon;0;3;axis;[3arc]LuNatiC' Equinox;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_lower
+  0:38 D;0;11;allies;[3arc]vKudster;0;2;axis;[3arc]Utamia56;aug_ft_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:39 D;0;9;allies;[3arc]Spacecraftz;0;2;axis;[3arc]Utamia56;aug_ft_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+  0:43 D;0;11;allies;[3arc]vKudster;0;2;axis;[3arc]Utamia56;aug_ft_mp;48;MOD_HEAD_SHOT;head
+  0:43 K;0;11;allies;[3arc]vKudster;0;2;axis;[3arc]Utamia56;aug_ft_mp;48;MOD_HEAD_SHOT;head
+  0:44 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;right_arm_lower
+  0:45 D;0;8;allies;[3arc]Warhawk;0;3;axis;[3arc]LuNatiC' Equinox;rpk_extclip_mp;40;MOD_RIFLE_BULLET;torso_upper
+  0:47 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;hatchet_mp;340;MOD_IMPACT;torso_lower
+  0:48 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;torso_lower
+  0:48 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;right_arm_upper
+  0:52 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_upper
+  0:53 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_upper
+  0:58 D;0;7;allies;[3arc]javilabra2;0;2;axis;[3arc]Utamia56;aug_ft_mp;35;MOD_RIFLE_BULLET;torso_upper
+  0:58 D;0;7;allies;[3arc]javilabra2;0;2;axis;[3arc]Utamia56;aug_ft_mp;35;MOD_RIFLE_BULLET;torso_upper
+  0:58 K;0;7;allies;[3arc]javilabra2;0;2;axis;[3arc]Utamia56;aug_ft_mp;35;MOD_RIFLE_BULLET;torso_lower
+  0:59 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  1:02 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;torso_lower
+  1:03 K;0;1;axis;[3arc]Nebotezatu';0;11;allies;[3arc]vKudster;deagle_tactical;1003;MOD_MELEE;head
+  1:03 K;0;11;allies;[3arc]vKudster;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1001;MOD_MELEE;left_arm_upper
+  1:05 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_upper
+  1:07 K;0;8;allies;[3arc]Warhawk;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1001;MOD_MELEE;head
+  1:11 D;0;3;axis;[3arc]LuNatiC' Equinox;0;9;allies;[3arc]Spacecraftz;pm63_extclip_mp;30;MOD_PISTOL_BULLET;torso_upper
+  1:11 D;0;3;axis;[3arc]LuNatiC' Equinox;0;9;allies;[3arc]Spacecraftz;pm63_extclip_mp;41;MOD_HEAD_SHOT;head
+  1:14 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  1:15 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_lower
+  1:15 Weapon;0;0;Rollon;scavenger_item_mp
+  1:15 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;torso_lower
+  1:15 Weapon;0;0;Rollon;scavenger_item_mp
+  1:17 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  1:17 Weapon;0;0;Rollon;scavenger_item_mp
+  1:17 Weapon;0;0;Rollon;scavenger_item_mp
+  1:18 Weapon;0;0;Rollon;scavenger_item_mp
+  1:26 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;hatchet_mp;340;MOD_IMPACT;torso_upper
+  1:26 K;0;10;allies;[3arc]NoWay*;0;2;axis;[3arc]Utamia56;deagle_tactical;1000;MOD_MELEE;head
+  1:27 Weapon;0;0;Rollon;scavenger_item_mp
+  1:28 Weapon;0;0;Rollon;scavenger_item_mp
+  1:28 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  1:28 Weapon;0;0;Rollon;scavenger_item_mp
+  1:29 K;0;11;allies;[3arc]vKudster;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1001;MOD_MELEE;right_arm_upper
+  1:29 Weapon;0;0;Rollon;scavenger_item_mp
+  1:34 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;right_arm_upper
+  1:34 Weapon;0;0;Rollon;scavenger_item_mp
+  1:38 K;0;0;allies;Rollon;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1002;MOD_MELEE;left_arm_upper
+  1:41 K;0;7;allies;[3arc]javilabra2;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1004;MOD_MELEE;head
+  1:41 K;0;10;allies;[3arc]NoWay*;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1002;MOD_MELEE;torso_upper
+  1:42 K;0;8;allies;[3arc]Warhawk;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1000;MOD_MELEE;head
+  1:50 K;0;3;axis;[3arc]LuNatiC' Equinox;0;7;allies;[3arc]javilabra2;deagle_tactical;1003;MOD_MELEE;left_arm_upper
+  1:50 K;0;0;allies;Rollon;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1000;MOD_MELEE;torso_lower
+  1:59 K;0;8;allies;[3arc]Warhawk;0;1;axis;[3arc]Nebotezatu';deagle_tactical;1000;MOD_MELEE;head
+  2:07 K;0;1;axis;[3arc]Nebotezatu';0;10;allies;[3arc]NoWay*;deagle_tactical;1001;MOD_MELEE;head
+  2:07 K;0;9;allies;[3arc]Spacecraftz;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1002;MOD_MELEE;torso_lower
+  2:18 K;0;10;allies;[3arc]NoWay*;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1002;MOD_MELEE;head
+  2:18 K;0;0;allies;Rollon;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1003;MOD_MELEE;torso_upper
+  2:20 K;0;7;allies;[3arc]javilabra2;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1004;MOD_MELEE;right_arm_upper
+  2:21 K;0;11;allies;[3arc]vKudster;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1004;MOD_MELEE;head
+  2:27 K;0;4;axis;[3arc]Gunoftruth;0;8;allies;[3arc]Warhawk;deagle_tactical;1000;MOD_MELEE;torso_upper
+  2:30 K;0;8;allies;[3arc]Warhawk;0;2;axis;[3arc]Utamia56;deagle_tactical;1004;MOD_MELEE;head
+  2:32 K;0;5;axis;[3arc]GLI) Kyota Craf;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;left_arm_upper
+  2:33 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;right_arm_lower
+  2:37 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  2:38 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;left_arm_upper
+  2:38 K;0;9;allies;[3arc]Spacecraftz;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1002;MOD_MELEE;neck
+  2:43 K;0;1;axis;[3arc]Nebotezatu';0;10;allies;[3arc]NoWay*;deagle_tactical;1004;MOD_MELEE;left_arm_lower
+  2:46 K;0;3;axis;[3arc]LuNatiC' Equinox;0;11;allies;[3arc]vKudster;deagle_tactical;1004;MOD_MELEE;neck
+  2:49 K;0;5;axis;[3arc]GLI) Kyota Craf;0;11;allies;[3arc]vKudster;deagle_tactical;1003;MOD_MELEE;torso_lower
+  2:57 K;0;7;allies;[3arc]javilabra2;0;1;axis;[3arc]Nebotezatu';deagle_tactical;1000;MOD_MELEE;right_leg_upper
+  2:57 K;0;9;allies;[3arc]Spacecraftz;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1000;MOD_MELEE;torso_upper
+  3:03 K;0;8;allies;[3arc]Warhawk;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1004;MOD_MELEE;torso_upper
+  3:06 K;0;10;allies;[3arc]NoWay*;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1003;MOD_MELEE;head
+  3:07 K;0;0;allies;Rollon;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1000;MOD_MELEE;left_arm_upper
+  3:13 K;0;6;axis;[3arc]RiotSurfer;0;9;allies;[3arc]Spacecraftz;deagle_tactical;1003;MOD_MELEE;head
+  3:18 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1003;MOD_MELEE;left_arm_upper
+  3:20 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1003;MOD_MELEE;right_arm_upper
+  3:22 K;0;4;axis;[3arc]Gunoftruth;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_upper
+  3:22 K;0;9;allies;[3arc]Spacecraftz;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1001;MOD_MELEE;head
+  3:23 K;0;8;allies;[3arc]Warhawk;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1002;MOD_MELEE;head
+  3:31 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_lower
+  3:33 K;0;4;axis;[3arc]Gunoftruth;0;10;allies;[3arc]NoWay*;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:33 K;0;11;allies;[3arc]vKudster;0;1;axis;[3arc]Nebotezatu';deagle_tactical;1001;MOD_MELEE;torso_upper
+  3:44 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_lower
+  3:45 K;0;7;allies;[3arc]javilabra2;0;2;axis;[3arc]Utamia56;deagle_tactical;1002;MOD_MELEE;torso_upper
+  3:46 K;0;9;allies;[3arc]Spacecraftz;0;1;axis;[3arc]Nebotezatu';deagle_tactical;1001;MOD_MELEE;head
+  3:46 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;karambit_knife_mp;1003;MOD_MELEE;left_arm_upper
+  3:50 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_lower
+  3:53 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1003;MOD_MELEE;torso_upper
+  3:58 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;left_arm_upper
+  3:58 K;0;10;allies;[3arc]NoWay*;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1001;MOD_MELEE;torso_upper
+  3:59 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;karambit_knife_mp;1003;MOD_MELEE;right_arm_upper
+  4:00 K;0;4;axis;[3arc]Gunoftruth;0;11;allies;[3arc]vKudster;deagle_tactical;1002;MOD_MELEE;left_arm_upper
+  4:02 K;0;5;axis;[3arc]GLI) Kyota Craf;0;8;allies;[3arc]Warhawk;deagle_tactical;1004;MOD_MELEE;head
+  4:05 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;right_arm_upper
+  4:05 Weapon;0;0;Rollon;scavenger_item_mp
+  4:14 K;0;11;allies;[3arc]vKudster;0;6;axis;[3arc]RiotSurfer;deagle_tactical;1001;MOD_MELEE;right_arm_lower
+  4:16 K;0;10;allies;[3arc]NoWay*;0;2;axis;[3arc]Utamia56;deagle_tactical;1002;MOD_MELEE;torso_upper
+  4:17 K;0;4;axis;[3arc]Gunoftruth;0;7;allies;[3arc]javilabra2;deagle_tactical;1002;MOD_MELEE;right_hand
+  4:21 K;0;0;allies;Rollon;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1004;MOD_MELEE;torso_lower
+  4:29 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;torso_lower
+  4:31 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;hatchet_mp;340;MOD_IMPACT;torso_lower
+  4:31 K;0;4;axis;[3arc]Gunoftruth;0;7;allies;[3arc]javilabra2;deagle_tactical;1002;MOD_MELEE;torso_lower
+  4:33 K;0;11;allies;[3arc]vKudster;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1002;MOD_MELEE;right_hand
+  4:33 K;0;1;axis;[3arc]Nebotezatu';0;0;allies;Rollon;karambit_knife_mp;1004;MOD_MELEE;torso_upper
+  4:35 K;0;7;allies;[3arc]javilabra2;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1003;MOD_MELEE;head
+  4:36 K;0;3;axis;[3arc]LuNatiC' Equinox;0;0;allies;Rollon;karambit_knife_mp;1002;MOD_MELEE;torso_upper
+  4:39 K;0;6;axis;[3arc]RiotSurfer;0;0;allies;Rollon;karambit_knife_mp;1001;MOD_MELEE;torso_upper
+  4:41 K;0;2;axis;[3arc]Utamia56;0;0;allies;Rollon;karambit_knife_mp;1000;MOD_MELEE;torso_lower
+  4:42 K;0;0;allies;Rollon;0;4;axis;[3arc]Gunoftruth;deagle_tactical;1000;MOD_MELEE;torso_upper
+  4:49 K;0;4;axis;[3arc]Gunoftruth;0;9;allies;[3arc]Spacecraftz;deagle_tactical;1003;MOD_MELEE;head
+  4:51 K;0;7;allies;[3arc]javilabra2;0;5;axis;[3arc]GLI) Kyota Craf;deagle_tactical;1001;MOD_MELEE;left_arm_upper
+  4:51 K;0;11;allies;[3arc]vKudster;0;3;axis;[3arc]LuNatiC' Equinox;deagle_tactical;1004;MOD_MELEE;right_arm_upper
+  4:51 ShutdownGame:
+  4:51 ------------------------------------------------------------
